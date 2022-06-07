@@ -31,7 +31,21 @@ Schedule 2 employers are employers that self-insure the provisions of benefits u
 and administration costs for the workers’ claims.
 
 
-2. Labour force 2015-2019 data from the Government of Canada repository.
+2. Inspection files ranging from 2015-2019
+
+Inspection files were obtained from the Goverment of Canada Open data portal and contain information about
+inspector field visits including visit date, type, case type and status, workplace ID, name, location and postal 
+code, industry code and description.  In cases where the inspector locates a contravention to the Occupational
+Health and Safety Act, addtional details of the contravener are included (ID, Name, Role) as well as the 
+order type and status, the act, regulation (ID, Year, Name), section, subsection and clause violated.
+Each entry in the dataset corresponds to visit and/or and order made.  A workplace with multiple contraventions
+during a single visit will have multiple entries.
+
+These data file were used to obtain the proportion of visits by industry.  The entries were first collapsed by 
+visit date and workplace location to obtain a count of the number of unique visits made by inspectors.
+
+
+3. Labour force 2015-2019 data from the Government of Canada repository.
 
 The data included the labour force in 1000s of individuals by industry based on the first two
 digits of the North American Industry Classification System (NAICS).  A file containing the NAICS structure 

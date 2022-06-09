@@ -5,30 +5,25 @@ CIND820 Project - Kinga
 
 Using the Report builder on the WSIB by the numbers page, three reports were generated; one for the 
 Allowed Lost Time Claims, one for the No Lost Time Claims, and the third for Deaths.  Each included Claim details for Injury and illness Year, 
-which was filtered to include the claims made in 2015-2019.  Initially the location was considered however, only the Allowed Lost 
+which was filtered to include the claims made in 2011-2019.  Initially the location was considered however, only the Allowed Lost 
 Time claim report provided details on the locations (regions) of the claims.
-The Workplace Details included the Industry Sector, all of which were included in the reports, while the Worker Detail included Age Group, 
+The Workplace Details included the Industry Sector, all of which were included in the reports, while the Worker Detail included Age Group and Gender, 
 all of which were included in the reports.
 Ages were provided from age 15 to 65+ in increments of 5.
 
-The generated reports provided entries for the combination of attributes (Industry Sector and Age Group) where there
-was at least one non-zero value between years 2015-2019.  Therefore, there were some combinations of the attributes 
+The generated reports provided entries for the combination of attributes (Industry Sector, Age Group, and Gender) where there
+was at least one non-zero value between years 2011-2019.  Therefore, there were some combinations of the attributes 
 omitted by the report where there was no claims made in the five year period for the age and industry. For example, the
-Deaths report contained 470 entries however when considering the total possible combinations of the 17 industries, 12 age groups and five years, the
-total possible 1020 combinations.  
-Allowed Lost Time Claims report contained entries on 1000 out of the possible 1020 attribute combinations.  This
-report also contained the "Unknown" industry category, which was removed as it would not contribute to the analysis.  
-The removal of the claims in the "Unknown" industry category accounted for less than 0.01% for each year's claims (2015:0.0019%, 2016:0.0087%, 2017:0.0000%,
-2018:0.0031%, 2019:0.0000%)
+Deaths report contained 1539 entries however when considering the total possible combinations of the 17 industries, 12 age groups, two genders and nine years, the
+total possible 3672 combinations.  
+Allowed Lost Time Claims report contained 4257 entries.  This was due to also containing "Unknown" industry category, which was removed as it would not contribute to the analysis.  
 
 For each of the industry entries, there were entires with "Not Available" age information.  Since age data
 was necessary to the analysis, these entries were removed.  Removal of entries without ages accounted for
 two out of 332 Death reports (0.6%), 93 out of 298982 Allowed Lost Time claims (0.03%), and  636 out of 630746 No Lost Time claims (0.1%)
 
-Schedule 1 employers are those for which the WSIB is liable to pay benefit compensation for workers’ claims. Schedule 1 employers are required by legislation 
-to pay premiums to the WSIB and are protected by a system of collective liability.
-Schedule 2 employers are employers that self-insure the provisions of benefits under the WSIA. Schedule 2 employers are liable to pay all benefit compensation 
-and administration costs for the workers’ claims.
+Schedule 2 was also included as an industry.  Schedule 2 refers to a category of employers who self-insure the provisions of benefits under the WSIA. Schedule 2 employers are 
+liable to pay all benefit compensation and administration costs for the workers’ claims (WSIB, 2020).
 
 
 2. Inspection files ranging from 2015-2019

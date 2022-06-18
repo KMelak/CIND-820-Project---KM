@@ -1,57 +1,15 @@
-CIND820 Project - Kinga 
+WSIB claims 
 
+The project looks at three different types of claims made to the WSIB between the years 2011 - 2019.
 
-1. WSIB Report files
+Data files were obtained from the WSIB by the numbers (https://www.wsib.ca/en/bythenumbers).  Three reports were generated, one for each type of claim:
+No Lost Time (no_lost_time.csv), Lost Time (lost_time.csv), and Fatalities (fatalities.csv) for the years 2011 to 2019.
 
-Using the Report builder on the WSIB by the numbers page, three reports were generated; one for the 
-Allowed Lost Time Claims, one for the No Lost Time Claims, and the third for Deaths.  Each included Claim details for Injury and illness Year, 
-which was filtered to include the claims made in 2011-2019.  Initially the location was considered however, only the Allowed Lost 
-Time claim report provided details on the locations (regions) of the claims.
-The Workplace Details included the Industry Sector, all of which were included in the reports, while the Worker Detail included Age Group and Gender, 
-all of which were included in the reports.
-Ages were provided from age 15 to 65+ in increments of 5.
+For each file the following filters were applied on the "Report Builder":
+Injury/Illness year --> 2011-2019
+Industry Sector --> all except Schedule 2 and Unknown
+Age --> all except NA
+Gender --> all except NA
 
-The generated reports provided entries for the combination of attributes (Industry Sector, Age Group, and Gender) where there
-was at least one non-zero value between years 2011-2019.  Therefore, there were some combinations of the attributes 
-omitted by the report where there was no claims made in the five year period for the age and industry. For example, the
-Deaths report contained 1539 entries however when considering the total possible combinations of the 17 industries, 12 age groups, two genders and nine years, the
-total possible 3672 combinations.  
-Allowed Lost Time Claims report contained 4257 entries.  This was due to also containing "Unknown" industry category, which was removed as it would not contribute to the analysis.  
-
-For each of the industry entries, there were entires with "Not Available" age information.  Since age data
-was necessary to the analysis, these entries were removed.  Removal of entries without ages accounted for
-two out of 332 Death reports (0.6%), 93 out of 298982 Allowed Lost Time claims (0.03%), and  636 out of 630746 No Lost Time claims (0.1%)
-
-Schedule 2 was also included as an industry.  Schedule 2 refers to a category of employers who self-insure the provisions of benefits under the WSIA. Schedule 2 employers are 
-liable to pay all benefit compensation and administration costs for the workers’ claims (WSIB, 2020).
-
-
-2. Inspection files ranging from 2015-2019
-
-Inspection files were obtained from the Goverment of Canada Open data portal and contain information about
-inspector field visits including visit date, type, case type and status, workplace ID, name, location and postal 
-code, industry code and description.  In cases where the inspector locates a contravention to the Occupational
-Health and Safety Act, addtional details of the contravener are included (ID, Name, Role) as well as the 
-order type and status, the act, regulation (ID, Year, Name), section, subsection and clause violated.
-Each entry in the dataset corresponds to visit and/or and order made.  A workplace with multiple contraventions
-during a single visit will have multiple entries.
-
-These data file were used to obtain the proportion of visits by industry.  The entries were first collapsed by 
-visit date and workplace location to obtain a count of the number of unique visits made by inspectors.
-
-
-3. Labour force 2015-2019 data from the Government of Canada repository.
-
-The data included the labour force in 1000s of individuals by industry based on the first two
-digits of the North American Industry Classification System (NAICS).  A file containing the NAICS structure 
-used in the project is also included.
-
-
-The data included the years labour force for each year from 2015 to 2019 and was split by age. 
-The data included only three age ranges (15 to 24 years, 25-54 years, and 55 years and over).
-Because each range did not consist of the same number of years, comparisons were only made using 
-the number of young workers (ages 15-24) as a proportion of the whole labour force in that 
-particular industry.
-
-
+R code was used to prepare the data.  The code in the DataPrep.rmd file reads each data file, collapses the "Year" column, combines the files via inner join, checks for NA values and writes the end result.  Two files were written as a result; file contatining all three types of claims (No lost time, lost time and fatality) as well as a file containing only the non-fatal claims (No lost time, lost time).
 

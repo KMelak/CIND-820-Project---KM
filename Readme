@@ -18,3 +18,5 @@ An additional file containing the NAICS codes for each industy is also included.
 DATA PREPARATION
 R code was used to prepare the data.  The code in the DataPrep.rmd file reads each data file, collapses the "Year" column, combines the files via inner join, checks for NA values and writes the end result.  Two files were written as a result; file contatining all three types of claims WSIB_data.csv (No lost time, lost time and fatality) as well as a file containing only the non-fatal claims WSIB_no_fat.csv (No lost time, lost time).
 
+EDA
+The Exploratory Data Analysis report was prepared using Python.  The ProfileReport using the pandas package was prepared as WSIB_Profile_Report.

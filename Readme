@@ -19,5 +19,6 @@ DATA PREPARATION
 R code was used to prepare the data.  The code in the DataPrep.rmd file reads each data file, collapses the "Year" column, combines the files via inner join, checks for NA values and writes the end result.  Two files were written as a result; file contatining all three types of claims WSIB_data.csv (No lost time, lost time and fatality) as well as a file containing only the non-fatal claims WSIB_no_fat.csv (No lost time, lost time).
 
 EDA
-The Exploratory Data Analysis report was prepared using Python.  The ProfileReport using the pandas package was prepared as WSIB_Profile_Report.
+The Exploratory Data Analysis report was prepared using Python.  Code for this portion is included in EDA.ipynb. 
+The ProfileReport using the pandas package was prepared as WSIB_Profile_Report.
 Similarily to the data files, an additional profile report was created for the data containing only non-fatal claims --> WSIB_no_fat_Profile_Report.

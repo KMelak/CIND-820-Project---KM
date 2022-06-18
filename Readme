@@ -20,3 +20,4 @@ R code was used to prepare the data.  The code in the DataPrep.rmd file reads ea
 
 EDA
 The Exploratory Data Analysis report was prepared using Python.  The ProfileReport using the pandas package was prepared as WSIB_Profile_Report.
+Similarily to the data files, an additional profile report was created for the data containing only non-fatal claims --> WSIB_no_fat_Profile_Report.

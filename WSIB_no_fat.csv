@@ -1,0 +1,3160 @@
+"","Industry","AgeRange","Gender","Year","NLT_Claims","LT_Claims"
+"1","Agriculture","15-19","Female","X2011",22,20
+"2","Agriculture","15-19","Female","X2012",29,25
+"3","Agriculture","15-19","Female","X2013",28,23
+"4","Agriculture","15-19","Female","X2014",38,13
+"5","Agriculture","15-19","Female","X2015",36,20
+"6","Agriculture","15-19","Female","X2016",32,27
+"7","Agriculture","15-19","Female","X2017",32,21
+"8","Agriculture","15-19","Female","X2018",42,15
+"9","Agriculture","15-19","Female","X2019",33,30
+"10","Agriculture","15-19","Male","X2011",91,44
+"11","Agriculture","15-19","Male","X2012",99,44
+"12","Agriculture","15-19","Male","X2013",105,55
+"13","Agriculture","15-19","Male","X2014",98,74
+"14","Agriculture","15-19","Male","X2015",101,48
+"15","Agriculture","15-19","Male","X2016",100,58
+"16","Agriculture","15-19","Male","X2017",99,44
+"17","Agriculture","15-19","Male","X2018",97,50
+"18","Agriculture","15-19","Male","X2019",88,57
+"19","Agriculture","20-24","Female","X2011",74,40
+"20","Agriculture","20-24","Female","X2012",75,55
+"21","Agriculture","20-24","Female","X2013",83,46
+"22","Agriculture","20-24","Female","X2014",80,55
+"23","Agriculture","20-24","Female","X2015",98,46
+"24","Agriculture","20-24","Female","X2016",97,58
+"25","Agriculture","20-24","Female","X2017",105,64
+"26","Agriculture","20-24","Female","X2018",84,46
+"27","Agriculture","20-24","Female","X2019",110,65
+"28","Agriculture","20-24","Male","X2011",218,122
+"29","Agriculture","20-24","Male","X2012",224,152
+"30","Agriculture","20-24","Male","X2013",270,162
+"31","Agriculture","20-24","Male","X2014",261,181
+"32","Agriculture","20-24","Male","X2015",282,186
+"33","Agriculture","20-24","Male","X2016",253,164
+"34","Agriculture","20-24","Male","X2017",280,187
+"35","Agriculture","20-24","Male","X2018",262,156
+"36","Agriculture","20-24","Male","X2019",286,153
+"37","Agriculture","25-29","Female","X2011",69,37
+"38","Agriculture","25-29","Female","X2012",54,35
+"39","Agriculture","25-29","Female","X2013",83,27
+"40","Agriculture","25-29","Female","X2014",62,30
+"41","Agriculture","25-29","Female","X2015",68,44
+"42","Agriculture","25-29","Female","X2016",62,40
+"43","Agriculture","25-29","Female","X2017",70,35
+"44","Agriculture","25-29","Female","X2018",76,46
+"45","Agriculture","25-29","Female","X2019",85,41
+"46","Agriculture","25-29","Male","X2011",176,113
+"47","Agriculture","25-29","Male","X2012",212,118
+"48","Agriculture","25-29","Male","X2013",229,130
+"49","Agriculture","25-29","Male","X2014",244,141
+"50","Agriculture","25-29","Male","X2015",211,136
+"51","Agriculture","25-29","Male","X2016",257,165
+"52","Agriculture","25-29","Male","X2017",315,156
+"53","Agriculture","25-29","Male","X2018",317,179
+"54","Agriculture","25-29","Male","X2019",323,145
+"55","Agriculture","30-34","Female","X2011",46,27
+"56","Agriculture","30-34","Female","X2012",57,22
+"57","Agriculture","30-34","Female","X2013",51,25
+"58","Agriculture","30-34","Female","X2014",54,20
+"59","Agriculture","30-34","Female","X2015",34,15
+"60","Agriculture","30-34","Female","X2016",47,27
+"61","Agriculture","30-34","Female","X2017",50,22
+"62","Agriculture","30-34","Female","X2018",54,22
+"63","Agriculture","30-34","Female","X2019",71,33
+"64","Agriculture","30-34","Male","X2011",150,88
+"65","Agriculture","30-34","Male","X2012",168,103
+"66","Agriculture","30-34","Male","X2013",187,132
+"67","Agriculture","30-34","Male","X2014",161,137
+"68","Agriculture","30-34","Male","X2015",173,123
+"69","Agriculture","30-34","Male","X2016",221,129
+"70","Agriculture","30-34","Male","X2017",247,133
+"71","Agriculture","30-34","Male","X2018",250,137
+"72","Agriculture","30-34","Male","X2019",274,159
+"73","Agriculture","35-39","Female","X2011",24,23
+"74","Agriculture","35-39","Female","X2012",29,30
+"75","Agriculture","35-39","Female","X2013",40,22
+"76","Agriculture","35-39","Female","X2014",47,22
+"77","Agriculture","35-39","Female","X2015",45,14
+"78","Agriculture","35-39","Female","X2016",29,18
+"79","Agriculture","35-39","Female","X2017",25,21
+"80","Agriculture","35-39","Female","X2018",41,20
+"81","Agriculture","35-39","Female","X2019",58,27
+"82","Agriculture","35-39","Male","X2011",148,79
+"83","Agriculture","35-39","Male","X2012",123,83
+"84","Agriculture","35-39","Male","X2013",174,88
+"85","Agriculture","35-39","Male","X2014",159,99
+"86","Agriculture","35-39","Male","X2015",157,89
+"87","Agriculture","35-39","Male","X2016",175,100
+"88","Agriculture","35-39","Male","X2017",211,105
+"89","Agriculture","35-39","Male","X2018",186,105
+"90","Agriculture","35-39","Male","X2019",203,112
+"91","Agriculture","40-44","Female","X2011",31,19
+"92","Agriculture","40-44","Female","X2012",40,21
+"93","Agriculture","40-44","Female","X2013",46,26
+"94","Agriculture","40-44","Female","X2014",30,8
+"95","Agriculture","40-44","Female","X2015",39,15
+"96","Agriculture","40-44","Female","X2016",28,19
+"97","Agriculture","40-44","Female","X2017",37,20
+"98","Agriculture","40-44","Female","X2018",31,20
+"99","Agriculture","40-44","Female","X2019",43,17
+"100","Agriculture","40-44","Male","X2011",121,81
+"101","Agriculture","40-44","Male","X2012",116,93
+"102","Agriculture","40-44","Male","X2013",136,107
+"103","Agriculture","40-44","Male","X2014",146,95
+"104","Agriculture","40-44","Male","X2015",148,92
+"105","Agriculture","40-44","Male","X2016",157,91
+"106","Agriculture","40-44","Male","X2017",163,99
+"107","Agriculture","40-44","Male","X2018",165,110
+"108","Agriculture","40-44","Male","X2019",174,90
+"109","Agriculture","45-49","Female","X2011",44,23
+"110","Agriculture","45-49","Female","X2012",48,27
+"111","Agriculture","45-49","Female","X2013",29,27
+"112","Agriculture","45-49","Female","X2014",37,22
+"113","Agriculture","45-49","Female","X2015",25,27
+"114","Agriculture","45-49","Female","X2016",45,18
+"115","Agriculture","45-49","Female","X2017",30,21
+"116","Agriculture","45-49","Female","X2018",36,17
+"117","Agriculture","45-49","Female","X2019",35,31
+"118","Agriculture","45-49","Male","X2011",126,80
+"119","Agriculture","45-49","Male","X2012",109,86
+"120","Agriculture","45-49","Male","X2013",122,89
+"121","Agriculture","45-49","Male","X2014",120,78
+"122","Agriculture","45-49","Male","X2015",127,85
+"123","Agriculture","45-49","Male","X2016",135,70
+"124","Agriculture","45-49","Male","X2017",150,85
+"125","Agriculture","45-49","Male","X2018",126,67
+"126","Agriculture","45-49","Male","X2019",138,77
+"127","Agriculture","50-54","Female","X2011",43,21
+"128","Agriculture","50-54","Female","X2012",35,27
+"129","Agriculture","50-54","Female","X2013",29,24
+"130","Agriculture","50-54","Female","X2014",35,27
+"131","Agriculture","50-54","Female","X2015",44,19
+"132","Agriculture","50-54","Female","X2016",31,18
+"133","Agriculture","50-54","Female","X2017",50,14
+"134","Agriculture","50-54","Female","X2018",39,23
+"135","Agriculture","50-54","Female","X2019",40,27
+"136","Agriculture","50-54","Male","X2011",79,60
+"137","Agriculture","50-54","Male","X2012",100,59
+"138","Agriculture","50-54","Male","X2013",97,72
+"139","Agriculture","50-54","Male","X2014",108,62
+"140","Agriculture","50-54","Male","X2015",112,76
+"141","Agriculture","50-54","Male","X2016",103,90
+"142","Agriculture","50-54","Male","X2017",118,70
+"143","Agriculture","50-54","Male","X2018",131,66
+"144","Agriculture","50-54","Male","X2019",125,70
+"145","Agriculture","55-59","Female","X2011",22,7
+"146","Agriculture","55-59","Female","X2012",27,9
+"147","Agriculture","55-59","Female","X2013",29,20
+"148","Agriculture","55-59","Female","X2014",23,22
+"149","Agriculture","55-59","Female","X2015",29,15
+"150","Agriculture","55-59","Female","X2016",35,27
+"151","Agriculture","55-59","Female","X2017",35,20
+"152","Agriculture","55-59","Female","X2018",51,32
+"153","Agriculture","55-59","Female","X2019",37,17
+"154","Agriculture","55-59","Male","X2011",59,36
+"155","Agriculture","55-59","Male","X2012",52,51
+"156","Agriculture","55-59","Male","X2013",60,51
+"157","Agriculture","55-59","Male","X2014",83,52
+"158","Agriculture","55-59","Male","X2015",74,47
+"159","Agriculture","55-59","Male","X2016",84,51
+"160","Agriculture","55-59","Male","X2017",87,58
+"161","Agriculture","55-59","Male","X2018",109,59
+"162","Agriculture","55-59","Male","X2019",119,69
+"163","Agriculture","60-64","Female","X2011",9,8
+"164","Agriculture","60-64","Female","X2012",15,2
+"165","Agriculture","60-64","Female","X2013",11,7
+"166","Agriculture","60-64","Female","X2014",14,9
+"167","Agriculture","60-64","Female","X2015",7,11
+"168","Agriculture","60-64","Female","X2016",7,7
+"169","Agriculture","60-64","Female","X2017",17,11
+"170","Agriculture","60-64","Female","X2018",13,13
+"171","Agriculture","60-64","Female","X2019",21,6
+"172","Agriculture","60-64","Male","X2011",37,23
+"173","Agriculture","60-64","Male","X2012",48,20
+"174","Agriculture","60-64","Male","X2013",49,38
+"175","Agriculture","60-64","Male","X2014",54,34
+"176","Agriculture","60-64","Male","X2015",56,28
+"177","Agriculture","60-64","Male","X2016",37,41
+"178","Agriculture","60-64","Male","X2017",59,39
+"179","Agriculture","60-64","Male","X2018",47,50
+"180","Agriculture","60-64","Male","X2019",64,45
+"181","Agriculture","65+","Female","X2011",3,5
+"182","Agriculture","65+","Female","X2012",5,2
+"183","Agriculture","65+","Female","X2013",2,4
+"184","Agriculture","65+","Female","X2014",3,1
+"185","Agriculture","65+","Female","X2015",3,2
+"186","Agriculture","65+","Female","X2016",4,3
+"187","Agriculture","65+","Female","X2017",7,5
+"188","Agriculture","65+","Female","X2018",8,2
+"189","Agriculture","65+","Female","X2019",9,1
+"190","Agriculture","65+","Male","X2011",16,8
+"191","Agriculture","65+","Male","X2012",22,13
+"192","Agriculture","65+","Male","X2013",32,8
+"193","Agriculture","65+","Male","X2014",27,15
+"194","Agriculture","65+","Male","X2015",31,16
+"195","Agriculture","65+","Male","X2016",29,22
+"196","Agriculture","65+","Male","X2017",31,19
+"197","Agriculture","65+","Male","X2018",36,22
+"198","Agriculture","65+","Male","X2019",54,24
+"199","Automotive","15-19","Female","X2011",27,6
+"200","Automotive","15-19","Female","X2012",49,6
+"201","Automotive","15-19","Female","X2013",30,8
+"202","Automotive","15-19","Female","X2014",46,12
+"203","Automotive","15-19","Female","X2015",59,9
+"204","Automotive","15-19","Female","X2016",63,12
+"205","Automotive","15-19","Female","X2017",55,9
+"206","Automotive","15-19","Female","X2018",51,11
+"207","Automotive","15-19","Female","X2019",47,9
+"208","Automotive","15-19","Male","X2011",105,23
+"209","Automotive","15-19","Male","X2012",110,32
+"210","Automotive","15-19","Male","X2013",105,17
+"211","Automotive","15-19","Male","X2014",139,20
+"212","Automotive","15-19","Male","X2015",124,18
+"213","Automotive","15-19","Male","X2016",161,34
+"214","Automotive","15-19","Male","X2017",111,10
+"215","Automotive","15-19","Male","X2018",144,28
+"216","Automotive","15-19","Male","X2019",129,17
+"217","Automotive","20-24","Female","X2011",116,20
+"218","Automotive","20-24","Female","X2012",210,26
+"219","Automotive","20-24","Female","X2013",144,34
+"220","Automotive","20-24","Female","X2014",195,35
+"221","Automotive","20-24","Female","X2015",209,25
+"222","Automotive","20-24","Female","X2016",261,50
+"223","Automotive","20-24","Female","X2017",281,42
+"224","Automotive","20-24","Female","X2018",241,30
+"225","Automotive","20-24","Female","X2019",219,35
+"226","Automotive","20-24","Male","X2011",440,103
+"227","Automotive","20-24","Male","X2012",578,96
+"228","Automotive","20-24","Male","X2013",503,100
+"229","Automotive","20-24","Male","X2014",506,79
+"230","Automotive","20-24","Male","X2015",584,85
+"231","Automotive","20-24","Male","X2016",636,91
+"232","Automotive","20-24","Male","X2017",609,85
+"233","Automotive","20-24","Male","X2018",592,129
+"234","Automotive","20-24","Male","X2019",541,88
+"235","Automotive","25-29","Female","X2011",132,29
+"236","Automotive","25-29","Female","X2012",152,28
+"237","Automotive","25-29","Female","X2013",146,40
+"238","Automotive","25-29","Female","X2014",140,26
+"239","Automotive","25-29","Female","X2015",185,21
+"240","Automotive","25-29","Female","X2016",229,33
+"241","Automotive","25-29","Female","X2017",236,38
+"242","Automotive","25-29","Female","X2018",208,52
+"243","Automotive","25-29","Female","X2019",233,34
+"244","Automotive","25-29","Male","X2011",523,110
+"245","Automotive","25-29","Male","X2012",560,89
+"246","Automotive","25-29","Male","X2013",539,93
+"247","Automotive","25-29","Male","X2014",539,94
+"248","Automotive","25-29","Male","X2015",552,81
+"249","Automotive","25-29","Male","X2016",628,94
+"250","Automotive","25-29","Male","X2017",646,124
+"251","Automotive","25-29","Male","X2018",696,149
+"252","Automotive","25-29","Male","X2019",571,106
+"253","Automotive","30-34","Female","X2011",197,49
+"254","Automotive","30-34","Female","X2012",224,28
+"255","Automotive","30-34","Female","X2013",197,40
+"256","Automotive","30-34","Female","X2014",189,46
+"257","Automotive","30-34","Female","X2015",180,35
+"258","Automotive","30-34","Female","X2016",200,42
+"259","Automotive","30-34","Female","X2017",190,45
+"260","Automotive","30-34","Female","X2018",193,29
+"261","Automotive","30-34","Female","X2019",177,43
+"262","Automotive","30-34","Male","X2011",698,129
+"263","Automotive","30-34","Male","X2012",711,126
+"264","Automotive","30-34","Male","X2013",613,127
+"265","Automotive","30-34","Male","X2014",547,115
+"266","Automotive","30-34","Male","X2015",623,80
+"267","Automotive","30-34","Male","X2016",632,104
+"268","Automotive","30-34","Male","X2017",596,104
+"269","Automotive","30-34","Male","X2018",572,118
+"270","Automotive","30-34","Male","X2019",513,83
+"271","Automotive","35-39","Female","X2011",309,64
+"272","Automotive","35-39","Female","X2012",275,75
+"273","Automotive","35-39","Female","X2013",294,47
+"274","Automotive","35-39","Female","X2014",231,49
+"275","Automotive","35-39","Female","X2015",205,33
+"276","Automotive","35-39","Female","X2016",227,53
+"277","Automotive","35-39","Female","X2017",221,45
+"278","Automotive","35-39","Female","X2018",223,43
+"279","Automotive","35-39","Female","X2019",225,38
+"280","Automotive","35-39","Male","X2011",813,180
+"281","Automotive","35-39","Male","X2012",828,176
+"282","Automotive","35-39","Male","X2013",716,131
+"283","Automotive","35-39","Male","X2014",683,137
+"284","Automotive","35-39","Male","X2015",653,114
+"285","Automotive","35-39","Male","X2016",657,139
+"286","Automotive","35-39","Male","X2017",576,125
+"287","Automotive","35-39","Male","X2018",620,137
+"288","Automotive","35-39","Male","X2019",509,96
+"289","Automotive","40-44","Female","X2011",327,96
+"290","Automotive","40-44","Female","X2012",369,76
+"291","Automotive","40-44","Female","X2013",344,77
+"292","Automotive","40-44","Female","X2014",319,77
+"293","Automotive","40-44","Female","X2015",307,61
+"294","Automotive","40-44","Female","X2016",299,70
+"295","Automotive","40-44","Female","X2017",279,72
+"296","Automotive","40-44","Female","X2018",262,56
+"297","Automotive","40-44","Female","X2019",299,35
+"298","Automotive","40-44","Male","X2011",918,217
+"299","Automotive","40-44","Male","X2012",841,213
+"300","Automotive","40-44","Male","X2013",876,172
+"301","Automotive","40-44","Male","X2014",850,156
+"302","Automotive","40-44","Male","X2015",690,131
+"303","Automotive","40-44","Male","X2016",663,149
+"304","Automotive","40-44","Male","X2017",664,130
+"305","Automotive","40-44","Male","X2018",601,158
+"306","Automotive","40-44","Male","X2019",568,100
+"307","Automotive","45-49","Female","X2011",425,129
+"308","Automotive","45-49","Female","X2012",426,96
+"309","Automotive","45-49","Female","X2013",430,83
+"310","Automotive","45-49","Female","X2014",371,86
+"311","Automotive","45-49","Female","X2015",298,63
+"312","Automotive","45-49","Female","X2016",306,81
+"313","Automotive","45-49","Female","X2017",377,94
+"314","Automotive","45-49","Female","X2018",342,73
+"315","Automotive","45-49","Female","X2019",325,57
+"316","Automotive","45-49","Male","X2011",1086,265
+"317","Automotive","45-49","Male","X2012",1025,250
+"318","Automotive","45-49","Male","X2013",989,214
+"319","Automotive","45-49","Male","X2014",864,154
+"320","Automotive","45-49","Male","X2015",794,155
+"321","Automotive","45-49","Male","X2016",791,173
+"322","Automotive","45-49","Male","X2017",704,159
+"323","Automotive","45-49","Male","X2018",703,170
+"324","Automotive","45-49","Male","X2019",580,132
+"325","Automotive","50-54","Female","X2011",363,72
+"326","Automotive","50-54","Female","X2012",380,86
+"327","Automotive","50-54","Female","X2013",378,79
+"328","Automotive","50-54","Female","X2014",398,88
+"329","Automotive","50-54","Female","X2015",385,89
+"330","Automotive","50-54","Female","X2016",348,75
+"331","Automotive","50-54","Female","X2017",363,73
+"332","Automotive","50-54","Female","X2018",373,85
+"333","Automotive","50-54","Female","X2019",316,80
+"334","Automotive","50-54","Male","X2011",879,211
+"335","Automotive","50-54","Male","X2012",926,243
+"336","Automotive","50-54","Male","X2013",916,164
+"337","Automotive","50-54","Male","X2014",899,188
+"338","Automotive","50-54","Male","X2015",827,161
+"339","Automotive","50-54","Male","X2016",737,200
+"340","Automotive","50-54","Male","X2017",761,159
+"341","Automotive","50-54","Male","X2018",742,178
+"342","Automotive","50-54","Male","X2019",652,163
+"343","Automotive","55-59","Female","X2011",178,63
+"344","Automotive","55-59","Female","X2012",196,47
+"345","Automotive","55-59","Female","X2013",206,41
+"346","Automotive","55-59","Female","X2014",215,38
+"347","Automotive","55-59","Female","X2015",229,46
+"348","Automotive","55-59","Female","X2016",241,60
+"349","Automotive","55-59","Female","X2017",256,55
+"350","Automotive","55-59","Female","X2018",273,82
+"351","Automotive","55-59","Female","X2019",268,72
+"352","Automotive","55-59","Male","X2011",456,128
+"353","Automotive","55-59","Male","X2012",530,135
+"354","Automotive","55-59","Male","X2013",527,113
+"355","Automotive","55-59","Male","X2014",587,121
+"356","Automotive","55-59","Male","X2015",609,104
+"357","Automotive","55-59","Male","X2016",552,128
+"358","Automotive","55-59","Male","X2017",607,152
+"359","Automotive","55-59","Male","X2018",604,163
+"360","Automotive","55-59","Male","X2019",609,144
+"361","Automotive","60-64","Female","X2011",47,14
+"362","Automotive","60-64","Female","X2012",66,8
+"363","Automotive","60-64","Female","X2013",81,19
+"364","Automotive","60-64","Female","X2014",92,23
+"365","Automotive","60-64","Female","X2015",91,34
+"366","Automotive","60-64","Female","X2016",97,30
+"367","Automotive","60-64","Female","X2017",110,38
+"368","Automotive","60-64","Female","X2018",104,32
+"369","Automotive","60-64","Female","X2019",148,41
+"370","Automotive","60-64","Male","X2011",212,42
+"371","Automotive","60-64","Male","X2012",221,50
+"372","Automotive","60-64","Male","X2013",243,50
+"373","Automotive","60-64","Male","X2014",261,53
+"374","Automotive","60-64","Male","X2015",265,59
+"375","Automotive","60-64","Male","X2016",275,61
+"376","Automotive","60-64","Male","X2017",305,68
+"377","Automotive","60-64","Male","X2018",333,96
+"378","Automotive","60-64","Male","X2019",315,97
+"379","Automotive","65+","Female","X2011",6,3
+"380","Automotive","65+","Female","X2012",15,4
+"381","Automotive","65+","Female","X2013",7,7
+"382","Automotive","65+","Female","X2014",21,1
+"383","Automotive","65+","Female","X2015",15,6
+"384","Automotive","65+","Female","X2016",23,3
+"385","Automotive","65+","Female","X2017",21,7
+"386","Automotive","65+","Female","X2018",29,7
+"387","Automotive","65+","Female","X2019",31,7
+"388","Automotive","65+","Male","X2011",70,6
+"389","Automotive","65+","Male","X2012",60,7
+"390","Automotive","65+","Male","X2013",76,9
+"391","Automotive","65+","Male","X2014",104,9
+"392","Automotive","65+","Male","X2015",116,15
+"393","Automotive","65+","Male","X2016",98,14
+"394","Automotive","65+","Male","X2017",150,20
+"395","Automotive","65+","Male","X2018",160,23
+"396","Automotive","65+","Male","X2019",167,32
+"397","Chemicals/Process","15-19","Female","X2011",2,2
+"398","Chemicals/Process","15-19","Female","X2012",6,1
+"399","Chemicals/Process","15-19","Female","X2013",3,0
+"400","Chemicals/Process","15-19","Female","X2014",6,1
+"401","Chemicals/Process","15-19","Female","X2015",2,0
+"402","Chemicals/Process","15-19","Female","X2016",10,0
+"403","Chemicals/Process","15-19","Female","X2017",10,2
+"404","Chemicals/Process","15-19","Female","X2018",11,5
+"405","Chemicals/Process","15-19","Female","X2019",8,1
+"406","Chemicals/Process","15-19","Male","X2011",27,6
+"407","Chemicals/Process","15-19","Male","X2012",36,5
+"408","Chemicals/Process","15-19","Male","X2013",28,4
+"409","Chemicals/Process","15-19","Male","X2014",30,5
+"410","Chemicals/Process","15-19","Male","X2015",31,4
+"411","Chemicals/Process","15-19","Male","X2016",31,2
+"412","Chemicals/Process","15-19","Male","X2017",26,11
+"413","Chemicals/Process","15-19","Male","X2018",46,12
+"414","Chemicals/Process","15-19","Male","X2019",31,13
+"415","Chemicals/Process","20-24","Female","X2011",28,5
+"416","Chemicals/Process","20-24","Female","X2012",25,4
+"417","Chemicals/Process","20-24","Female","X2013",28,7
+"418","Chemicals/Process","20-24","Female","X2014",28,6
+"419","Chemicals/Process","20-24","Female","X2015",50,11
+"420","Chemicals/Process","20-24","Female","X2016",28,18
+"421","Chemicals/Process","20-24","Female","X2017",42,17
+"422","Chemicals/Process","20-24","Female","X2018",73,5
+"423","Chemicals/Process","20-24","Female","X2019",52,17
+"424","Chemicals/Process","20-24","Male","X2011",143,40
+"425","Chemicals/Process","20-24","Male","X2012",139,44
+"426","Chemicals/Process","20-24","Male","X2013",129,26
+"427","Chemicals/Process","20-24","Male","X2014",131,22
+"428","Chemicals/Process","20-24","Male","X2015",126,33
+"429","Chemicals/Process","20-24","Male","X2016",136,34
+"430","Chemicals/Process","20-24","Male","X2017",152,44
+"431","Chemicals/Process","20-24","Male","X2018",150,47
+"432","Chemicals/Process","20-24","Male","X2019",151,52
+"433","Chemicals/Process","25-29","Female","X2011",40,18
+"434","Chemicals/Process","25-29","Female","X2012",38,17
+"435","Chemicals/Process","25-29","Female","X2013",36,17
+"436","Chemicals/Process","25-29","Female","X2014",43,11
+"437","Chemicals/Process","25-29","Female","X2015",39,13
+"438","Chemicals/Process","25-29","Female","X2016",40,16
+"439","Chemicals/Process","25-29","Female","X2017",44,21
+"440","Chemicals/Process","25-29","Female","X2018",70,36
+"441","Chemicals/Process","25-29","Female","X2019",77,23
+"442","Chemicals/Process","25-29","Male","X2011",163,41
+"443","Chemicals/Process","25-29","Male","X2012",166,44
+"444","Chemicals/Process","25-29","Male","X2013",150,45
+"445","Chemicals/Process","25-29","Male","X2014",155,43
+"446","Chemicals/Process","25-29","Male","X2015",152,53
+"447","Chemicals/Process","25-29","Male","X2016",170,56
+"448","Chemicals/Process","25-29","Male","X2017",203,60
+"449","Chemicals/Process","25-29","Male","X2018",194,68
+"450","Chemicals/Process","25-29","Male","X2019",195,59
+"451","Chemicals/Process","30-34","Female","X2011",45,21
+"452","Chemicals/Process","30-34","Female","X2012",48,11
+"453","Chemicals/Process","30-34","Female","X2013",53,13
+"454","Chemicals/Process","30-34","Female","X2014",48,9
+"455","Chemicals/Process","30-34","Female","X2015",44,19
+"456","Chemicals/Process","30-34","Female","X2016",36,20
+"457","Chemicals/Process","30-34","Female","X2017",61,21
+"458","Chemicals/Process","30-34","Female","X2018",45,21
+"459","Chemicals/Process","30-34","Female","X2019",59,23
+"460","Chemicals/Process","30-34","Male","X2011",179,65
+"461","Chemicals/Process","30-34","Male","X2012",209,43
+"462","Chemicals/Process","30-34","Male","X2013",173,56
+"463","Chemicals/Process","30-34","Male","X2014",183,45
+"464","Chemicals/Process","30-34","Male","X2015",170,45
+"465","Chemicals/Process","30-34","Male","X2016",154,71
+"466","Chemicals/Process","30-34","Male","X2017",186,48
+"467","Chemicals/Process","30-34","Male","X2018",180,65
+"468","Chemicals/Process","30-34","Male","X2019",182,62
+"469","Chemicals/Process","35-39","Female","X2011",81,22
+"470","Chemicals/Process","35-39","Female","X2012",70,16
+"471","Chemicals/Process","35-39","Female","X2013",61,19
+"472","Chemicals/Process","35-39","Female","X2014",43,25
+"473","Chemicals/Process","35-39","Female","X2015",42,21
+"474","Chemicals/Process","35-39","Female","X2016",61,17
+"475","Chemicals/Process","35-39","Female","X2017",59,22
+"476","Chemicals/Process","35-39","Female","X2018",64,25
+"477","Chemicals/Process","35-39","Female","X2019",76,22
+"478","Chemicals/Process","35-39","Male","X2011",211,69
+"479","Chemicals/Process","35-39","Male","X2012",239,64
+"480","Chemicals/Process","35-39","Male","X2013",191,45
+"481","Chemicals/Process","35-39","Male","X2014",186,51
+"482","Chemicals/Process","35-39","Male","X2015",161,36
+"483","Chemicals/Process","35-39","Male","X2016",160,59
+"484","Chemicals/Process","35-39","Male","X2017",190,58
+"485","Chemicals/Process","35-39","Male","X2018",173,60
+"486","Chemicals/Process","35-39","Male","X2019",166,70
+"487","Chemicals/Process","40-44","Female","X2011",94,38
+"488","Chemicals/Process","40-44","Female","X2012",90,31
+"489","Chemicals/Process","40-44","Female","X2013",83,25
+"490","Chemicals/Process","40-44","Female","X2014",69,31
+"491","Chemicals/Process","40-44","Female","X2015",82,25
+"492","Chemicals/Process","40-44","Female","X2016",66,34
+"493","Chemicals/Process","40-44","Female","X2017",72,28
+"494","Chemicals/Process","40-44","Female","X2018",90,18
+"495","Chemicals/Process","40-44","Female","X2019",97,24
+"496","Chemicals/Process","40-44","Male","X2011",256,88
+"497","Chemicals/Process","40-44","Male","X2012",209,72
+"498","Chemicals/Process","40-44","Male","X2013",229,65
+"499","Chemicals/Process","40-44","Male","X2014",215,62
+"500","Chemicals/Process","40-44","Male","X2015",202,44
+"501","Chemicals/Process","40-44","Male","X2016",192,59
+"502","Chemicals/Process","40-44","Male","X2017",196,65
+"503","Chemicals/Process","40-44","Male","X2018",178,49
+"504","Chemicals/Process","40-44","Male","X2019",178,60
+"505","Chemicals/Process","45-49","Female","X2011",132,47
+"506","Chemicals/Process","45-49","Female","X2012",84,46
+"507","Chemicals/Process","45-49","Female","X2013",120,34
+"508","Chemicals/Process","45-49","Female","X2014",98,30
+"509","Chemicals/Process","45-49","Female","X2015",90,28
+"510","Chemicals/Process","45-49","Female","X2016",75,32
+"511","Chemicals/Process","45-49","Female","X2017",93,30
+"512","Chemicals/Process","45-49","Female","X2018",108,32
+"513","Chemicals/Process","45-49","Female","X2019",91,39
+"514","Chemicals/Process","45-49","Male","X2011",336,83
+"515","Chemicals/Process","45-49","Male","X2012",299,77
+"516","Chemicals/Process","45-49","Male","X2013",243,68
+"517","Chemicals/Process","45-49","Male","X2014",257,72
+"518","Chemicals/Process","45-49","Male","X2015",257,51
+"519","Chemicals/Process","45-49","Male","X2016",203,71
+"520","Chemicals/Process","45-49","Male","X2017",215,60
+"521","Chemicals/Process","45-49","Male","X2018",218,81
+"522","Chemicals/Process","45-49","Male","X2019",170,76
+"523","Chemicals/Process","50-54","Female","X2011",105,42
+"524","Chemicals/Process","50-54","Female","X2012",107,28
+"525","Chemicals/Process","50-54","Female","X2013",109,36
+"526","Chemicals/Process","50-54","Female","X2014",93,25
+"527","Chemicals/Process","50-54","Female","X2015",109,33
+"528","Chemicals/Process","50-54","Female","X2016",100,36
+"529","Chemicals/Process","50-54","Female","X2017",103,43
+"530","Chemicals/Process","50-54","Female","X2018",114,36
+"531","Chemicals/Process","50-54","Female","X2019",95,37
+"532","Chemicals/Process","50-54","Male","X2011",287,92
+"533","Chemicals/Process","50-54","Male","X2012",237,68
+"534","Chemicals/Process","50-54","Male","X2013",229,83
+"535","Chemicals/Process","50-54","Male","X2014",240,69
+"536","Chemicals/Process","50-54","Male","X2015",244,63
+"537","Chemicals/Process","50-54","Male","X2016",253,69
+"538","Chemicals/Process","50-54","Male","X2017",245,80
+"539","Chemicals/Process","50-54","Male","X2018",231,67
+"540","Chemicals/Process","50-54","Male","X2019",228,73
+"541","Chemicals/Process","55-59","Female","X2011",72,25
+"542","Chemicals/Process","55-59","Female","X2012",81,32
+"543","Chemicals/Process","55-59","Female","X2013",72,27
+"544","Chemicals/Process","55-59","Female","X2014",88,30
+"545","Chemicals/Process","55-59","Female","X2015",72,21
+"546","Chemicals/Process","55-59","Female","X2016",67,34
+"547","Chemicals/Process","55-59","Female","X2017",81,41
+"548","Chemicals/Process","55-59","Female","X2018",91,43
+"549","Chemicals/Process","55-59","Female","X2019",102,46
+"550","Chemicals/Process","55-59","Male","X2011",194,57
+"551","Chemicals/Process","55-59","Male","X2012",188,68
+"552","Chemicals/Process","55-59","Male","X2013",189,58
+"553","Chemicals/Process","55-59","Male","X2014",207,69
+"554","Chemicals/Process","55-59","Male","X2015",201,64
+"555","Chemicals/Process","55-59","Male","X2016",213,77
+"556","Chemicals/Process","55-59","Male","X2017",224,65
+"557","Chemicals/Process","55-59","Male","X2018",217,86
+"558","Chemicals/Process","55-59","Male","X2019",225,74
+"559","Chemicals/Process","60-64","Female","X2011",32,13
+"560","Chemicals/Process","60-64","Female","X2012",27,8
+"561","Chemicals/Process","60-64","Female","X2013",29,13
+"562","Chemicals/Process","60-64","Female","X2014",31,17
+"563","Chemicals/Process","60-64","Female","X2015",39,12
+"564","Chemicals/Process","60-64","Female","X2016",41,19
+"565","Chemicals/Process","60-64","Female","X2017",45,19
+"566","Chemicals/Process","60-64","Female","X2018",57,28
+"567","Chemicals/Process","60-64","Female","X2019",46,24
+"568","Chemicals/Process","60-64","Male","X2011",107,33
+"569","Chemicals/Process","60-64","Male","X2012",122,37
+"570","Chemicals/Process","60-64","Male","X2013",101,37
+"571","Chemicals/Process","60-64","Male","X2014",111,42
+"572","Chemicals/Process","60-64","Male","X2015",101,32
+"573","Chemicals/Process","60-64","Male","X2016",125,37
+"574","Chemicals/Process","60-64","Male","X2017",135,56
+"575","Chemicals/Process","60-64","Male","X2018",149,57
+"576","Chemicals/Process","60-64","Male","X2019",157,42
+"577","Chemicals/Process","65+","Female","X2011",12,1
+"578","Chemicals/Process","65+","Female","X2012",13,3
+"579","Chemicals/Process","65+","Female","X2013",11,1
+"580","Chemicals/Process","65+","Female","X2014",13,2
+"581","Chemicals/Process","65+","Female","X2015",14,4
+"582","Chemicals/Process","65+","Female","X2016",13,2
+"583","Chemicals/Process","65+","Female","X2017",20,2
+"584","Chemicals/Process","65+","Female","X2018",17,3
+"585","Chemicals/Process","65+","Female","X2019",21,3
+"586","Chemicals/Process","65+","Male","X2011",53,10
+"587","Chemicals/Process","65+","Male","X2012",65,5
+"588","Chemicals/Process","65+","Male","X2013",67,11
+"589","Chemicals/Process","65+","Male","X2014",68,15
+"590","Chemicals/Process","65+","Male","X2015",85,20
+"591","Chemicals/Process","65+","Male","X2016",79,19
+"592","Chemicals/Process","65+","Male","X2017",96,8
+"593","Chemicals/Process","65+","Male","X2018",86,11
+"594","Chemicals/Process","65+","Male","X2019",98,25
+"595","Construction","15-19","Female","X2011",7,2
+"596","Construction","15-19","Female","X2012",17,2
+"597","Construction","15-19","Female","X2013",9,10
+"598","Construction","15-19","Female","X2014",11,5
+"599","Construction","15-19","Female","X2015",24,5
+"600","Construction","15-19","Female","X2016",17,3
+"601","Construction","15-19","Female","X2017",13,7
+"602","Construction","15-19","Female","X2018",13,7
+"603","Construction","15-19","Female","X2019",26,10
+"604","Construction","15-19","Male","X2011",454,115
+"605","Construction","15-19","Male","X2012",451,127
+"606","Construction","15-19","Male","X2013",493,133
+"607","Construction","15-19","Male","X2014",462,135
+"608","Construction","15-19","Male","X2015",445,110
+"609","Construction","15-19","Male","X2016",394,141
+"610","Construction","15-19","Male","X2017",495,118
+"611","Construction","15-19","Male","X2018",469,156
+"612","Construction","15-19","Male","X2019",548,170
+"613","Construction","20-24","Female","X2011",41,8
+"614","Construction","20-24","Female","X2012",54,17
+"615","Construction","20-24","Female","X2013",53,22
+"616","Construction","20-24","Female","X2014",73,17
+"617","Construction","20-24","Female","X2015",56,21
+"618","Construction","20-24","Female","X2016",59,18
+"619","Construction","20-24","Female","X2017",61,23
+"620","Construction","20-24","Female","X2018",83,23
+"621","Construction","20-24","Female","X2019",81,21
+"622","Construction","20-24","Male","X2011",1929,530
+"623","Construction","20-24","Male","X2012",2011,515
+"624","Construction","20-24","Male","X2013",2193,524
+"625","Construction","20-24","Male","X2014",2119,521
+"626","Construction","20-24","Male","X2015",1909,543
+"627","Construction","20-24","Male","X2016",1999,565
+"628","Construction","20-24","Male","X2017",2074,636
+"629","Construction","20-24","Male","X2018",2019,581
+"630","Construction","20-24","Male","X2019",2104,596
+"631","Construction","25-29","Female","X2011",55,12
+"632","Construction","25-29","Female","X2012",39,15
+"633","Construction","25-29","Female","X2013",57,11
+"634","Construction","25-29","Female","X2014",58,15
+"635","Construction","25-29","Female","X2015",61,22
+"636","Construction","25-29","Female","X2016",73,26
+"637","Construction","25-29","Female","X2017",75,17
+"638","Construction","25-29","Female","X2018",92,23
+"639","Construction","25-29","Female","X2019",105,17
+"640","Construction","25-29","Male","X2011",2200,615
+"641","Construction","25-29","Male","X2012",2246,619
+"642","Construction","25-29","Male","X2013",2415,620
+"643","Construction","25-29","Male","X2014",2350,601
+"644","Construction","25-29","Male","X2015",2247,603
+"645","Construction","25-29","Male","X2016",2274,686
+"646","Construction","25-29","Male","X2017",2402,719
+"647","Construction","25-29","Male","X2018",2475,731
+"648","Construction","25-29","Male","X2019",2515,711
+"649","Construction","30-34","Female","X2011",38,7
+"650","Construction","30-34","Female","X2012",31,11
+"651","Construction","30-34","Female","X2013",48,17
+"652","Construction","30-34","Female","X2014",35,13
+"653","Construction","30-34","Female","X2015",51,22
+"654","Construction","30-34","Female","X2016",56,23
+"655","Construction","30-34","Female","X2017",45,12
+"656","Construction","30-34","Female","X2018",70,16
+"657","Construction","30-34","Female","X2019",65,23
+"658","Construction","30-34","Male","X2011",1830,547
+"659","Construction","30-34","Male","X2012",1923,552
+"660","Construction","30-34","Male","X2013",2022,626
+"661","Construction","30-34","Male","X2014",2096,553
+"662","Construction","30-34","Male","X2015",1993,526
+"663","Construction","30-34","Male","X2016",1974,566
+"664","Construction","30-34","Male","X2017",2100,654
+"665","Construction","30-34","Male","X2018",2175,634
+"666","Construction","30-34","Male","X2019",2218,655
+"667","Construction","35-39","Female","X2011",36,17
+"668","Construction","35-39","Female","X2012",26,8
+"669","Construction","35-39","Female","X2013",39,14
+"670","Construction","35-39","Female","X2014",35,18
+"671","Construction","35-39","Female","X2015",49,22
+"672","Construction","35-39","Female","X2016",39,9
+"673","Construction","35-39","Female","X2017",42,12
+"674","Construction","35-39","Female","X2018",54,17
+"675","Construction","35-39","Female","X2019",44,18
+"676","Construction","35-39","Male","X2011",1400,454
+"677","Construction","35-39","Male","X2012",1484,455
+"678","Construction","35-39","Male","X2013",1593,469
+"679","Construction","35-39","Male","X2014",1603,474
+"680","Construction","35-39","Male","X2015",1553,452
+"681","Construction","35-39","Male","X2016",1604,522
+"682","Construction","35-39","Male","X2017",1633,562
+"683","Construction","35-39","Male","X2018",1717,551
+"684","Construction","35-39","Male","X2019",1885,586
+"685","Construction","40-44","Female","X2011",23,14
+"686","Construction","40-44","Female","X2012",32,16
+"687","Construction","40-44","Female","X2013",20,11
+"688","Construction","40-44","Female","X2014",40,15
+"689","Construction","40-44","Female","X2015",22,14
+"690","Construction","40-44","Female","X2016",34,10
+"691","Construction","40-44","Female","X2017",41,12
+"692","Construction","40-44","Female","X2018",39,17
+"693","Construction","40-44","Female","X2019",38,15
+"694","Construction","40-44","Male","X2011",1334,460
+"695","Construction","40-44","Male","X2012",1359,454
+"696","Construction","40-44","Male","X2013",1341,442
+"697","Construction","40-44","Male","X2014",1332,420
+"698","Construction","40-44","Male","X2015",1172,393
+"699","Construction","40-44","Male","X2016",1256,408
+"700","Construction","40-44","Male","X2017",1278,441
+"701","Construction","40-44","Male","X2018",1327,429
+"702","Construction","40-44","Male","X2019",1453,445
+"703","Construction","45-49","Female","X2011",35,10
+"704","Construction","45-49","Female","X2012",34,9
+"705","Construction","45-49","Female","X2013",42,15
+"706","Construction","45-49","Female","X2014",40,14
+"707","Construction","45-49","Female","X2015",32,15
+"708","Construction","45-49","Female","X2016",37,20
+"709","Construction","45-49","Female","X2017",36,9
+"710","Construction","45-49","Female","X2018",33,13
+"711","Construction","45-49","Female","X2019",40,14
+"712","Construction","45-49","Male","X2011",1407,523
+"713","Construction","45-49","Male","X2012",1419,478
+"714","Construction","45-49","Male","X2013",1446,491
+"715","Construction","45-49","Male","X2014",1336,471
+"716","Construction","45-49","Male","X2015",1229,464
+"717","Construction","45-49","Male","X2016",1150,428
+"718","Construction","45-49","Male","X2017",1177,459
+"719","Construction","45-49","Male","X2018",1206,386
+"720","Construction","45-49","Male","X2019",1183,421
+"721","Construction","50-54","Female","X2011",25,3
+"722","Construction","50-54","Female","X2012",27,5
+"723","Construction","50-54","Female","X2013",31,10
+"724","Construction","50-54","Female","X2014",39,19
+"725","Construction","50-54","Female","X2015",40,22
+"726","Construction","50-54","Female","X2016",47,15
+"727","Construction","50-54","Female","X2017",34,19
+"728","Construction","50-54","Female","X2018",38,9
+"729","Construction","50-54","Female","X2019",29,14
+"730","Construction","50-54","Male","X2011",1121,434
+"731","Construction","50-54","Male","X2012",1133,435
+"732","Construction","50-54","Male","X2013",1184,438
+"733","Construction","50-54","Male","X2014",1204,488
+"734","Construction","50-54","Male","X2015",1190,449
+"735","Construction","50-54","Male","X2016",1204,503
+"736","Construction","50-54","Male","X2017",1259,476
+"737","Construction","50-54","Male","X2018",1313,478
+"738","Construction","50-54","Male","X2019",1135,456
+"739","Construction","55-59","Female","X2011",12,4
+"740","Construction","55-59","Female","X2012",21,6
+"741","Construction","55-59","Female","X2013",15,9
+"742","Construction","55-59","Female","X2014",19,7
+"743","Construction","55-59","Female","X2015",23,10
+"744","Construction","55-59","Female","X2016",19,8
+"745","Construction","55-59","Female","X2017",24,11
+"746","Construction","55-59","Female","X2018",17,6
+"747","Construction","55-59","Female","X2019",34,9
+"748","Construction","55-59","Male","X2011",753,232
+"749","Construction","55-59","Male","X2012",751,272
+"750","Construction","55-59","Male","X2013",827,318
+"751","Construction","55-59","Male","X2014",862,310
+"752","Construction","55-59","Male","X2015",819,340
+"753","Construction","55-59","Male","X2016",912,375
+"754","Construction","55-59","Male","X2017",1004,389
+"755","Construction","55-59","Male","X2018",1166,383
+"756","Construction","55-59","Male","X2019",1134,383
+"757","Construction","60-64","Female","X2011",6,3
+"758","Construction","60-64","Female","X2012",11,8
+"759","Construction","60-64","Female","X2013",11,4
+"760","Construction","60-64","Female","X2014",7,6
+"761","Construction","60-64","Female","X2015",6,1
+"762","Construction","60-64","Female","X2016",10,2
+"763","Construction","60-64","Female","X2017",10,9
+"764","Construction","60-64","Female","X2018",18,5
+"765","Construction","60-64","Female","X2019",13,4
+"766","Construction","60-64","Male","X2011",389,154
+"767","Construction","60-64","Male","X2012",414,163
+"768","Construction","60-64","Male","X2013",437,174
+"769","Construction","60-64","Male","X2014",447,166
+"770","Construction","60-64","Male","X2015",424,164
+"771","Construction","60-64","Male","X2016",476,189
+"772","Construction","60-64","Male","X2017",559,212
+"773","Construction","60-64","Male","X2018",593,241
+"774","Construction","60-64","Male","X2019",627,222
+"775","Construction","65+","Female","X2011",1,1
+"776","Construction","65+","Female","X2012",3,1
+"777","Construction","65+","Female","X2013",8,2
+"778","Construction","65+","Female","X2014",5,3
+"779","Construction","65+","Female","X2015",9,1
+"780","Construction","65+","Female","X2016",6,2
+"781","Construction","65+","Female","X2017",19,2
+"782","Construction","65+","Female","X2018",15,5
+"783","Construction","65+","Female","X2019",42,6
+"784","Construction","65+","Male","X2011",301,45
+"785","Construction","65+","Male","X2012",295,39
+"786","Construction","65+","Male","X2013",309,62
+"787","Construction","65+","Male","X2014",326,59
+"788","Construction","65+","Male","X2015",357,72
+"789","Construction","65+","Male","X2016",397,76
+"790","Construction","65+","Male","X2017",479,70
+"791","Construction","65+","Male","X2018",483,79
+"792","Construction","65+","Male","X2019",572,97
+"793","Education","15-19","Female","X2011",93,27
+"794","Education","15-19","Female","X2012",112,24
+"795","Education","15-19","Female","X2013",114,30
+"796","Education","15-19","Female","X2014",98,28
+"797","Education","15-19","Female","X2015",83,28
+"798","Education","15-19","Female","X2016",98,29
+"799","Education","15-19","Female","X2017",87,29
+"800","Education","15-19","Female","X2018",79,30
+"801","Education","15-19","Female","X2019",79,34
+"802","Education","15-19","Male","X2011",216,62
+"803","Education","15-19","Male","X2012",224,66
+"804","Education","15-19","Male","X2013",212,48
+"805","Education","15-19","Male","X2014",186,56
+"806","Education","15-19","Male","X2015",181,49
+"807","Education","15-19","Male","X2016",166,55
+"808","Education","15-19","Male","X2017",149,61
+"809","Education","15-19","Male","X2018",162,63
+"810","Education","15-19","Male","X2019",132,89
+"811","Education","20-24","Female","X2011",47,19
+"812","Education","20-24","Female","X2012",59,15
+"813","Education","20-24","Female","X2013",74,16
+"814","Education","20-24","Female","X2014",71,30
+"815","Education","20-24","Female","X2015",70,20
+"816","Education","20-24","Female","X2016",64,27
+"817","Education","20-24","Female","X2017",86,22
+"818","Education","20-24","Female","X2018",75,24
+"819","Education","20-24","Female","X2019",80,40
+"820","Education","20-24","Male","X2011",36,18
+"821","Education","20-24","Male","X2012",51,15
+"822","Education","20-24","Male","X2013",53,7
+"823","Education","20-24","Male","X2014",48,14
+"824","Education","20-24","Male","X2015",42,11
+"825","Education","20-24","Male","X2016",39,13
+"826","Education","20-24","Male","X2017",43,15
+"827","Education","20-24","Male","X2018",39,18
+"828","Education","20-24","Male","X2019",44,22
+"829","Education","25-29","Female","X2011",67,23
+"830","Education","25-29","Female","X2012",56,32
+"831","Education","25-29","Female","X2013",56,18
+"832","Education","25-29","Female","X2014",87,19
+"833","Education","25-29","Female","X2015",67,16
+"834","Education","25-29","Female","X2016",64,25
+"835","Education","25-29","Female","X2017",66,19
+"836","Education","25-29","Female","X2018",58,30
+"837","Education","25-29","Female","X2019",79,32
+"838","Education","25-29","Male","X2011",46,6
+"839","Education","25-29","Male","X2012",34,7
+"840","Education","25-29","Male","X2013",45,12
+"841","Education","25-29","Male","X2014",47,7
+"842","Education","25-29","Male","X2015",24,9
+"843","Education","25-29","Male","X2016",40,15
+"844","Education","25-29","Male","X2017",38,13
+"845","Education","25-29","Male","X2018",41,8
+"846","Education","25-29","Male","X2019",38,18
+"847","Education","30-34","Female","X2011",49,15
+"848","Education","30-34","Female","X2012",49,24
+"849","Education","30-34","Female","X2013",64,19
+"850","Education","30-34","Female","X2014",62,25
+"851","Education","30-34","Female","X2015",55,18
+"852","Education","30-34","Female","X2016",51,33
+"853","Education","30-34","Female","X2017",58,30
+"854","Education","30-34","Female","X2018",52,21
+"855","Education","30-34","Female","X2019",56,36
+"856","Education","30-34","Male","X2011",29,16
+"857","Education","30-34","Male","X2012",42,18
+"858","Education","30-34","Male","X2013",49,15
+"859","Education","30-34","Male","X2014",56,18
+"860","Education","30-34","Male","X2015",30,5
+"861","Education","30-34","Male","X2016",27,13
+"862","Education","30-34","Male","X2017",32,19
+"863","Education","30-34","Male","X2018",38,13
+"864","Education","30-34","Male","X2019",31,20
+"865","Education","35-39","Female","X2011",50,22
+"866","Education","35-39","Female","X2012",47,19
+"867","Education","35-39","Female","X2013",60,27
+"868","Education","35-39","Female","X2014",62,23
+"869","Education","35-39","Female","X2015",63,20
+"870","Education","35-39","Female","X2016",61,31
+"871","Education","35-39","Female","X2017",68,26
+"872","Education","35-39","Female","X2018",63,27
+"873","Education","35-39","Female","X2019",87,35
+"874","Education","35-39","Male","X2011",39,23
+"875","Education","35-39","Male","X2012",32,16
+"876","Education","35-39","Male","X2013",36,15
+"877","Education","35-39","Male","X2014",29,24
+"878","Education","35-39","Male","X2015",25,14
+"879","Education","35-39","Male","X2016",24,17
+"880","Education","35-39","Male","X2017",35,12
+"881","Education","35-39","Male","X2018",24,29
+"882","Education","35-39","Male","X2019",43,15
+"883","Education","40-44","Female","X2011",67,34
+"884","Education","40-44","Female","X2012",75,36
+"885","Education","40-44","Female","X2013",67,41
+"886","Education","40-44","Female","X2014",91,40
+"887","Education","40-44","Female","X2015",65,30
+"888","Education","40-44","Female","X2016",67,33
+"889","Education","40-44","Female","X2017",74,34
+"890","Education","40-44","Female","X2018",71,30
+"891","Education","40-44","Female","X2019",72,51
+"892","Education","40-44","Male","X2011",34,21
+"893","Education","40-44","Male","X2012",44,24
+"894","Education","40-44","Male","X2013",40,15
+"895","Education","40-44","Male","X2014",39,29
+"896","Education","40-44","Male","X2015",35,13
+"897","Education","40-44","Male","X2016",30,19
+"898","Education","40-44","Male","X2017",33,23
+"899","Education","40-44","Male","X2018",33,14
+"900","Education","40-44","Male","X2019",35,16
+"901","Education","45-49","Female","X2011",94,48
+"902","Education","45-49","Female","X2012",94,44
+"903","Education","45-49","Female","X2013",81,45
+"904","Education","45-49","Female","X2014",92,38
+"905","Education","45-49","Female","X2015",87,46
+"906","Education","45-49","Female","X2016",62,46
+"907","Education","45-49","Female","X2017",81,37
+"908","Education","45-49","Female","X2018",88,50
+"909","Education","45-49","Female","X2019",86,41
+"910","Education","45-49","Male","X2011",51,28
+"911","Education","45-49","Male","X2012",53,25
+"912","Education","45-49","Male","X2013",40,28
+"913","Education","45-49","Male","X2014",37,27
+"914","Education","45-49","Male","X2015",48,14
+"915","Education","45-49","Male","X2016",53,16
+"916","Education","45-49","Male","X2017",33,20
+"917","Education","45-49","Male","X2018",37,20
+"918","Education","45-49","Male","X2019",54,22
+"919","Education","50-54","Female","X2011",109,67
+"920","Education","50-54","Female","X2012",123,54
+"921","Education","50-54","Female","X2013",102,50
+"922","Education","50-54","Female","X2014",105,76
+"923","Education","50-54","Female","X2015",101,64
+"924","Education","50-54","Female","X2016",96,58
+"925","Education","50-54","Female","X2017",77,63
+"926","Education","50-54","Female","X2018",95,75
+"927","Education","50-54","Female","X2019",110,57
+"928","Education","50-54","Male","X2011",55,36
+"929","Education","50-54","Male","X2012",46,36
+"930","Education","50-54","Male","X2013",57,30
+"931","Education","50-54","Male","X2014",58,35
+"932","Education","50-54","Male","X2015",73,27
+"933","Education","50-54","Male","X2016",46,24
+"934","Education","50-54","Male","X2017",64,31
+"935","Education","50-54","Male","X2018",45,22
+"936","Education","50-54","Male","X2019",62,34
+"937","Education","55-59","Female","X2011",91,53
+"938","Education","55-59","Female","X2012",81,44
+"939","Education","55-59","Female","X2013",86,53
+"940","Education","55-59","Female","X2014",91,60
+"941","Education","55-59","Female","X2015",83,45
+"942","Education","55-59","Female","X2016",78,42
+"943","Education","55-59","Female","X2017",86,52
+"944","Education","55-59","Female","X2018",98,64
+"945","Education","55-59","Female","X2019",120,63
+"946","Education","55-59","Male","X2011",44,33
+"947","Education","55-59","Male","X2012",51,19
+"948","Education","55-59","Male","X2013",47,26
+"949","Education","55-59","Male","X2014",59,37
+"950","Education","55-59","Male","X2015",58,23
+"951","Education","55-59","Male","X2016",50,30
+"952","Education","55-59","Male","X2017",54,31
+"953","Education","55-59","Male","X2018",60,45
+"954","Education","55-59","Male","X2019",55,32
+"955","Education","60-64","Female","X2011",45,24
+"956","Education","60-64","Female","X2012",47,34
+"957","Education","60-64","Female","X2013",47,31
+"958","Education","60-64","Female","X2014",56,36
+"959","Education","60-64","Female","X2015",44,32
+"960","Education","60-64","Female","X2016",66,29
+"961","Education","60-64","Female","X2017",41,35
+"962","Education","60-64","Female","X2018",72,34
+"963","Education","60-64","Female","X2019",66,53
+"964","Education","60-64","Male","X2011",36,13
+"965","Education","60-64","Male","X2012",30,17
+"966","Education","60-64","Male","X2013",35,9
+"967","Education","60-64","Male","X2014",31,19
+"968","Education","60-64","Male","X2015",31,20
+"969","Education","60-64","Male","X2016",34,18
+"970","Education","60-64","Male","X2017",32,18
+"971","Education","60-64","Male","X2018",27,17
+"972","Education","60-64","Male","X2019",47,21
+"973","Education","65+","Female","X2011",7,5
+"974","Education","65+","Female","X2012",7,9
+"975","Education","65+","Female","X2013",17,14
+"976","Education","65+","Female","X2014",17,5
+"977","Education","65+","Female","X2015",11,9
+"978","Education","65+","Female","X2016",23,9
+"979","Education","65+","Female","X2017",19,16
+"980","Education","65+","Female","X2018",28,21
+"981","Education","65+","Female","X2019",24,20
+"982","Education","65+","Male","X2011",23,4
+"983","Education","65+","Male","X2012",26,2
+"984","Education","65+","Male","X2013",23,10
+"985","Education","65+","Male","X2014",23,7
+"986","Education","65+","Male","X2015",26,4
+"987","Education","65+","Male","X2016",22,3
+"988","Education","65+","Male","X2017",18,11
+"989","Education","65+","Male","X2018",23,7
+"990","Education","65+","Male","X2019",29,4
+"991","Electrical","15-19","Female","X2011",1,1
+"992","Electrical","15-19","Female","X2012",1,0
+"993","Electrical","15-19","Female","X2013",2,0
+"994","Electrical","15-19","Female","X2014",1,0
+"995","Electrical","15-19","Female","X2015",1,0
+"996","Electrical","15-19","Female","X2016",4,2
+"997","Electrical","15-19","Female","X2017",3,2
+"998","Electrical","15-19","Female","X2018",1,0
+"999","Electrical","15-19","Female","X2019",4,1
+"1000","Electrical","15-19","Male","X2011",19,5
+"1001","Electrical","15-19","Male","X2012",20,4
+"1002","Electrical","15-19","Male","X2013",19,4
+"1003","Electrical","15-19","Male","X2014",26,3
+"1004","Electrical","15-19","Male","X2015",15,1
+"1005","Electrical","15-19","Male","X2016",17,2
+"1006","Electrical","15-19","Male","X2017",15,5
+"1007","Electrical","15-19","Male","X2018",19,2
+"1008","Electrical","15-19","Male","X2019",19,6
+"1009","Electrical","20-24","Female","X2011",9,6
+"1010","Electrical","20-24","Female","X2012",7,2
+"1011","Electrical","20-24","Female","X2013",11,2
+"1012","Electrical","20-24","Female","X2014",14,1
+"1013","Electrical","20-24","Female","X2015",11,4
+"1014","Electrical","20-24","Female","X2016",9,4
+"1015","Electrical","20-24","Female","X2017",11,1
+"1016","Electrical","20-24","Female","X2018",16,6
+"1017","Electrical","20-24","Female","X2019",15,3
+"1018","Electrical","20-24","Male","X2011",136,24
+"1019","Electrical","20-24","Male","X2012",130,22
+"1020","Electrical","20-24","Male","X2013",159,35
+"1021","Electrical","20-24","Male","X2014",166,22
+"1022","Electrical","20-24","Male","X2015",140,23
+"1023","Electrical","20-24","Male","X2016",146,25
+"1024","Electrical","20-24","Male","X2017",121,32
+"1025","Electrical","20-24","Male","X2018",146,33
+"1026","Electrical","20-24","Male","X2019",160,21
+"1027","Electrical","25-29","Female","X2011",18,7
+"1028","Electrical","25-29","Female","X2012",18,7
+"1029","Electrical","25-29","Female","X2013",15,6
+"1030","Electrical","25-29","Female","X2014",15,4
+"1031","Electrical","25-29","Female","X2015",18,7
+"1032","Electrical","25-29","Female","X2016",12,9
+"1033","Electrical","25-29","Female","X2017",13,3
+"1034","Electrical","25-29","Female","X2018",23,6
+"1035","Electrical","25-29","Female","X2019",17,8
+"1036","Electrical","25-29","Male","X2011",220,38
+"1037","Electrical","25-29","Male","X2012",227,47
+"1038","Electrical","25-29","Male","X2013",238,36
+"1039","Electrical","25-29","Male","X2014",213,32
+"1040","Electrical","25-29","Male","X2015",208,40
+"1041","Electrical","25-29","Male","X2016",210,45
+"1042","Electrical","25-29","Male","X2017",227,37
+"1043","Electrical","25-29","Male","X2018",217,51
+"1044","Electrical","25-29","Male","X2019",206,67
+"1045","Electrical","30-34","Female","X2011",30,9
+"1046","Electrical","30-34","Female","X2012",27,7
+"1047","Electrical","30-34","Female","X2013",25,12
+"1048","Electrical","30-34","Female","X2014",20,4
+"1049","Electrical","30-34","Female","X2015",13,6
+"1050","Electrical","30-34","Female","X2016",19,9
+"1051","Electrical","30-34","Female","X2017",14,3
+"1052","Electrical","30-34","Female","X2018",18,4
+"1053","Electrical","30-34","Female","X2019",15,7
+"1054","Electrical","30-34","Male","X2011",192,33
+"1055","Electrical","30-34","Male","X2012",201,36
+"1056","Electrical","30-34","Male","X2013",231,33
+"1057","Electrical","30-34","Male","X2014",242,44
+"1058","Electrical","30-34","Male","X2015",215,56
+"1059","Electrical","30-34","Male","X2016",219,43
+"1060","Electrical","30-34","Male","X2017",233,54
+"1061","Electrical","30-34","Male","X2018",213,54
+"1062","Electrical","30-34","Male","X2019",207,55
+"1063","Electrical","35-39","Female","X2011",16,3
+"1064","Electrical","35-39","Female","X2012",12,5
+"1065","Electrical","35-39","Female","X2013",23,6
+"1066","Electrical","35-39","Female","X2014",16,6
+"1067","Electrical","35-39","Female","X2015",7,2
+"1068","Electrical","35-39","Female","X2016",15,5
+"1069","Electrical","35-39","Female","X2017",8,4
+"1070","Electrical","35-39","Female","X2018",19,5
+"1071","Electrical","35-39","Female","X2019",5,4
+"1072","Electrical","35-39","Male","X2011",142,37
+"1073","Electrical","35-39","Male","X2012",142,30
+"1074","Electrical","35-39","Male","X2013",185,32
+"1075","Electrical","35-39","Male","X2014",184,33
+"1076","Electrical","35-39","Male","X2015",144,28
+"1077","Electrical","35-39","Male","X2016",154,32
+"1078","Electrical","35-39","Male","X2017",181,43
+"1079","Electrical","35-39","Male","X2018",169,47
+"1080","Electrical","35-39","Male","X2019",149,33
+"1081","Electrical","40-44","Female","X2011",24,4
+"1082","Electrical","40-44","Female","X2012",28,4
+"1083","Electrical","40-44","Female","X2013",17,1
+"1084","Electrical","40-44","Female","X2014",12,5
+"1085","Electrical","40-44","Female","X2015",12,6
+"1086","Electrical","40-44","Female","X2016",19,5
+"1087","Electrical","40-44","Female","X2017",9,4
+"1088","Electrical","40-44","Female","X2018",7,5
+"1089","Electrical","40-44","Female","X2019",14,7
+"1090","Electrical","40-44","Male","X2011",159,48
+"1091","Electrical","40-44","Male","X2012",147,36
+"1092","Electrical","40-44","Male","X2013",182,38
+"1093","Electrical","40-44","Male","X2014",136,40
+"1094","Electrical","40-44","Male","X2015",112,30
+"1095","Electrical","40-44","Male","X2016",127,37
+"1096","Electrical","40-44","Male","X2017",122,35
+"1097","Electrical","40-44","Male","X2018",148,34
+"1098","Electrical","40-44","Male","X2019",135,36
+"1099","Electrical","45-49","Female","X2011",38,10
+"1100","Electrical","45-49","Female","X2012",29,7
+"1101","Electrical","45-49","Female","X2013",33,4
+"1102","Electrical","45-49","Female","X2014",22,5
+"1103","Electrical","45-49","Female","X2015",7,6
+"1104","Electrical","45-49","Female","X2016",15,6
+"1105","Electrical","45-49","Female","X2017",13,8
+"1106","Electrical","45-49","Female","X2018",17,5
+"1107","Electrical","45-49","Female","X2019",13,7
+"1108","Electrical","45-49","Male","X2011",177,55
+"1109","Electrical","45-49","Male","X2012",193,40
+"1110","Electrical","45-49","Male","X2013",187,26
+"1111","Electrical","45-49","Male","X2014",189,39
+"1112","Electrical","45-49","Male","X2015",122,35
+"1113","Electrical","45-49","Male","X2016",129,41
+"1114","Electrical","45-49","Male","X2017",114,31
+"1115","Electrical","45-49","Male","X2018",101,32
+"1116","Electrical","45-49","Male","X2019",93,31
+"1117","Electrical","50-54","Female","X2011",20,12
+"1118","Electrical","50-54","Female","X2012",22,6
+"1119","Electrical","50-54","Female","X2013",27,4
+"1120","Electrical","50-54","Female","X2014",24,6
+"1121","Electrical","50-54","Female","X2015",16,7
+"1122","Electrical","50-54","Female","X2016",16,6
+"1123","Electrical","50-54","Female","X2017",18,3
+"1124","Electrical","50-54","Female","X2018",16,8
+"1125","Electrical","50-54","Female","X2019",14,10
+"1126","Electrical","50-54","Male","X2011",154,43
+"1127","Electrical","50-54","Male","X2012",177,32
+"1128","Electrical","50-54","Male","X2013",196,40
+"1129","Electrical","50-54","Male","X2014",180,34
+"1130","Electrical","50-54","Male","X2015",155,27
+"1131","Electrical","50-54","Male","X2016",160,38
+"1132","Electrical","50-54","Male","X2017",141,42
+"1133","Electrical","50-54","Male","X2018",124,24
+"1134","Electrical","50-54","Male","X2019",117,35
+"1135","Electrical","55-59","Female","X2011",11,4
+"1136","Electrical","55-59","Female","X2012",24,3
+"1137","Electrical","55-59","Female","X2013",16,2
+"1138","Electrical","55-59","Female","X2014",11,2
+"1139","Electrical","55-59","Female","X2015",16,2
+"1140","Electrical","55-59","Female","X2016",15,9
+"1141","Electrical","55-59","Female","X2017",11,4
+"1142","Electrical","55-59","Female","X2018",13,4
+"1143","Electrical","55-59","Female","X2019",14,7
+"1144","Electrical","55-59","Male","X2011",108,23
+"1145","Electrical","55-59","Male","X2012",113,20
+"1146","Electrical","55-59","Male","X2013",105,25
+"1147","Electrical","55-59","Male","X2014",111,23
+"1148","Electrical","55-59","Male","X2015",103,32
+"1149","Electrical","55-59","Male","X2016",91,29
+"1150","Electrical","55-59","Male","X2017",103,36
+"1151","Electrical","55-59","Male","X2018",88,32
+"1152","Electrical","55-59","Male","X2019",102,35
+"1153","Electrical","60-64","Female","X2011",5,0
+"1154","Electrical","60-64","Female","X2012",5,1
+"1155","Electrical","60-64","Female","X2013",5,4
+"1156","Electrical","60-64","Female","X2014",5,2
+"1157","Electrical","60-64","Female","X2015",7,3
+"1158","Electrical","60-64","Female","X2016",7,2
+"1159","Electrical","60-64","Female","X2017",4,5
+"1160","Electrical","60-64","Female","X2018",4,3
+"1161","Electrical","60-64","Female","X2019",6,7
+"1162","Electrical","60-64","Male","X2011",66,15
+"1163","Electrical","60-64","Male","X2012",55,10
+"1164","Electrical","60-64","Male","X2013",45,14
+"1165","Electrical","60-64","Male","X2014",47,5
+"1166","Electrical","60-64","Male","X2015",47,7
+"1167","Electrical","60-64","Male","X2016",43,16
+"1168","Electrical","60-64","Male","X2017",46,13
+"1169","Electrical","60-64","Male","X2018",47,14
+"1170","Electrical","60-64","Male","X2019",43,11
+"1171","Electrical","65+","Female","X2011",0,0
+"1172","Electrical","65+","Female","X2012",1,0
+"1173","Electrical","65+","Female","X2013",1,3
+"1174","Electrical","65+","Female","X2014",2,1
+"1175","Electrical","65+","Female","X2015",1,1
+"1176","Electrical","65+","Female","X2016",3,1
+"1177","Electrical","65+","Female","X2017",2,0
+"1178","Electrical","65+","Female","X2018",3,2
+"1179","Electrical","65+","Female","X2019",4,1
+"1180","Electrical","65+","Male","X2011",27,4
+"1181","Electrical","65+","Male","X2012",31,1
+"1182","Electrical","65+","Male","X2013",29,3
+"1183","Electrical","65+","Male","X2014",40,4
+"1184","Electrical","65+","Male","X2015",35,8
+"1185","Electrical","65+","Male","X2016",27,3
+"1186","Electrical","65+","Male","X2017",27,3
+"1187","Electrical","65+","Male","X2018",31,7
+"1188","Electrical","65+","Male","X2019",29,6
+"1189","Food","15-19","Female","X2011",19,4
+"1190","Food","15-19","Female","X2012",19,7
+"1191","Food","15-19","Female","X2013",19,4
+"1192","Food","15-19","Female","X2014",28,7
+"1193","Food","15-19","Female","X2015",23,9
+"1194","Food","15-19","Female","X2016",30,7
+"1195","Food","15-19","Female","X2017",25,9
+"1196","Food","15-19","Female","X2018",39,12
+"1197","Food","15-19","Female","X2019",33,15
+"1198","Food","15-19","Male","X2011",72,17
+"1199","Food","15-19","Male","X2012",69,21
+"1200","Food","15-19","Male","X2013",66,13
+"1201","Food","15-19","Male","X2014",65,16
+"1202","Food","15-19","Male","X2015",59,28
+"1203","Food","15-19","Male","X2016",63,18
+"1204","Food","15-19","Male","X2017",62,14
+"1205","Food","15-19","Male","X2018",82,19
+"1206","Food","15-19","Male","X2019",72,24
+"1207","Food","20-24","Female","X2011",80,14
+"1208","Food","20-24","Female","X2012",82,22
+"1209","Food","20-24","Female","X2013",63,23
+"1210","Food","20-24","Female","X2014",92,20
+"1211","Food","20-24","Female","X2015",90,20
+"1212","Food","20-24","Female","X2016",111,20
+"1213","Food","20-24","Female","X2017",106,33
+"1214","Food","20-24","Female","X2018",98,39
+"1215","Food","20-24","Female","X2019",121,29
+"1216","Food","20-24","Male","X2011",251,64
+"1217","Food","20-24","Male","X2012",264,91
+"1218","Food","20-24","Male","X2013",226,58
+"1219","Food","20-24","Male","X2014",251,64
+"1220","Food","20-24","Male","X2015",234,56
+"1221","Food","20-24","Male","X2016",275,75
+"1222","Food","20-24","Male","X2017",257,59
+"1223","Food","20-24","Male","X2018",277,63
+"1224","Food","20-24","Male","X2019",271,70
+"1225","Food","25-29","Female","X2011",102,29
+"1226","Food","25-29","Female","X2012",105,26
+"1227","Food","25-29","Female","X2013",96,31
+"1228","Food","25-29","Female","X2014",65,18
+"1229","Food","25-29","Female","X2015",82,16
+"1230","Food","25-29","Female","X2016",94,31
+"1231","Food","25-29","Female","X2017",115,24
+"1232","Food","25-29","Female","X2018",121,31
+"1233","Food","25-29","Female","X2019",124,31
+"1234","Food","25-29","Male","X2011",330,77
+"1235","Food","25-29","Male","X2012",286,76
+"1236","Food","25-29","Male","X2013",303,85
+"1237","Food","25-29","Male","X2014",274,71
+"1238","Food","25-29","Male","X2015",250,65
+"1239","Food","25-29","Male","X2016",270,83
+"1240","Food","25-29","Male","X2017",315,79
+"1241","Food","25-29","Male","X2018",283,80
+"1242","Food","25-29","Male","X2019",329,88
+"1243","Food","30-34","Female","X2011",114,32
+"1244","Food","30-34","Female","X2012",116,29
+"1245","Food","30-34","Female","X2013",115,28
+"1246","Food","30-34","Female","X2014",111,18
+"1247","Food","30-34","Female","X2015",99,24
+"1248","Food","30-34","Female","X2016",111,27
+"1249","Food","30-34","Female","X2017",97,24
+"1250","Food","30-34","Female","X2018",124,37
+"1251","Food","30-34","Female","X2019",96,34
+"1252","Food","30-34","Male","X2011",366,96
+"1253","Food","30-34","Male","X2012",344,78
+"1254","Food","30-34","Male","X2013",281,75
+"1255","Food","30-34","Male","X2014",278,65
+"1256","Food","30-34","Male","X2015",259,59
+"1257","Food","30-34","Male","X2016",266,85
+"1258","Food","30-34","Male","X2017",287,71
+"1259","Food","30-34","Male","X2018",275,86
+"1260","Food","30-34","Male","X2019",288,81
+"1261","Food","35-39","Female","X2011",168,44
+"1262","Food","35-39","Female","X2012",142,35
+"1263","Food","35-39","Female","X2013",109,34
+"1264","Food","35-39","Female","X2014",135,31
+"1265","Food","35-39","Female","X2015",123,30
+"1266","Food","35-39","Female","X2016",110,31
+"1267","Food","35-39","Female","X2017",112,31
+"1268","Food","35-39","Female","X2018",117,34
+"1269","Food","35-39","Female","X2019",121,44
+"1270","Food","35-39","Male","X2011",370,99
+"1271","Food","35-39","Male","X2012",320,116
+"1272","Food","35-39","Male","X2013",352,76
+"1273","Food","35-39","Male","X2014",305,77
+"1274","Food","35-39","Male","X2015",287,87
+"1275","Food","35-39","Male","X2016",297,80
+"1276","Food","35-39","Male","X2017",276,82
+"1277","Food","35-39","Male","X2018",306,89
+"1278","Food","35-39","Male","X2019",302,83
+"1279","Food","40-44","Female","X2011",181,52
+"1280","Food","40-44","Female","X2012",174,44
+"1281","Food","40-44","Female","X2013",172,46
+"1282","Food","40-44","Female","X2014",154,28
+"1283","Food","40-44","Female","X2015",157,46
+"1284","Food","40-44","Female","X2016",130,40
+"1285","Food","40-44","Female","X2017",151,43
+"1286","Food","40-44","Female","X2018",166,53
+"1287","Food","40-44","Female","X2019",171,45
+"1288","Food","40-44","Male","X2011",366,102
+"1289","Food","40-44","Male","X2012",373,111
+"1290","Food","40-44","Male","X2013",325,79
+"1291","Food","40-44","Male","X2014",334,78
+"1292","Food","40-44","Male","X2015",303,85
+"1293","Food","40-44","Male","X2016",313,81
+"1294","Food","40-44","Male","X2017",313,86
+"1295","Food","40-44","Male","X2018",306,83
+"1296","Food","40-44","Male","X2019",290,79
+"1297","Food","45-49","Female","X2011",283,75
+"1298","Food","45-49","Female","X2012",256,59
+"1299","Food","45-49","Female","X2013",225,54
+"1300","Food","45-49","Female","X2014",190,55
+"1301","Food","45-49","Female","X2015",187,40
+"1302","Food","45-49","Female","X2016",181,45
+"1303","Food","45-49","Female","X2017",187,61
+"1304","Food","45-49","Female","X2018",188,65
+"1305","Food","45-49","Female","X2019",191,55
+"1306","Food","45-49","Male","X2011",423,107
+"1307","Food","45-49","Male","X2012",390,114
+"1308","Food","45-49","Male","X2013",358,93
+"1309","Food","45-49","Male","X2014",302,84
+"1310","Food","45-49","Male","X2015",319,88
+"1311","Food","45-49","Male","X2016",296,91
+"1312","Food","45-49","Male","X2017",314,90
+"1313","Food","45-49","Male","X2018",338,96
+"1314","Food","45-49","Male","X2019",304,79
+"1315","Food","50-54","Female","X2011",255,61
+"1316","Food","50-54","Female","X2012",258,63
+"1317","Food","50-54","Female","X2013",287,55
+"1318","Food","50-54","Female","X2014",222,54
+"1319","Food","50-54","Female","X2015",223,51
+"1320","Food","50-54","Female","X2016",191,62
+"1321","Food","50-54","Female","X2017",194,68
+"1322","Food","50-54","Female","X2018",217,59
+"1323","Food","50-54","Female","X2019",210,71
+"1324","Food","50-54","Male","X2011",402,117
+"1325","Food","50-54","Male","X2012",395,107
+"1326","Food","50-54","Male","X2013",386,114
+"1327","Food","50-54","Male","X2014",370,97
+"1328","Food","50-54","Male","X2015",338,87
+"1329","Food","50-54","Male","X2016",326,88
+"1330","Food","50-54","Male","X2017",345,85
+"1331","Food","50-54","Male","X2018",341,107
+"1332","Food","50-54","Male","X2019",324,98
+"1333","Food","55-59","Female","X2011",149,59
+"1334","Food","55-59","Female","X2012",142,42
+"1335","Food","55-59","Female","X2013",176,51
+"1336","Food","55-59","Female","X2014",143,41
+"1337","Food","55-59","Female","X2015",147,49
+"1338","Food","55-59","Female","X2016",162,38
+"1339","Food","55-59","Female","X2017",189,61
+"1340","Food","55-59","Female","X2018",194,63
+"1341","Food","55-59","Female","X2019",199,61
+"1342","Food","55-59","Male","X2011",277,77
+"1343","Food","55-59","Male","X2012",268,65
+"1344","Food","55-59","Male","X2013",318,76
+"1345","Food","55-59","Male","X2014",298,81
+"1346","Food","55-59","Male","X2015",268,86
+"1347","Food","55-59","Male","X2016",286,88
+"1348","Food","55-59","Male","X2017",304,94
+"1349","Food","55-59","Male","X2018",296,102
+"1350","Food","55-59","Male","X2019",337,107
+"1351","Food","60-64","Female","X2011",56,14
+"1352","Food","60-64","Female","X2012",64,22
+"1353","Food","60-64","Female","X2013",72,37
+"1354","Food","60-64","Female","X2014",88,20
+"1355","Food","60-64","Female","X2015",79,23
+"1356","Food","60-64","Female","X2016",70,30
+"1357","Food","60-64","Female","X2017",79,25
+"1358","Food","60-64","Female","X2018",94,35
+"1359","Food","60-64","Female","X2019",102,36
+"1360","Food","60-64","Male","X2011",160,35
+"1361","Food","60-64","Male","X2012",175,49
+"1362","Food","60-64","Male","X2013",139,52
+"1363","Food","60-64","Male","X2014",187,46
+"1364","Food","60-64","Male","X2015",185,48
+"1365","Food","60-64","Male","X2016",172,72
+"1366","Food","60-64","Male","X2017",173,61
+"1367","Food","60-64","Male","X2018",218,70
+"1368","Food","60-64","Male","X2019",225,70
+"1369","Food","65+","Female","X2011",24,7
+"1370","Food","65+","Female","X2012",17,7
+"1371","Food","65+","Female","X2013",20,4
+"1372","Food","65+","Female","X2014",16,5
+"1373","Food","65+","Female","X2015",25,5
+"1374","Food","65+","Female","X2016",30,9
+"1375","Food","65+","Female","X2017",17,4
+"1376","Food","65+","Female","X2018",31,8
+"1377","Food","65+","Female","X2019",34,8
+"1378","Food","65+","Male","X2011",55,6
+"1379","Food","65+","Male","X2012",78,10
+"1380","Food","65+","Male","X2013",74,18
+"1381","Food","65+","Male","X2014",92,25
+"1382","Food","65+","Male","X2015",78,21
+"1383","Food","65+","Male","X2016",79,19
+"1384","Food","65+","Male","X2017",104,18
+"1385","Food","65+","Male","X2018",116,27
+"1386","Food","65+","Male","X2019",144,25
+"1387","Forestry","15-19","Female","X2011",2,0
+"1388","Forestry","15-19","Female","X2012",3,1
+"1389","Forestry","15-19","Female","X2013",2,0
+"1390","Forestry","15-19","Female","X2014",8,0
+"1391","Forestry","15-19","Female","X2015",4,3
+"1392","Forestry","15-19","Female","X2016",7,2
+"1393","Forestry","15-19","Female","X2017",7,0
+"1394","Forestry","15-19","Female","X2018",7,0
+"1395","Forestry","15-19","Female","X2019",5,1
+"1396","Forestry","15-19","Male","X2011",13,5
+"1397","Forestry","15-19","Male","X2012",15,6
+"1398","Forestry","15-19","Male","X2013",23,9
+"1399","Forestry","15-19","Male","X2014",23,3
+"1400","Forestry","15-19","Male","X2015",33,10
+"1401","Forestry","15-19","Male","X2016",25,11
+"1402","Forestry","15-19","Male","X2017",19,11
+"1403","Forestry","15-19","Male","X2018",27,5
+"1404","Forestry","15-19","Male","X2019",31,8
+"1405","Forestry","20-24","Female","X2011",7,3
+"1406","Forestry","20-24","Female","X2012",5,1
+"1407","Forestry","20-24","Female","X2013",15,4
+"1408","Forestry","20-24","Female","X2014",13,1
+"1409","Forestry","20-24","Female","X2015",13,3
+"1410","Forestry","20-24","Female","X2016",26,2
+"1411","Forestry","20-24","Female","X2017",9,4
+"1412","Forestry","20-24","Female","X2018",24,1
+"1413","Forestry","20-24","Female","X2019",26,4
+"1414","Forestry","20-24","Male","X2011",49,14
+"1415","Forestry","20-24","Male","X2012",49,9
+"1416","Forestry","20-24","Male","X2013",59,18
+"1417","Forestry","20-24","Male","X2014",51,17
+"1418","Forestry","20-24","Male","X2015",64,24
+"1419","Forestry","20-24","Male","X2016",80,21
+"1420","Forestry","20-24","Male","X2017",62,23
+"1421","Forestry","20-24","Male","X2018",84,12
+"1422","Forestry","20-24","Male","X2019",66,16
+"1423","Forestry","25-29","Female","X2011",2,2
+"1424","Forestry","25-29","Female","X2012",2,2
+"1425","Forestry","25-29","Female","X2013",7,0
+"1426","Forestry","25-29","Female","X2014",3,0
+"1427","Forestry","25-29","Female","X2015",6,1
+"1428","Forestry","25-29","Female","X2016",7,3
+"1429","Forestry","25-29","Female","X2017",7,2
+"1430","Forestry","25-29","Female","X2018",8,4
+"1431","Forestry","25-29","Female","X2019",13,1
+"1432","Forestry","25-29","Male","X2011",38,13
+"1433","Forestry","25-29","Male","X2012",36,14
+"1434","Forestry","25-29","Male","X2013",46,14
+"1435","Forestry","25-29","Male","X2014",46,13
+"1436","Forestry","25-29","Male","X2015",67,14
+"1437","Forestry","25-29","Male","X2016",45,23
+"1438","Forestry","25-29","Male","X2017",48,13
+"1439","Forestry","25-29","Male","X2018",57,19
+"1440","Forestry","25-29","Male","X2019",61,15
+"1441","Forestry","30-34","Female","X2011",2,1
+"1442","Forestry","30-34","Female","X2012",3,0
+"1443","Forestry","30-34","Female","X2013",0,1
+"1444","Forestry","30-34","Female","X2014",3,0
+"1445","Forestry","30-34","Female","X2015",7,2
+"1446","Forestry","30-34","Female","X2016",1,2
+"1447","Forestry","30-34","Female","X2017",5,2
+"1448","Forestry","30-34","Female","X2018",4,2
+"1449","Forestry","30-34","Female","X2019",3,0
+"1450","Forestry","30-34","Male","X2011",27,9
+"1451","Forestry","30-34","Male","X2012",40,11
+"1452","Forestry","30-34","Male","X2013",34,17
+"1453","Forestry","30-34","Male","X2014",40,6
+"1454","Forestry","30-34","Male","X2015",41,8
+"1455","Forestry","30-34","Male","X2016",41,12
+"1456","Forestry","30-34","Male","X2017",52,9
+"1457","Forestry","30-34","Male","X2018",52,16
+"1458","Forestry","30-34","Male","X2019",45,10
+"1459","Forestry","35-39","Female","X2011",1,1
+"1460","Forestry","35-39","Female","X2012",5,0
+"1461","Forestry","35-39","Female","X2013",4,4
+"1462","Forestry","35-39","Female","X2014",5,0
+"1463","Forestry","35-39","Female","X2015",0,1
+"1464","Forestry","35-39","Female","X2016",5,1
+"1465","Forestry","35-39","Female","X2017",5,3
+"1466","Forestry","35-39","Female","X2018",4,3
+"1467","Forestry","35-39","Female","X2019",7,2
+"1468","Forestry","35-39","Male","X2011",28,15
+"1469","Forestry","35-39","Male","X2012",42,5
+"1470","Forestry","35-39","Male","X2013",33,13
+"1471","Forestry","35-39","Male","X2014",33,10
+"1472","Forestry","35-39","Male","X2015",40,10
+"1473","Forestry","35-39","Male","X2016",38,10
+"1474","Forestry","35-39","Male","X2017",42,18
+"1475","Forestry","35-39","Male","X2018",32,14
+"1476","Forestry","35-39","Male","X2019",51,10
+"1477","Forestry","40-44","Female","X2011",8,0
+"1478","Forestry","40-44","Female","X2012",4,0
+"1479","Forestry","40-44","Female","X2013",6,1
+"1480","Forestry","40-44","Female","X2014",3,0
+"1481","Forestry","40-44","Female","X2015",4,1
+"1482","Forestry","40-44","Female","X2016",8,5
+"1483","Forestry","40-44","Female","X2017",10,5
+"1484","Forestry","40-44","Female","X2018",9,3
+"1485","Forestry","40-44","Female","X2019",11,1
+"1486","Forestry","40-44","Male","X2011",39,16
+"1487","Forestry","40-44","Male","X2012",39,17
+"1488","Forestry","40-44","Male","X2013",44,14
+"1489","Forestry","40-44","Male","X2014",35,16
+"1490","Forestry","40-44","Male","X2015",40,8
+"1491","Forestry","40-44","Male","X2016",42,17
+"1492","Forestry","40-44","Male","X2017",36,18
+"1493","Forestry","40-44","Male","X2018",40,16
+"1494","Forestry","40-44","Male","X2019",36,8
+"1495","Forestry","45-49","Female","X2011",4,0
+"1496","Forestry","45-49","Female","X2012",3,2
+"1497","Forestry","45-49","Female","X2013",7,0
+"1498","Forestry","45-49","Female","X2014",1,1
+"1499","Forestry","45-49","Female","X2015",9,0
+"1500","Forestry","45-49","Female","X2016",4,0
+"1501","Forestry","45-49","Female","X2017",3,2
+"1502","Forestry","45-49","Female","X2018",6,1
+"1503","Forestry","45-49","Female","X2019",3,1
+"1504","Forestry","45-49","Male","X2011",52,28
+"1505","Forestry","45-49","Male","X2012",42,21
+"1506","Forestry","45-49","Male","X2013",55,10
+"1507","Forestry","45-49","Male","X2014",40,11
+"1508","Forestry","45-49","Male","X2015",45,17
+"1509","Forestry","45-49","Male","X2016",35,17
+"1510","Forestry","45-49","Male","X2017",50,11
+"1511","Forestry","45-49","Male","X2018",47,11
+"1512","Forestry","45-49","Male","X2019",37,12
+"1513","Forestry","50-54","Female","X2011",7,1
+"1514","Forestry","50-54","Female","X2012",5,1
+"1515","Forestry","50-54","Female","X2013",7,1
+"1516","Forestry","50-54","Female","X2014",7,0
+"1517","Forestry","50-54","Female","X2015",9,0
+"1518","Forestry","50-54","Female","X2016",5,2
+"1519","Forestry","50-54","Female","X2017",5,3
+"1520","Forestry","50-54","Female","X2018",1,5
+"1521","Forestry","50-54","Female","X2019",8,2
+"1522","Forestry","50-54","Male","X2011",72,17
+"1523","Forestry","50-54","Male","X2012",47,16
+"1524","Forestry","50-54","Male","X2013",59,12
+"1525","Forestry","50-54","Male","X2014",57,17
+"1526","Forestry","50-54","Male","X2015",61,30
+"1527","Forestry","50-54","Male","X2016",48,18
+"1528","Forestry","50-54","Male","X2017",62,20
+"1529","Forestry","50-54","Male","X2018",48,14
+"1530","Forestry","50-54","Male","X2019",45,16
+"1531","Forestry","55-59","Female","X2011",4,2
+"1532","Forestry","55-59","Female","X2012",3,0
+"1533","Forestry","55-59","Female","X2013",7,2
+"1534","Forestry","55-59","Female","X2014",4,1
+"1535","Forestry","55-59","Female","X2015",4,1
+"1536","Forestry","55-59","Female","X2016",3,0
+"1537","Forestry","55-59","Female","X2017",5,1
+"1538","Forestry","55-59","Female","X2018",6,0
+"1539","Forestry","55-59","Female","X2019",10,2
+"1540","Forestry","55-59","Male","X2011",60,9
+"1541","Forestry","55-59","Male","X2012",68,12
+"1542","Forestry","55-59","Male","X2013",68,13
+"1543","Forestry","55-59","Male","X2014",70,24
+"1544","Forestry","55-59","Male","X2015",61,17
+"1545","Forestry","55-59","Male","X2016",44,20
+"1546","Forestry","55-59","Male","X2017",60,18
+"1547","Forestry","55-59","Male","X2018",64,21
+"1548","Forestry","55-59","Male","X2019",57,24
+"1549","Forestry","60-64","Female","X2011",1,2
+"1550","Forestry","60-64","Female","X2012",0,0
+"1551","Forestry","60-64","Female","X2013",0,0
+"1552","Forestry","60-64","Female","X2014",1,0
+"1553","Forestry","60-64","Female","X2015",3,1
+"1554","Forestry","60-64","Female","X2016",3,0
+"1555","Forestry","60-64","Female","X2017",1,1
+"1556","Forestry","60-64","Female","X2018",2,0
+"1557","Forestry","60-64","Female","X2019",4,1
+"1558","Forestry","60-64","Male","X2011",29,19
+"1559","Forestry","60-64","Male","X2012",32,10
+"1560","Forestry","60-64","Male","X2013",33,14
+"1561","Forestry","60-64","Male","X2014",35,9
+"1562","Forestry","60-64","Male","X2015",38,12
+"1563","Forestry","60-64","Male","X2016",27,10
+"1564","Forestry","60-64","Male","X2017",51,19
+"1565","Forestry","60-64","Male","X2018",50,15
+"1566","Forestry","60-64","Male","X2019",45,15
+"1567","Forestry","65+","Female","X2011",2,0
+"1568","Forestry","65+","Female","X2012",1,1
+"1569","Forestry","65+","Female","X2013",3,0
+"1570","Forestry","65+","Female","X2014",2,0
+"1571","Forestry","65+","Female","X2015",2,1
+"1572","Forestry","65+","Female","X2016",1,1
+"1573","Forestry","65+","Female","X2017",1,0
+"1574","Forestry","65+","Female","X2018",3,0
+"1575","Forestry","65+","Female","X2019",6,0
+"1576","Forestry","65+","Male","X2011",24,1
+"1577","Forestry","65+","Male","X2012",29,3
+"1578","Forestry","65+","Male","X2013",42,0
+"1579","Forestry","65+","Male","X2014",55,5
+"1580","Forestry","65+","Male","X2015",43,1
+"1581","Forestry","65+","Male","X2016",42,3
+"1582","Forestry","65+","Male","X2017",42,2
+"1583","Forestry","65+","Male","X2018",46,2
+"1584","Forestry","65+","Male","X2019",43,4
+"1585","Health Care","15-19","Female","X2011",49,16
+"1586","Health Care","15-19","Female","X2012",52,22
+"1587","Health Care","15-19","Female","X2013",57,19
+"1588","Health Care","15-19","Female","X2014",65,29
+"1589","Health Care","15-19","Female","X2015",48,33
+"1590","Health Care","15-19","Female","X2016",62,31
+"1591","Health Care","15-19","Female","X2017",65,24
+"1592","Health Care","15-19","Female","X2018",92,32
+"1593","Health Care","15-19","Female","X2019",94,40
+"1594","Health Care","15-19","Male","X2011",18,7
+"1595","Health Care","15-19","Male","X2012",20,11
+"1596","Health Care","15-19","Male","X2013",16,13
+"1597","Health Care","15-19","Male","X2014",28,10
+"1598","Health Care","15-19","Male","X2015",14,15
+"1599","Health Care","15-19","Male","X2016",16,7
+"1600","Health Care","15-19","Male","X2017",21,10
+"1601","Health Care","15-19","Male","X2018",18,4
+"1602","Health Care","15-19","Male","X2019",12,10
+"1603","Health Care","20-24","Female","X2011",688,290
+"1604","Health Care","20-24","Female","X2012",820,343
+"1605","Health Care","20-24","Female","X2013",765,288
+"1606","Health Care","20-24","Female","X2014",810,315
+"1607","Health Care","20-24","Female","X2015",825,324
+"1608","Health Care","20-24","Female","X2016",883,356
+"1609","Health Care","20-24","Female","X2017",878,376
+"1610","Health Care","20-24","Female","X2018",998,452
+"1611","Health Care","20-24","Female","X2019",1063,502
+"1612","Health Care","20-24","Male","X2011",120,47
+"1613","Health Care","20-24","Male","X2012",117,42
+"1614","Health Care","20-24","Male","X2013",122,31
+"1615","Health Care","20-24","Male","X2014",107,37
+"1616","Health Care","20-24","Male","X2015",124,42
+"1617","Health Care","20-24","Male","X2016",123,46
+"1618","Health Care","20-24","Male","X2017",131,44
+"1619","Health Care","20-24","Male","X2018",151,60
+"1620","Health Care","20-24","Male","X2019",160,53
+"1621","Health Care","25-29","Female","X2011",1256,625
+"1622","Health Care","25-29","Female","X2012",1368,663
+"1623","Health Care","25-29","Female","X2013",1403,601
+"1624","Health Care","25-29","Female","X2014",1500,566
+"1625","Health Care","25-29","Female","X2015",1390,586
+"1626","Health Care","25-29","Female","X2016",1451,635
+"1627","Health Care","25-29","Female","X2017",1628,619
+"1628","Health Care","25-29","Female","X2018",1602,735
+"1629","Health Care","25-29","Female","X2019",1677,827
+"1630","Health Care","25-29","Male","X2011",229,90
+"1631","Health Care","25-29","Male","X2012",239,82
+"1632","Health Care","25-29","Male","X2013",263,72
+"1633","Health Care","25-29","Male","X2014",243,77
+"1634","Health Care","25-29","Male","X2015",266,74
+"1635","Health Care","25-29","Male","X2016",195,74
+"1636","Health Care","25-29","Male","X2017",259,99
+"1637","Health Care","25-29","Male","X2018",305,100
+"1638","Health Care","25-29","Male","X2019",319,134
+"1639","Health Care","30-34","Female","X2011",1156,578
+"1640","Health Care","30-34","Female","X2012",1199,587
+"1641","Health Care","30-34","Female","X2013",1262,609
+"1642","Health Care","30-34","Female","X2014",1337,612
+"1643","Health Care","30-34","Female","X2015",1375,606
+"1644","Health Care","30-34","Female","X2016",1395,655
+"1645","Health Care","30-34","Female","X2017",1488,664
+"1646","Health Care","30-34","Female","X2018",1523,721
+"1647","Health Care","30-34","Female","X2019",1586,760
+"1648","Health Care","30-34","Male","X2011",203,102
+"1649","Health Care","30-34","Male","X2012",209,109
+"1650","Health Care","30-34","Male","X2013",209,98
+"1651","Health Care","30-34","Male","X2014",237,76
+"1652","Health Care","30-34","Male","X2015",246,86
+"1653","Health Care","30-34","Male","X2016",225,95
+"1654","Health Care","30-34","Male","X2017",236,88
+"1655","Health Care","30-34","Male","X2018",250,129
+"1656","Health Care","30-34","Male","X2019",275,152
+"1657","Health Care","35-39","Female","X2011",1317,670
+"1658","Health Care","35-39","Female","X2012",1321,733
+"1659","Health Care","35-39","Female","X2013",1334,659
+"1660","Health Care","35-39","Female","X2014",1441,614
+"1661","Health Care","35-39","Female","X2015",1289,629
+"1662","Health Care","35-39","Female","X2016",1369,675
+"1663","Health Care","35-39","Female","X2017",1466,668
+"1664","Health Care","35-39","Female","X2018",1485,767
+"1665","Health Care","35-39","Female","X2019",1602,809
+"1666","Health Care","35-39","Male","X2011",196,99
+"1667","Health Care","35-39","Male","X2012",218,94
+"1668","Health Care","35-39","Male","X2013",205,93
+"1669","Health Care","35-39","Male","X2014",215,92
+"1670","Health Care","35-39","Male","X2015",216,89
+"1671","Health Care","35-39","Male","X2016",191,93
+"1672","Health Care","35-39","Male","X2017",217,73
+"1673","Health Care","35-39","Male","X2018",235,91
+"1674","Health Care","35-39","Male","X2019",259,116
+"1675","Health Care","40-44","Female","X2011",1505,802
+"1676","Health Care","40-44","Female","X2012",1459,817
+"1677","Health Care","40-44","Female","X2013",1553,700
+"1678","Health Care","40-44","Female","X2014",1573,689
+"1679","Health Care","40-44","Female","X2015",1480,709
+"1680","Health Care","40-44","Female","X2016",1432,700
+"1681","Health Care","40-44","Female","X2017",1458,740
+"1682","Health Care","40-44","Female","X2018",1587,811
+"1683","Health Care","40-44","Female","X2019",1517,904
+"1684","Health Care","40-44","Male","X2011",191,117
+"1685","Health Care","40-44","Male","X2012",217,111
+"1686","Health Care","40-44","Male","X2013",258,95
+"1687","Health Care","40-44","Male","X2014",237,98
+"1688","Health Care","40-44","Male","X2015",224,107
+"1689","Health Care","40-44","Male","X2016",222,93
+"1690","Health Care","40-44","Male","X2017",240,94
+"1691","Health Care","40-44","Male","X2018",236,102
+"1692","Health Care","40-44","Male","X2019",235,95
+"1693","Health Care","45-49","Female","X2011",1804,949
+"1694","Health Care","45-49","Female","X2012",1704,993
+"1695","Health Care","45-49","Female","X2013",1683,835
+"1696","Health Care","45-49","Female","X2014",1679,818
+"1697","Health Care","45-49","Female","X2015",1587,767
+"1698","Health Care","45-49","Female","X2016",1575,824
+"1699","Health Care","45-49","Female","X2017",1655,791
+"1700","Health Care","45-49","Female","X2018",1675,863
+"1701","Health Care","45-49","Female","X2019",1708,903
+"1702","Health Care","45-49","Male","X2011",266,110
+"1703","Health Care","45-49","Male","X2012",267,138
+"1704","Health Care","45-49","Male","X2013",271,114
+"1705","Health Care","45-49","Male","X2014",222,112
+"1706","Health Care","45-49","Male","X2015",199,110
+"1707","Health Care","45-49","Male","X2016",247,99
+"1708","Health Care","45-49","Male","X2017",250,127
+"1709","Health Care","45-49","Male","X2018",268,131
+"1710","Health Care","45-49","Male","X2019",247,128
+"1711","Health Care","50-54","Female","X2011",1676,873
+"1712","Health Care","50-54","Female","X2012",1769,968
+"1713","Health Care","50-54","Female","X2013",1839,935
+"1714","Health Care","50-54","Female","X2014",1906,907
+"1715","Health Care","50-54","Female","X2015",1891,822
+"1716","Health Care","50-54","Female","X2016",1826,963
+"1717","Health Care","50-54","Female","X2017",1855,892
+"1718","Health Care","50-54","Female","X2018",1855,950
+"1719","Health Care","50-54","Female","X2019",1824,961
+"1720","Health Care","50-54","Male","X2011",232,108
+"1721","Health Care","50-54","Male","X2012",274,117
+"1722","Health Care","50-54","Male","X2013",264,110
+"1723","Health Care","50-54","Male","X2014",266,120
+"1724","Health Care","50-54","Male","X2015",272,110
+"1725","Health Care","50-54","Male","X2016",238,111
+"1726","Health Care","50-54","Male","X2017",259,122
+"1727","Health Care","50-54","Male","X2018",264,102
+"1728","Health Care","50-54","Male","X2019",245,151
+"1729","Health Care","55-59","Female","X2011",1265,701
+"1730","Health Care","55-59","Female","X2012",1304,726
+"1731","Health Care","55-59","Female","X2013",1319,687
+"1732","Health Care","55-59","Female","X2014",1460,680
+"1733","Health Care","55-59","Female","X2015",1373,601
+"1734","Health Care","55-59","Female","X2016",1465,686
+"1735","Health Care","55-59","Female","X2017",1613,758
+"1736","Health Care","55-59","Female","X2018",1578,877
+"1737","Health Care","55-59","Female","X2019",1658,913
+"1738","Health Care","55-59","Male","X2011",162,81
+"1739","Health Care","55-59","Male","X2012",174,90
+"1740","Health Care","55-59","Male","X2013",198,82
+"1741","Health Care","55-59","Male","X2014",192,89
+"1742","Health Care","55-59","Male","X2015",201,84
+"1743","Health Care","55-59","Male","X2016",238,93
+"1744","Health Care","55-59","Male","X2017",260,109
+"1745","Health Care","55-59","Male","X2018",218,110
+"1746","Health Care","55-59","Male","X2019",235,110
+"1747","Health Care","60-64","Female","X2011",571,359
+"1748","Health Care","60-64","Female","X2012",664,392
+"1749","Health Care","60-64","Female","X2013",712,369
+"1750","Health Care","60-64","Female","X2014",739,373
+"1751","Health Care","60-64","Female","X2015",761,386
+"1752","Health Care","60-64","Female","X2016",781,419
+"1753","Health Care","60-64","Female","X2017",811,421
+"1754","Health Care","60-64","Female","X2018",884,520
+"1755","Health Care","60-64","Female","X2019",942,521
+"1756","Health Care","60-64","Male","X2011",81,44
+"1757","Health Care","60-64","Male","X2012",88,50
+"1758","Health Care","60-64","Male","X2013",100,42
+"1759","Health Care","60-64","Male","X2014",106,37
+"1760","Health Care","60-64","Male","X2015",95,42
+"1761","Health Care","60-64","Male","X2016",94,52
+"1762","Health Care","60-64","Male","X2017",139,60
+"1763","Health Care","60-64","Male","X2018",140,61
+"1764","Health Care","60-64","Male","X2019",144,76
+"1765","Health Care","65+","Female","X2011",129,71
+"1766","Health Care","65+","Female","X2012",168,111
+"1767","Health Care","65+","Female","X2013",222,111
+"1768","Health Care","65+","Female","X2014",230,113
+"1769","Health Care","65+","Female","X2015",222,118
+"1770","Health Care","65+","Female","X2016",237,168
+"1771","Health Care","65+","Female","X2017",276,164
+"1772","Health Care","65+","Female","X2018",281,166
+"1773","Health Care","65+","Female","X2019",320,228
+"1774","Health Care","65+","Male","X2011",40,20
+"1775","Health Care","65+","Male","X2012",25,9
+"1776","Health Care","65+","Male","X2013",46,19
+"1777","Health Care","65+","Male","X2014",40,16
+"1778","Health Care","65+","Male","X2015",31,17
+"1779","Health Care","65+","Male","X2016",40,25
+"1780","Health Care","65+","Male","X2017",50,28
+"1781","Health Care","65+","Male","X2018",50,34
+"1782","Health Care","65+","Male","X2019",60,26
+"1783","Manufacturing","15-19","Female","X2011",45,20
+"1784","Manufacturing","15-19","Female","X2012",40,14
+"1785","Manufacturing","15-19","Female","X2013",50,15
+"1786","Manufacturing","15-19","Female","X2014",53,20
+"1787","Manufacturing","15-19","Female","X2015",73,15
+"1788","Manufacturing","15-19","Female","X2016",65,20
+"1789","Manufacturing","15-19","Female","X2017",69,31
+"1790","Manufacturing","15-19","Female","X2018",73,33
+"1791","Manufacturing","15-19","Female","X2019",67,33
+"1792","Manufacturing","15-19","Male","X2011",425,95
+"1793","Manufacturing","15-19","Male","X2012",539,95
+"1794","Manufacturing","15-19","Male","X2013",462,94
+"1795","Manufacturing","15-19","Male","X2014",516,117
+"1796","Manufacturing","15-19","Male","X2015",555,125
+"1797","Manufacturing","15-19","Male","X2016",534,127
+"1798","Manufacturing","15-19","Male","X2017",551,129
+"1799","Manufacturing","15-19","Male","X2018",519,144
+"1800","Manufacturing","15-19","Male","X2019",540,130
+"1801","Manufacturing","20-24","Female","X2011",200,93
+"1802","Manufacturing","20-24","Female","X2012",218,79
+"1803","Manufacturing","20-24","Female","X2013",205,86
+"1804","Manufacturing","20-24","Female","X2014",216,69
+"1805","Manufacturing","20-24","Female","X2015",251,72
+"1806","Manufacturing","20-24","Female","X2016",302,102
+"1807","Manufacturing","20-24","Female","X2017",354,119
+"1808","Manufacturing","20-24","Female","X2018",355,124
+"1809","Manufacturing","20-24","Female","X2019",365,159
+"1810","Manufacturing","20-24","Male","X2011",1827,433
+"1811","Manufacturing","20-24","Male","X2012",1891,460
+"1812","Manufacturing","20-24","Male","X2013",1848,449
+"1813","Manufacturing","20-24","Male","X2014",1797,399
+"1814","Manufacturing","20-24","Male","X2015",1921,437
+"1815","Manufacturing","20-24","Male","X2016",1944,483
+"1816","Manufacturing","20-24","Male","X2017",2029,514
+"1817","Manufacturing","20-24","Male","X2018",2076,573
+"1818","Manufacturing","20-24","Male","X2019",2041,600
+"1819","Manufacturing","25-29","Female","X2011",269,96
+"1820","Manufacturing","25-29","Female","X2012",254,89
+"1821","Manufacturing","25-29","Female","X2013",240,78
+"1822","Manufacturing","25-29","Female","X2014",264,91
+"1823","Manufacturing","25-29","Female","X2015",260,103
+"1824","Manufacturing","25-29","Female","X2016",288,124
+"1825","Manufacturing","25-29","Female","X2017",319,119
+"1826","Manufacturing","25-29","Female","X2018",363,144
+"1827","Manufacturing","25-29","Female","X2019",393,165
+"1828","Manufacturing","25-29","Male","X2011",2003,507
+"1829","Manufacturing","25-29","Male","X2012",2004,526
+"1830","Manufacturing","25-29","Male","X2013",1903,491
+"1831","Manufacturing","25-29","Male","X2014",1806,497
+"1832","Manufacturing","25-29","Male","X2015",1988,458
+"1833","Manufacturing","25-29","Male","X2016",1878,515
+"1834","Manufacturing","25-29","Male","X2017",1951,578
+"1835","Manufacturing","25-29","Male","X2018",2082,630
+"1836","Manufacturing","25-29","Male","X2019",2094,655
+"1837","Manufacturing","30-34","Female","X2011",279,104
+"1838","Manufacturing","30-34","Female","X2012",266,106
+"1839","Manufacturing","30-34","Female","X2013",272,114
+"1840","Manufacturing","30-34","Female","X2014",266,104
+"1841","Manufacturing","30-34","Female","X2015",218,86
+"1842","Manufacturing","30-34","Female","X2016",230,100
+"1843","Manufacturing","30-34","Female","X2017",242,96
+"1844","Manufacturing","30-34","Female","X2018",290,139
+"1845","Manufacturing","30-34","Female","X2019",300,130
+"1846","Manufacturing","30-34","Male","X2011",1922,545
+"1847","Manufacturing","30-34","Male","X2012",1880,503
+"1848","Manufacturing","30-34","Male","X2013",1839,486
+"1849","Manufacturing","30-34","Male","X2014",1773,485
+"1850","Manufacturing","30-34","Male","X2015",1736,453
+"1851","Manufacturing","30-34","Male","X2016",1630,493
+"1852","Manufacturing","30-34","Male","X2017",1696,515
+"1853","Manufacturing","30-34","Male","X2018",1728,544
+"1854","Manufacturing","30-34","Male","X2019",1793,571
+"1855","Manufacturing","35-39","Female","X2011",329,135
+"1856","Manufacturing","35-39","Female","X2012",312,152
+"1857","Manufacturing","35-39","Female","X2013",277,121
+"1858","Manufacturing","35-39","Female","X2014",293,97
+"1859","Manufacturing","35-39","Female","X2015",257,94
+"1860","Manufacturing","35-39","Female","X2016",230,120
+"1861","Manufacturing","35-39","Female","X2017",280,106
+"1862","Manufacturing","35-39","Female","X2018",329,115
+"1863","Manufacturing","35-39","Female","X2019",277,126
+"1864","Manufacturing","35-39","Male","X2011",1841,596
+"1865","Manufacturing","35-39","Male","X2012",1851,544
+"1866","Manufacturing","35-39","Male","X2013",1730,524
+"1867","Manufacturing","35-39","Male","X2014",1684,511
+"1868","Manufacturing","35-39","Male","X2015",1582,426
+"1869","Manufacturing","35-39","Male","X2016",1509,509
+"1870","Manufacturing","35-39","Male","X2017",1492,518
+"1871","Manufacturing","35-39","Male","X2018",1614,568
+"1872","Manufacturing","35-39","Male","X2019",1560,522
+"1873","Manufacturing","40-44","Female","X2011",363,190
+"1874","Manufacturing","40-44","Female","X2012",360,164
+"1875","Manufacturing","40-44","Female","X2013",369,127
+"1876","Manufacturing","40-44","Female","X2014",351,157
+"1877","Manufacturing","40-44","Female","X2015",310,97
+"1878","Manufacturing","40-44","Female","X2016",329,132
+"1879","Manufacturing","40-44","Female","X2017",352,141
+"1880","Manufacturing","40-44","Female","X2018",333,148
+"1881","Manufacturing","40-44","Female","X2019",372,164
+"1882","Manufacturing","40-44","Male","X2011",1892,599
+"1883","Manufacturing","40-44","Male","X2012",1811,599
+"1884","Manufacturing","40-44","Male","X2013",1691,544
+"1885","Manufacturing","40-44","Male","X2014",1628,543
+"1886","Manufacturing","40-44","Male","X2015",1582,462
+"1887","Manufacturing","40-44","Male","X2016",1554,456
+"1888","Manufacturing","40-44","Male","X2017",1484,473
+"1889","Manufacturing","40-44","Male","X2018",1470,540
+"1890","Manufacturing","40-44","Male","X2019",1466,571
+"1891","Manufacturing","45-49","Female","X2011",524,269
+"1892","Manufacturing","45-49","Female","X2012",496,212
+"1893","Manufacturing","45-49","Female","X2013",443,226
+"1894","Manufacturing","45-49","Female","X2014",416,145
+"1895","Manufacturing","45-49","Female","X2015",419,163
+"1896","Manufacturing","45-49","Female","X2016",365,170
+"1897","Manufacturing","45-49","Female","X2017",381,175
+"1898","Manufacturing","45-49","Female","X2018",387,205
+"1899","Manufacturing","45-49","Female","X2019",396,193
+"1900","Manufacturing","45-49","Male","X2011",2191,781
+"1901","Manufacturing","45-49","Male","X2012",2118,686
+"1902","Manufacturing","45-49","Male","X2013",1915,623
+"1903","Manufacturing","45-49","Male","X2014",1754,616
+"1904","Manufacturing","45-49","Male","X2015",1647,519
+"1905","Manufacturing","45-49","Male","X2016",1625,616
+"1906","Manufacturing","45-49","Male","X2017",1505,507
+"1907","Manufacturing","45-49","Male","X2018",1541,546
+"1908","Manufacturing","45-49","Male","X2019",1490,558
+"1909","Manufacturing","50-54","Female","X2011",512,258
+"1910","Manufacturing","50-54","Female","X2012",499,220
+"1911","Manufacturing","50-54","Female","X2013",503,225
+"1912","Manufacturing","50-54","Female","X2014",461,206
+"1913","Manufacturing","50-54","Female","X2015",441,191
+"1914","Manufacturing","50-54","Female","X2016",431,235
+"1915","Manufacturing","50-54","Female","X2017",497,218
+"1916","Manufacturing","50-54","Female","X2018",463,258
+"1917","Manufacturing","50-54","Female","X2019",474,240
+"1918","Manufacturing","50-54","Male","X2011",2023,755
+"1919","Manufacturing","50-54","Male","X2012",2002,718
+"1920","Manufacturing","50-54","Male","X2013",1891,694
+"1921","Manufacturing","50-54","Male","X2014",1966,616
+"1922","Manufacturing","50-54","Male","X2015",1946,619
+"1923","Manufacturing","50-54","Male","X2016",1860,618
+"1924","Manufacturing","50-54","Male","X2017",1693,602
+"1925","Manufacturing","50-54","Male","X2018",1712,660
+"1926","Manufacturing","50-54","Male","X2019",1662,621
+"1927","Manufacturing","55-59","Female","X2011",318,172
+"1928","Manufacturing","55-59","Female","X2012",392,160
+"1929","Manufacturing","55-59","Female","X2013",374,165
+"1930","Manufacturing","55-59","Female","X2014",377,194
+"1931","Manufacturing","55-59","Female","X2015",409,182
+"1932","Manufacturing","55-59","Female","X2016",358,197
+"1933","Manufacturing","55-59","Female","X2017",403,189
+"1934","Manufacturing","55-59","Female","X2018",427,229
+"1935","Manufacturing","55-59","Female","X2019",500,257
+"1936","Manufacturing","55-59","Male","X2011",1384,513
+"1937","Manufacturing","55-59","Male","X2012",1444,525
+"1938","Manufacturing","55-59","Male","X2013",1500,535
+"1939","Manufacturing","55-59","Male","X2014",1529,554
+"1940","Manufacturing","55-59","Male","X2015",1482,527
+"1941","Manufacturing","55-59","Male","X2016",1499,591
+"1942","Manufacturing","55-59","Male","X2017",1572,632
+"1943","Manufacturing","55-59","Male","X2018",1720,677
+"1944","Manufacturing","55-59","Male","X2019",1808,633
+"1945","Manufacturing","60-64","Female","X2011",169,90
+"1946","Manufacturing","60-64","Female","X2012",166,95
+"1947","Manufacturing","60-64","Female","X2013",184,106
+"1948","Manufacturing","60-64","Female","X2014",183,90
+"1949","Manufacturing","60-64","Female","X2015",235,99
+"1950","Manufacturing","60-64","Female","X2016",184,143
+"1951","Manufacturing","60-64","Female","X2017",229,123
+"1952","Manufacturing","60-64","Female","X2018",252,117
+"1953","Manufacturing","60-64","Female","X2019",275,126
+"1954","Manufacturing","60-64","Male","X2011",862,306
+"1955","Manufacturing","60-64","Male","X2012",872,352
+"1956","Manufacturing","60-64","Male","X2013",900,328
+"1957","Manufacturing","60-64","Male","X2014",919,340
+"1958","Manufacturing","60-64","Male","X2015",959,340
+"1959","Manufacturing","60-64","Male","X2016",957,386
+"1960","Manufacturing","60-64","Male","X2017",1103,381
+"1961","Manufacturing","60-64","Male","X2018",1186,497
+"1962","Manufacturing","60-64","Male","X2019",1144,497
+"1963","Manufacturing","65+","Female","X2011",98,30
+"1964","Manufacturing","65+","Female","X2012",83,21
+"1965","Manufacturing","65+","Female","X2013",96,31
+"1966","Manufacturing","65+","Female","X2014",77,24
+"1967","Manufacturing","65+","Female","X2015",99,23
+"1968","Manufacturing","65+","Female","X2016",101,43
+"1969","Manufacturing","65+","Female","X2017",94,35
+"1970","Manufacturing","65+","Female","X2018",100,54
+"1971","Manufacturing","65+","Female","X2019",124,47
+"1972","Manufacturing","65+","Male","X2011",505,132
+"1973","Manufacturing","65+","Male","X2012",559,115
+"1974","Manufacturing","65+","Male","X2013",562,142
+"1975","Manufacturing","65+","Male","X2014",606,141
+"1976","Manufacturing","65+","Male","X2015",674,153
+"1977","Manufacturing","65+","Male","X2016",644,201
+"1978","Manufacturing","65+","Male","X2017",585,187
+"1979","Manufacturing","65+","Male","X2018",719,190
+"1980","Manufacturing","65+","Male","X2019",662,204
+"1981","Mining","15-19","Female","X2011",3,1
+"1982","Mining","15-19","Female","X2012",4,0
+"1983","Mining","15-19","Female","X2013",1,0
+"1984","Mining","15-19","Female","X2014",3,0
+"1985","Mining","15-19","Female","X2015",4,1
+"1986","Mining","15-19","Female","X2016",3,1
+"1987","Mining","15-19","Female","X2017",0,0
+"1988","Mining","15-19","Female","X2018",1,0
+"1989","Mining","15-19","Female","X2019",1,0
+"1990","Mining","15-19","Male","X2011",33,10
+"1991","Mining","15-19","Male","X2012",30,5
+"1992","Mining","15-19","Male","X2013",22,1
+"1993","Mining","15-19","Male","X2014",21,2
+"1994","Mining","15-19","Male","X2015",26,1
+"1995","Mining","15-19","Male","X2016",10,2
+"1996","Mining","15-19","Male","X2017",15,4
+"1997","Mining","15-19","Male","X2018",22,2
+"1998","Mining","15-19","Male","X2019",20,3
+"1999","Mining","20-24","Female","X2011",14,3
+"2000","Mining","20-24","Female","X2012",7,3
+"2001","Mining","20-24","Female","X2013",10,0
+"2002","Mining","20-24","Female","X2014",3,1
+"2003","Mining","20-24","Female","X2015",9,2
+"2004","Mining","20-24","Female","X2016",4,0
+"2005","Mining","20-24","Female","X2017",9,1
+"2006","Mining","20-24","Female","X2018",8,0
+"2007","Mining","20-24","Female","X2019",8,1
+"2008","Mining","20-24","Male","X2011",166,23
+"2009","Mining","20-24","Male","X2012",143,25
+"2010","Mining","20-24","Male","X2013",130,12
+"2011","Mining","20-24","Male","X2014",91,12
+"2012","Mining","20-24","Male","X2015",95,15
+"2013","Mining","20-24","Male","X2016",82,11
+"2014","Mining","20-24","Male","X2017",61,8
+"2015","Mining","20-24","Male","X2018",79,13
+"2016","Mining","20-24","Male","X2019",92,12
+"2017","Mining","25-29","Female","X2011",8,1
+"2018","Mining","25-29","Female","X2012",4,1
+"2019","Mining","25-29","Female","X2013",13,1
+"2020","Mining","25-29","Female","X2014",9,0
+"2021","Mining","25-29","Female","X2015",3,1
+"2022","Mining","25-29","Female","X2016",5,0
+"2023","Mining","25-29","Female","X2017",3,0
+"2024","Mining","25-29","Female","X2018",4,1
+"2025","Mining","25-29","Female","X2019",4,1
+"2026","Mining","25-29","Male","X2011",175,40
+"2027","Mining","25-29","Male","X2012",181,23
+"2028","Mining","25-29","Male","X2013",168,22
+"2029","Mining","25-29","Male","X2014",122,13
+"2030","Mining","25-29","Male","X2015",128,13
+"2031","Mining","25-29","Male","X2016",112,13
+"2032","Mining","25-29","Male","X2017",127,21
+"2033","Mining","25-29","Male","X2018",138,19
+"2034","Mining","25-29","Male","X2019",131,22
+"2035","Mining","30-34","Female","X2011",4,0
+"2036","Mining","30-34","Female","X2012",4,0
+"2037","Mining","30-34","Female","X2013",11,2
+"2038","Mining","30-34","Female","X2014",6,0
+"2039","Mining","30-34","Female","X2015",7,1
+"2040","Mining","30-34","Female","X2016",7,1
+"2041","Mining","30-34","Female","X2017",6,0
+"2042","Mining","30-34","Female","X2018",7,4
+"2043","Mining","30-34","Female","X2019",2,1
+"2044","Mining","30-34","Male","X2011",169,43
+"2045","Mining","30-34","Male","X2012",181,35
+"2046","Mining","30-34","Male","X2013",151,21
+"2047","Mining","30-34","Male","X2014",128,24
+"2048","Mining","30-34","Male","X2015",137,16
+"2049","Mining","30-34","Male","X2016",131,30
+"2050","Mining","30-34","Male","X2017",124,25
+"2051","Mining","30-34","Male","X2018",123,20
+"2052","Mining","30-34","Male","X2019",133,15
+"2053","Mining","35-39","Female","X2011",10,1
+"2054","Mining","35-39","Female","X2012",7,2
+"2055","Mining","35-39","Female","X2013",3,3
+"2056","Mining","35-39","Female","X2014",5,1
+"2057","Mining","35-39","Female","X2015",11,1
+"2058","Mining","35-39","Female","X2016",11,0
+"2059","Mining","35-39","Female","X2017",4,2
+"2060","Mining","35-39","Female","X2018",3,1
+"2061","Mining","35-39","Female","X2019",6,1
+"2062","Mining","35-39","Male","X2011",168,40
+"2063","Mining","35-39","Male","X2012",154,32
+"2064","Mining","35-39","Male","X2013",152,25
+"2065","Mining","35-39","Male","X2014",142,13
+"2066","Mining","35-39","Male","X2015",108,24
+"2067","Mining","35-39","Male","X2016",112,21
+"2068","Mining","35-39","Male","X2017",114,28
+"2069","Mining","35-39","Male","X2018",110,22
+"2070","Mining","35-39","Male","X2019",134,31
+"2071","Mining","40-44","Female","X2011",12,0
+"2072","Mining","40-44","Female","X2012",3,0
+"2073","Mining","40-44","Female","X2013",6,0
+"2074","Mining","40-44","Female","X2014",8,1
+"2075","Mining","40-44","Female","X2015",5,0
+"2076","Mining","40-44","Female","X2016",4,1
+"2077","Mining","40-44","Female","X2017",7,1
+"2078","Mining","40-44","Female","X2018",3,0
+"2079","Mining","40-44","Female","X2019",6,1
+"2080","Mining","40-44","Male","X2011",150,48
+"2081","Mining","40-44","Male","X2012",146,32
+"2082","Mining","40-44","Male","X2013",135,33
+"2083","Mining","40-44","Male","X2014",120,28
+"2084","Mining","40-44","Male","X2015",86,19
+"2085","Mining","40-44","Male","X2016",102,15
+"2086","Mining","40-44","Male","X2017",84,20
+"2087","Mining","40-44","Male","X2018",106,25
+"2088","Mining","40-44","Male","X2019",86,24
+"2089","Mining","45-49","Female","X2011",6,2
+"2090","Mining","45-49","Female","X2012",9,1
+"2091","Mining","45-49","Female","X2013",7,2
+"2092","Mining","45-49","Female","X2014",3,1
+"2093","Mining","45-49","Female","X2015",1,0
+"2094","Mining","45-49","Female","X2016",4,0
+"2095","Mining","45-49","Female","X2017",5,1
+"2096","Mining","45-49","Female","X2018",4,4
+"2097","Mining","45-49","Female","X2019",5,1
+"2098","Mining","45-49","Male","X2011",167,45
+"2099","Mining","45-49","Male","X2012",150,30
+"2100","Mining","45-49","Male","X2013",141,35
+"2101","Mining","45-49","Male","X2014",96,27
+"2102","Mining","45-49","Male","X2015",87,20
+"2103","Mining","45-49","Male","X2016",88,17
+"2104","Mining","45-49","Male","X2017",96,25
+"2105","Mining","45-49","Male","X2018",108,20
+"2106","Mining","45-49","Male","X2019",113,18
+"2107","Mining","50-54","Female","X2011",5,0
+"2108","Mining","50-54","Female","X2012",6,1
+"2109","Mining","50-54","Female","X2013",5,1
+"2110","Mining","50-54","Female","X2014",3,1
+"2111","Mining","50-54","Female","X2015",6,2
+"2112","Mining","50-54","Female","X2016",4,2
+"2113","Mining","50-54","Female","X2017",1,2
+"2114","Mining","50-54","Female","X2018",5,4
+"2115","Mining","50-54","Female","X2019",4,3
+"2116","Mining","50-54","Male","X2011",154,35
+"2117","Mining","50-54","Male","X2012",152,28
+"2118","Mining","50-54","Male","X2013",146,33
+"2119","Mining","50-54","Male","X2014",135,24
+"2120","Mining","50-54","Male","X2015",138,28
+"2121","Mining","50-54","Male","X2016",101,23
+"2122","Mining","50-54","Male","X2017",115,26
+"2123","Mining","50-54","Male","X2018",118,12
+"2124","Mining","50-54","Male","X2019",86,26
+"2125","Mining","55-59","Female","X2011",1,0
+"2126","Mining","55-59","Female","X2012",1,1
+"2127","Mining","55-59","Female","X2013",3,2
+"2128","Mining","55-59","Female","X2014",1,0
+"2129","Mining","55-59","Female","X2015",5,1
+"2130","Mining","55-59","Female","X2016",3,0
+"2131","Mining","55-59","Female","X2017",4,1
+"2132","Mining","55-59","Female","X2018",7,1
+"2133","Mining","55-59","Female","X2019",2,1
+"2134","Mining","55-59","Male","X2011",105,20
+"2135","Mining","55-59","Male","X2012",107,28
+"2136","Mining","55-59","Male","X2013",125,26
+"2137","Mining","55-59","Male","X2014",104,17
+"2138","Mining","55-59","Male","X2015",111,18
+"2139","Mining","55-59","Male","X2016",110,20
+"2140","Mining","55-59","Male","X2017",120,21
+"2141","Mining","55-59","Male","X2018",108,18
+"2142","Mining","55-59","Male","X2019",113,29
+"2143","Mining","60-64","Female","X2011",1,0
+"2144","Mining","60-64","Female","X2012",0,0
+"2145","Mining","60-64","Female","X2013",1,0
+"2146","Mining","60-64","Female","X2014",6,0
+"2147","Mining","60-64","Female","X2015",0,0
+"2148","Mining","60-64","Female","X2016",2,0
+"2149","Mining","60-64","Female","X2017",0,1
+"2150","Mining","60-64","Female","X2018",0,1
+"2151","Mining","60-64","Female","X2019",1,1
+"2152","Mining","60-64","Male","X2011",69,8
+"2153","Mining","60-64","Male","X2012",74,10
+"2154","Mining","60-64","Male","X2013",70,11
+"2155","Mining","60-64","Male","X2014",58,15
+"2156","Mining","60-64","Male","X2015",58,9
+"2157","Mining","60-64","Male","X2016",81,10
+"2158","Mining","60-64","Male","X2017",87,9
+"2159","Mining","60-64","Male","X2018",95,10
+"2160","Mining","60-64","Male","X2019",81,14
+"2161","Mining","65+","Male","X2011",58,5
+"2162","Mining","65+","Male","X2012",78,4
+"2163","Mining","65+","Male","X2013",83,1
+"2164","Mining","65+","Male","X2014",80,4
+"2165","Mining","65+","Male","X2015",83,9
+"2166","Mining","65+","Male","X2016",76,2
+"2167","Mining","65+","Male","X2017",86,3
+"2168","Mining","65+","Male","X2018",76,4
+"2169","Mining","65+","Male","X2019",90,9
+"2170","Municipal","15-19","Female","X2011",29,12
+"2171","Municipal","15-19","Female","X2012",32,12
+"2172","Municipal","15-19","Female","X2013",31,19
+"2173","Municipal","15-19","Female","X2014",36,13
+"2174","Municipal","15-19","Female","X2015",36,10
+"2175","Municipal","15-19","Female","X2016",62,14
+"2176","Municipal","15-19","Female","X2017",39,19
+"2177","Municipal","15-19","Female","X2018",52,23
+"2178","Municipal","15-19","Female","X2019",47,25
+"2179","Municipal","15-19","Male","X2011",39,11
+"2180","Municipal","15-19","Male","X2012",32,15
+"2181","Municipal","15-19","Male","X2013",50,10
+"2182","Municipal","15-19","Male","X2014",46,8
+"2183","Municipal","15-19","Male","X2015",52,10
+"2184","Municipal","15-19","Male","X2016",38,13
+"2185","Municipal","15-19","Male","X2017",22,19
+"2186","Municipal","15-19","Male","X2018",41,20
+"2187","Municipal","15-19","Male","X2019",52,20
+"2188","Municipal","20-24","Female","X2011",41,18
+"2189","Municipal","20-24","Female","X2012",42,16
+"2190","Municipal","20-24","Female","X2013",59,13
+"2191","Municipal","20-24","Female","X2014",38,11
+"2192","Municipal","20-24","Female","X2015",50,20
+"2193","Municipal","20-24","Female","X2016",46,23
+"2194","Municipal","20-24","Female","X2017",44,29
+"2195","Municipal","20-24","Female","X2018",57,32
+"2196","Municipal","20-24","Female","X2019",55,29
+"2197","Municipal","20-24","Male","X2011",91,16
+"2198","Municipal","20-24","Male","X2012",75,25
+"2199","Municipal","20-24","Male","X2013",67,25
+"2200","Municipal","20-24","Male","X2014",79,27
+"2201","Municipal","20-24","Male","X2015",76,19
+"2202","Municipal","20-24","Male","X2016",60,17
+"2203","Municipal","20-24","Male","X2017",56,23
+"2204","Municipal","20-24","Male","X2018",82,31
+"2205","Municipal","20-24","Male","X2019",87,33
+"2206","Municipal","25-29","Female","X2011",28,13
+"2207","Municipal","25-29","Female","X2012",32,13
+"2208","Municipal","25-29","Female","X2013",41,11
+"2209","Municipal","25-29","Female","X2014",21,14
+"2210","Municipal","25-29","Female","X2015",33,15
+"2211","Municipal","25-29","Female","X2016",37,9
+"2212","Municipal","25-29","Female","X2017",33,21
+"2213","Municipal","25-29","Female","X2018",36,21
+"2214","Municipal","25-29","Female","X2019",58,28
+"2215","Municipal","25-29","Male","X2011",69,30
+"2216","Municipal","25-29","Male","X2012",82,31
+"2217","Municipal","25-29","Male","X2013",73,30
+"2218","Municipal","25-29","Male","X2014",74,19
+"2219","Municipal","25-29","Male","X2015",65,22
+"2220","Municipal","25-29","Male","X2016",76,30
+"2221","Municipal","25-29","Male","X2017",79,31
+"2222","Municipal","25-29","Male","X2018",97,40
+"2223","Municipal","25-29","Male","X2019",98,44
+"2224","Municipal","30-34","Female","X2011",34,11
+"2225","Municipal","30-34","Female","X2012",19,10
+"2226","Municipal","30-34","Female","X2013",26,14
+"2227","Municipal","30-34","Female","X2014",38,6
+"2228","Municipal","30-34","Female","X2015",38,21
+"2229","Municipal","30-34","Female","X2016",28,14
+"2230","Municipal","30-34","Female","X2017",36,18
+"2231","Municipal","30-34","Female","X2018",35,17
+"2232","Municipal","30-34","Female","X2019",43,21
+"2233","Municipal","30-34","Male","X2011",106,45
+"2234","Municipal","30-34","Male","X2012",97,34
+"2235","Municipal","30-34","Male","X2013",79,45
+"2236","Municipal","30-34","Male","X2014",83,50
+"2237","Municipal","30-34","Male","X2015",85,41
+"2238","Municipal","30-34","Male","X2016",89,36
+"2239","Municipal","30-34","Male","X2017",87,47
+"2240","Municipal","30-34","Male","X2018",92,44
+"2241","Municipal","30-34","Male","X2019",123,49
+"2242","Municipal","35-39","Female","X2011",28,17
+"2243","Municipal","35-39","Female","X2012",33,22
+"2244","Municipal","35-39","Female","X2013",40,11
+"2245","Municipal","35-39","Female","X2014",43,22
+"2246","Municipal","35-39","Female","X2015",30,12
+"2247","Municipal","35-39","Female","X2016",27,21
+"2248","Municipal","35-39","Female","X2017",37,17
+"2249","Municipal","35-39","Female","X2018",30,21
+"2250","Municipal","35-39","Female","X2019",43,20
+"2251","Municipal","35-39","Male","X2011",98,41
+"2252","Municipal","35-39","Male","X2012",116,53
+"2253","Municipal","35-39","Male","X2013",109,44
+"2254","Municipal","35-39","Male","X2014",120,45
+"2255","Municipal","35-39","Male","X2015",112,53
+"2256","Municipal","35-39","Male","X2016",86,48
+"2257","Municipal","35-39","Male","X2017",107,55
+"2258","Municipal","35-39","Male","X2018",94,59
+"2259","Municipal","35-39","Male","X2019",80,59
+"2260","Municipal","40-44","Female","X2011",31,19
+"2261","Municipal","40-44","Female","X2012",30,27
+"2262","Municipal","40-44","Female","X2013",39,19
+"2263","Municipal","40-44","Female","X2014",36,11
+"2264","Municipal","40-44","Female","X2015",27,24
+"2265","Municipal","40-44","Female","X2016",29,16
+"2266","Municipal","40-44","Female","X2017",30,17
+"2267","Municipal","40-44","Female","X2018",31,19
+"2268","Municipal","40-44","Female","X2019",35,24
+"2269","Municipal","40-44","Male","X2011",123,76
+"2270","Municipal","40-44","Male","X2012",119,68
+"2271","Municipal","40-44","Male","X2013",100,64
+"2272","Municipal","40-44","Male","X2014",116,64
+"2273","Municipal","40-44","Male","X2015",84,48
+"2274","Municipal","40-44","Male","X2016",112,68
+"2275","Municipal","40-44","Male","X2017",85,72
+"2276","Municipal","40-44","Male","X2018",102,81
+"2277","Municipal","40-44","Male","X2019",92,64
+"2278","Municipal","45-49","Female","X2011",53,23
+"2279","Municipal","45-49","Female","X2012",41,31
+"2280","Municipal","45-49","Female","X2013",46,22
+"2281","Municipal","45-49","Female","X2014",49,27
+"2282","Municipal","45-49","Female","X2015",35,25
+"2283","Municipal","45-49","Female","X2016",33,21
+"2284","Municipal","45-49","Female","X2017",36,30
+"2285","Municipal","45-49","Female","X2018",34,38
+"2286","Municipal","45-49","Female","X2019",39,24
+"2287","Municipal","45-49","Male","X2011",110,59
+"2288","Municipal","45-49","Male","X2012",117,62
+"2289","Municipal","45-49","Male","X2013",122,60
+"2290","Municipal","45-49","Male","X2014",103,59
+"2291","Municipal","45-49","Male","X2015",107,63
+"2292","Municipal","45-49","Male","X2016",107,57
+"2293","Municipal","45-49","Male","X2017",95,67
+"2294","Municipal","45-49","Male","X2018",111,60
+"2295","Municipal","45-49","Male","X2019",100,54
+"2296","Municipal","50-54","Female","X2011",47,34
+"2297","Municipal","50-54","Female","X2012",36,24
+"2298","Municipal","50-54","Female","X2013",43,24
+"2299","Municipal","50-54","Female","X2014",42,27
+"2300","Municipal","50-54","Female","X2015",47,27
+"2301","Municipal","50-54","Female","X2016",40,28
+"2302","Municipal","50-54","Female","X2017",45,34
+"2303","Municipal","50-54","Female","X2018",43,39
+"2304","Municipal","50-54","Female","X2019",50,36
+"2305","Municipal","50-54","Male","X2011",109,75
+"2306","Municipal","50-54","Male","X2012",79,50
+"2307","Municipal","50-54","Male","X2013",121,53
+"2308","Municipal","50-54","Male","X2014",119,68
+"2309","Municipal","50-54","Male","X2015",132,61
+"2310","Municipal","50-54","Male","X2016",104,70
+"2311","Municipal","50-54","Male","X2017",111,83
+"2312","Municipal","50-54","Male","X2018",104,60
+"2313","Municipal","50-54","Male","X2019",110,70
+"2314","Municipal","55-59","Female","X2011",28,18
+"2315","Municipal","55-59","Female","X2012",35,14
+"2316","Municipal","55-59","Female","X2013",30,20
+"2317","Municipal","55-59","Female","X2014",32,19
+"2318","Municipal","55-59","Female","X2015",29,20
+"2319","Municipal","55-59","Female","X2016",30,18
+"2320","Municipal","55-59","Female","X2017",36,27
+"2321","Municipal","55-59","Female","X2018",42,23
+"2322","Municipal","55-59","Female","X2019",46,33
+"2323","Municipal","55-59","Male","X2011",99,50
+"2324","Municipal","55-59","Male","X2012",76,44
+"2325","Municipal","55-59","Male","X2013",93,60
+"2326","Municipal","55-59","Male","X2014",76,50
+"2327","Municipal","55-59","Male","X2015",94,41
+"2328","Municipal","55-59","Male","X2016",77,50
+"2329","Municipal","55-59","Male","X2017",96,43
+"2330","Municipal","55-59","Male","X2018",97,59
+"2331","Municipal","55-59","Male","X2019",94,58
+"2332","Municipal","60-64","Female","X2011",17,7
+"2333","Municipal","60-64","Female","X2012",13,5
+"2334","Municipal","60-64","Female","X2013",13,7
+"2335","Municipal","60-64","Female","X2014",20,10
+"2336","Municipal","60-64","Female","X2015",14,10
+"2337","Municipal","60-64","Female","X2016",20,12
+"2338","Municipal","60-64","Female","X2017",24,17
+"2339","Municipal","60-64","Female","X2018",16,13
+"2340","Municipal","60-64","Female","X2019",25,18
+"2341","Municipal","60-64","Male","X2011",44,21
+"2342","Municipal","60-64","Male","X2012",51,22
+"2343","Municipal","60-64","Male","X2013",56,29
+"2344","Municipal","60-64","Male","X2014",57,33
+"2345","Municipal","60-64","Male","X2015",79,21
+"2346","Municipal","60-64","Male","X2016",70,18
+"2347","Municipal","60-64","Male","X2017",48,31
+"2348","Municipal","60-64","Male","X2018",49,33
+"2349","Municipal","60-64","Male","X2019",64,28
+"2350","Municipal","65+","Female","X2011",5,4
+"2351","Municipal","65+","Female","X2012",3,1
+"2352","Municipal","65+","Female","X2013",6,8
+"2353","Municipal","65+","Female","X2014",10,4
+"2354","Municipal","65+","Female","X2015",7,5
+"2355","Municipal","65+","Female","X2016",10,5
+"2356","Municipal","65+","Female","X2017",10,3
+"2357","Municipal","65+","Female","X2018",11,11
+"2358","Municipal","65+","Female","X2019",9,12
+"2359","Municipal","65+","Male","X2011",36,10
+"2360","Municipal","65+","Male","X2012",52,8
+"2361","Municipal","65+","Male","X2013",29,10
+"2362","Municipal","65+","Male","X2014",43,7
+"2363","Municipal","65+","Male","X2015",38,9
+"2364","Municipal","65+","Male","X2016",46,11
+"2365","Municipal","65+","Male","X2017",44,14
+"2366","Municipal","65+","Male","X2018",43,10
+"2367","Municipal","65+","Male","X2019",41,24
+"2368","Primary Metals","15-19","Female","X2011",0,0
+"2369","Primary Metals","15-19","Female","X2012",1,0
+"2370","Primary Metals","15-19","Female","X2013",1,1
+"2371","Primary Metals","15-19","Female","X2014",2,0
+"2372","Primary Metals","15-19","Female","X2015",2,0
+"2373","Primary Metals","15-19","Female","X2016",8,0
+"2374","Primary Metals","15-19","Female","X2017",9,0
+"2375","Primary Metals","15-19","Female","X2018",5,0
+"2376","Primary Metals","15-19","Female","X2019",4,0
+"2377","Primary Metals","15-19","Male","X2011",17,6
+"2378","Primary Metals","15-19","Male","X2012",18,3
+"2379","Primary Metals","15-19","Male","X2013",12,1
+"2380","Primary Metals","15-19","Male","X2014",14,1
+"2381","Primary Metals","15-19","Male","X2015",8,9
+"2382","Primary Metals","15-19","Male","X2016",10,3
+"2383","Primary Metals","15-19","Male","X2017",13,0
+"2384","Primary Metals","15-19","Male","X2018",28,3
+"2385","Primary Metals","15-19","Male","X2019",17,1
+"2386","Primary Metals","20-24","Female","X2011",2,0
+"2387","Primary Metals","20-24","Female","X2012",7,1
+"2388","Primary Metals","20-24","Female","X2013",3,0
+"2389","Primary Metals","20-24","Female","X2014",12,1
+"2390","Primary Metals","20-24","Female","X2015",6,0
+"2391","Primary Metals","20-24","Female","X2016",6,0
+"2392","Primary Metals","20-24","Female","X2017",12,2
+"2393","Primary Metals","20-24","Female","X2018",14,1
+"2394","Primary Metals","20-24","Female","X2019",13,3
+"2395","Primary Metals","20-24","Male","X2011",61,13
+"2396","Primary Metals","20-24","Male","X2012",69,11
+"2397","Primary Metals","20-24","Male","X2013",58,13
+"2398","Primary Metals","20-24","Male","X2014",71,14
+"2399","Primary Metals","20-24","Male","X2015",68,8
+"2400","Primary Metals","20-24","Male","X2016",61,5
+"2401","Primary Metals","20-24","Male","X2017",66,12
+"2402","Primary Metals","20-24","Male","X2018",108,20
+"2403","Primary Metals","20-24","Male","X2019",92,17
+"2404","Primary Metals","25-29","Female","X2011",3,0
+"2405","Primary Metals","25-29","Female","X2012",8,1
+"2406","Primary Metals","25-29","Female","X2013",6,3
+"2407","Primary Metals","25-29","Female","X2014",10,0
+"2408","Primary Metals","25-29","Female","X2015",13,2
+"2409","Primary Metals","25-29","Female","X2016",14,2
+"2410","Primary Metals","25-29","Female","X2017",15,0
+"2411","Primary Metals","25-29","Female","X2018",19,4
+"2412","Primary Metals","25-29","Female","X2019",13,5
+"2413","Primary Metals","25-29","Male","X2011",106,18
+"2414","Primary Metals","25-29","Male","X2012",128,20
+"2415","Primary Metals","25-29","Male","X2013",103,18
+"2416","Primary Metals","25-29","Male","X2014",120,19
+"2417","Primary Metals","25-29","Male","X2015",102,11
+"2418","Primary Metals","25-29","Male","X2016",99,11
+"2419","Primary Metals","25-29","Male","X2017",125,12
+"2420","Primary Metals","25-29","Male","X2018",148,23
+"2421","Primary Metals","25-29","Male","X2019",148,31
+"2422","Primary Metals","30-34","Female","X2011",7,1
+"2423","Primary Metals","30-34","Female","X2012",11,0
+"2424","Primary Metals","30-34","Female","X2013",5,1
+"2425","Primary Metals","30-34","Female","X2014",7,0
+"2426","Primary Metals","30-34","Female","X2015",5,1
+"2427","Primary Metals","30-34","Female","X2016",5,1
+"2428","Primary Metals","30-34","Female","X2017",21,2
+"2429","Primary Metals","30-34","Female","X2018",12,3
+"2430","Primary Metals","30-34","Female","X2019",7,3
+"2431","Primary Metals","30-34","Male","X2011",144,24
+"2432","Primary Metals","30-34","Male","X2012",165,19
+"2433","Primary Metals","30-34","Male","X2013",142,17
+"2434","Primary Metals","30-34","Male","X2014",130,17
+"2435","Primary Metals","30-34","Male","X2015",105,12
+"2436","Primary Metals","30-34","Male","X2016",145,12
+"2437","Primary Metals","30-34","Male","X2017",135,18
+"2438","Primary Metals","30-34","Male","X2018",142,35
+"2439","Primary Metals","30-34","Male","X2019",162,20
+"2440","Primary Metals","35-39","Female","X2011",9,3
+"2441","Primary Metals","35-39","Female","X2012",15,2
+"2442","Primary Metals","35-39","Female","X2013",10,3
+"2443","Primary Metals","35-39","Female","X2014",16,2
+"2444","Primary Metals","35-39","Female","X2015",10,0
+"2445","Primary Metals","35-39","Female","X2016",10,1
+"2446","Primary Metals","35-39","Female","X2017",13,2
+"2447","Primary Metals","35-39","Female","X2018",15,3
+"2448","Primary Metals","35-39","Female","X2019",17,0
+"2449","Primary Metals","35-39","Male","X2011",184,29
+"2450","Primary Metals","35-39","Male","X2012",154,29
+"2451","Primary Metals","35-39","Male","X2013",124,13
+"2452","Primary Metals","35-39","Male","X2014",156,25
+"2453","Primary Metals","35-39","Male","X2015",121,11
+"2454","Primary Metals","35-39","Male","X2016",116,21
+"2455","Primary Metals","35-39","Male","X2017",137,25
+"2456","Primary Metals","35-39","Male","X2018",148,35
+"2457","Primary Metals","35-39","Male","X2019",151,24
+"2458","Primary Metals","40-44","Female","X2011",11,2
+"2459","Primary Metals","40-44","Female","X2012",13,0
+"2460","Primary Metals","40-44","Female","X2013",13,2
+"2461","Primary Metals","40-44","Female","X2014",15,3
+"2462","Primary Metals","40-44","Female","X2015",13,0
+"2463","Primary Metals","40-44","Female","X2016",22,3
+"2464","Primary Metals","40-44","Female","X2017",18,3
+"2465","Primary Metals","40-44","Female","X2018",16,4
+"2466","Primary Metals","40-44","Female","X2019",16,7
+"2467","Primary Metals","40-44","Male","X2011",193,33
+"2468","Primary Metals","40-44","Male","X2012",184,30
+"2469","Primary Metals","40-44","Male","X2013",181,24
+"2470","Primary Metals","40-44","Male","X2014",149,20
+"2471","Primary Metals","40-44","Male","X2015",139,13
+"2472","Primary Metals","40-44","Male","X2016",138,17
+"2473","Primary Metals","40-44","Male","X2017",134,33
+"2474","Primary Metals","40-44","Male","X2018",169,32
+"2475","Primary Metals","40-44","Male","X2019",164,26
+"2476","Primary Metals","45-49","Female","X2011",17,5
+"2477","Primary Metals","45-49","Female","X2012",26,3
+"2478","Primary Metals","45-49","Female","X2013",17,2
+"2479","Primary Metals","45-49","Female","X2014",14,5
+"2480","Primary Metals","45-49","Female","X2015",15,1
+"2481","Primary Metals","45-49","Female","X2016",12,1
+"2482","Primary Metals","45-49","Female","X2017",16,4
+"2483","Primary Metals","45-49","Female","X2018",20,6
+"2484","Primary Metals","45-49","Female","X2019",24,4
+"2485","Primary Metals","45-49","Male","X2011",281,48
+"2486","Primary Metals","45-49","Male","X2012",197,29
+"2487","Primary Metals","45-49","Male","X2013",192,24
+"2488","Primary Metals","45-49","Male","X2014",164,20
+"2489","Primary Metals","45-49","Male","X2015",148,13
+"2490","Primary Metals","45-49","Male","X2016",144,17
+"2491","Primary Metals","45-49","Male","X2017",127,27
+"2492","Primary Metals","45-49","Male","X2018",153,30
+"2493","Primary Metals","45-49","Male","X2019",164,37
+"2494","Primary Metals","50-54","Female","X2011",24,5
+"2495","Primary Metals","50-54","Female","X2012",20,5
+"2496","Primary Metals","50-54","Female","X2013",18,5
+"2497","Primary Metals","50-54","Female","X2014",24,5
+"2498","Primary Metals","50-54","Female","X2015",21,4
+"2499","Primary Metals","50-54","Female","X2016",13,1
+"2500","Primary Metals","50-54","Female","X2017",16,6
+"2501","Primary Metals","50-54","Female","X2018",17,3
+"2502","Primary Metals","50-54","Female","X2019",22,4
+"2503","Primary Metals","50-54","Male","X2011",309,46
+"2504","Primary Metals","50-54","Male","X2012",309,52
+"2505","Primary Metals","50-54","Male","X2013",254,43
+"2506","Primary Metals","50-54","Male","X2014",247,41
+"2507","Primary Metals","50-54","Male","X2015",223,30
+"2508","Primary Metals","50-54","Male","X2016",204,31
+"2509","Primary Metals","50-54","Male","X2017",184,26
+"2510","Primary Metals","50-54","Male","X2018",163,38
+"2511","Primary Metals","50-54","Male","X2019",161,24
+"2512","Primary Metals","55-59","Female","X2011",10,0
+"2513","Primary Metals","55-59","Female","X2012",8,4
+"2514","Primary Metals","55-59","Female","X2013",8,1
+"2515","Primary Metals","55-59","Female","X2014",9,3
+"2516","Primary Metals","55-59","Female","X2015",15,0
+"2517","Primary Metals","55-59","Female","X2016",26,1
+"2518","Primary Metals","55-59","Female","X2017",22,2
+"2519","Primary Metals","55-59","Female","X2018",19,3
+"2520","Primary Metals","55-59","Female","X2019",25,2
+"2521","Primary Metals","55-59","Male","X2011",177,45
+"2522","Primary Metals","55-59","Male","X2012",218,33
+"2523","Primary Metals","55-59","Male","X2013",203,22
+"2524","Primary Metals","55-59","Male","X2014",193,22
+"2525","Primary Metals","55-59","Male","X2015",181,27
+"2526","Primary Metals","55-59","Male","X2016",203,19
+"2527","Primary Metals","55-59","Male","X2017",205,34
+"2528","Primary Metals","55-59","Male","X2018",218,38
+"2529","Primary Metals","55-59","Male","X2019",197,47
+"2530","Primary Metals","60-64","Female","X2011",1,2
+"2531","Primary Metals","60-64","Female","X2012",4,1
+"2532","Primary Metals","60-64","Female","X2013",4,0
+"2533","Primary Metals","60-64","Female","X2014",0,0
+"2534","Primary Metals","60-64","Female","X2015",6,1
+"2535","Primary Metals","60-64","Female","X2016",7,0
+"2536","Primary Metals","60-64","Female","X2017",8,0
+"2537","Primary Metals","60-64","Female","X2018",8,3
+"2538","Primary Metals","60-64","Female","X2019",5,1
+"2539","Primary Metals","60-64","Male","X2011",82,16
+"2540","Primary Metals","60-64","Male","X2012",86,10
+"2541","Primary Metals","60-64","Male","X2013",82,15
+"2542","Primary Metals","60-64","Male","X2014",85,9
+"2543","Primary Metals","60-64","Male","X2015",95,11
+"2544","Primary Metals","60-64","Male","X2016",93,8
+"2545","Primary Metals","60-64","Male","X2017",121,15
+"2546","Primary Metals","60-64","Male","X2018",120,17
+"2547","Primary Metals","60-64","Male","X2019",156,26
+"2548","Primary Metals","65+","Female","X2011",3,0
+"2549","Primary Metals","65+","Female","X2012",2,0
+"2550","Primary Metals","65+","Female","X2013",1,0
+"2551","Primary Metals","65+","Female","X2014",1,0
+"2552","Primary Metals","65+","Female","X2015",1,0
+"2553","Primary Metals","65+","Female","X2016",1,1
+"2554","Primary Metals","65+","Female","X2017",5,0
+"2555","Primary Metals","65+","Female","X2018",3,0
+"2556","Primary Metals","65+","Female","X2019",2,2
+"2557","Primary Metals","65+","Male","X2011",54,5
+"2558","Primary Metals","65+","Male","X2012",66,5
+"2559","Primary Metals","65+","Male","X2013",71,3
+"2560","Primary Metals","65+","Male","X2014",72,10
+"2561","Primary Metals","65+","Male","X2015",70,7
+"2562","Primary Metals","65+","Male","X2016",99,7
+"2563","Primary Metals","65+","Male","X2017",121,7
+"2564","Primary Metals","65+","Male","X2018",151,7
+"2565","Primary Metals","65+","Male","X2019",106,5
+"2566","Pulp & Paper","15-19","Female","X2011",1,1
+"2567","Pulp & Paper","15-19","Female","X2012",1,1
+"2568","Pulp & Paper","15-19","Female","X2013",1,0
+"2569","Pulp & Paper","15-19","Female","X2014",0,0
+"2570","Pulp & Paper","15-19","Female","X2015",1,0
+"2571","Pulp & Paper","15-19","Female","X2016",1,0
+"2572","Pulp & Paper","15-19","Female","X2017",1,0
+"2573","Pulp & Paper","15-19","Female","X2018",3,0
+"2574","Pulp & Paper","15-19","Female","X2019",0,0
+"2575","Pulp & Paper","15-19","Male","X2011",2,0
+"2576","Pulp & Paper","15-19","Male","X2012",3,0
+"2577","Pulp & Paper","15-19","Male","X2013",7,1
+"2578","Pulp & Paper","15-19","Male","X2014",4,1
+"2579","Pulp & Paper","15-19","Male","X2015",4,0
+"2580","Pulp & Paper","15-19","Male","X2016",4,0
+"2581","Pulp & Paper","15-19","Male","X2017",4,0
+"2582","Pulp & Paper","15-19","Male","X2018",1,0
+"2583","Pulp & Paper","15-19","Male","X2019",6,1
+"2584","Pulp & Paper","20-24","Female","X2011",4,0
+"2585","Pulp & Paper","20-24","Female","X2012",2,0
+"2586","Pulp & Paper","20-24","Female","X2013",3,0
+"2587","Pulp & Paper","20-24","Female","X2014",2,0
+"2588","Pulp & Paper","20-24","Female","X2015",5,0
+"2589","Pulp & Paper","20-24","Female","X2016",2,1
+"2590","Pulp & Paper","20-24","Female","X2017",2,1
+"2591","Pulp & Paper","20-24","Female","X2018",8,2
+"2592","Pulp & Paper","20-24","Female","X2019",9,3
+"2593","Pulp & Paper","20-24","Male","X2011",15,6
+"2594","Pulp & Paper","20-24","Male","X2012",11,5
+"2595","Pulp & Paper","20-24","Male","X2013",18,3
+"2596","Pulp & Paper","20-24","Male","X2014",18,2
+"2597","Pulp & Paper","20-24","Male","X2015",20,4
+"2598","Pulp & Paper","20-24","Male","X2016",18,4
+"2599","Pulp & Paper","20-24","Male","X2017",34,3
+"2600","Pulp & Paper","20-24","Male","X2018",23,8
+"2601","Pulp & Paper","20-24","Male","X2019",21,6
+"2602","Pulp & Paper","25-29","Female","X2011",2,2
+"2603","Pulp & Paper","25-29","Female","X2012",3,0
+"2604","Pulp & Paper","25-29","Female","X2013",4,0
+"2605","Pulp & Paper","25-29","Female","X2014",2,1
+"2606","Pulp & Paper","25-29","Female","X2015",0,0
+"2607","Pulp & Paper","25-29","Female","X2016",4,0
+"2608","Pulp & Paper","25-29","Female","X2017",4,2
+"2609","Pulp & Paper","25-29","Female","X2018",7,0
+"2610","Pulp & Paper","25-29","Female","X2019",9,1
+"2611","Pulp & Paper","25-29","Male","X2011",30,7
+"2612","Pulp & Paper","25-29","Male","X2012",16,2
+"2613","Pulp & Paper","25-29","Male","X2013",23,6
+"2614","Pulp & Paper","25-29","Male","X2014",31,8
+"2615","Pulp & Paper","25-29","Male","X2015",26,6
+"2616","Pulp & Paper","25-29","Male","X2016",33,3
+"2617","Pulp & Paper","25-29","Male","X2017",26,6
+"2618","Pulp & Paper","25-29","Male","X2018",37,8
+"2619","Pulp & Paper","25-29","Male","X2019",34,9
+"2620","Pulp & Paper","30-34","Female","X2011",3,0
+"2621","Pulp & Paper","30-34","Female","X2012",3,0
+"2622","Pulp & Paper","30-34","Female","X2013",6,0
+"2623","Pulp & Paper","30-34","Female","X2014",0,0
+"2624","Pulp & Paper","30-34","Female","X2015",2,2
+"2625","Pulp & Paper","30-34","Female","X2016",2,2
+"2626","Pulp & Paper","30-34","Female","X2017",3,1
+"2627","Pulp & Paper","30-34","Female","X2018",6,3
+"2628","Pulp & Paper","30-34","Female","X2019",4,0
+"2629","Pulp & Paper","30-34","Male","X2011",34,4
+"2630","Pulp & Paper","30-34","Male","X2012",30,7
+"2631","Pulp & Paper","30-34","Male","X2013",31,7
+"2632","Pulp & Paper","30-34","Male","X2014",41,4
+"2633","Pulp & Paper","30-34","Male","X2015",33,5
+"2634","Pulp & Paper","30-34","Male","X2016",34,7
+"2635","Pulp & Paper","30-34","Male","X2017",41,3
+"2636","Pulp & Paper","30-34","Male","X2018",33,4
+"2637","Pulp & Paper","30-34","Male","X2019",37,2
+"2638","Pulp & Paper","35-39","Female","X2011",9,5
+"2639","Pulp & Paper","35-39","Female","X2012",4,3
+"2640","Pulp & Paper","35-39","Female","X2013",2,0
+"2641","Pulp & Paper","35-39","Female","X2014",4,1
+"2642","Pulp & Paper","35-39","Female","X2015",7,2
+"2643","Pulp & Paper","35-39","Female","X2016",3,0
+"2644","Pulp & Paper","35-39","Female","X2017",4,3
+"2645","Pulp & Paper","35-39","Female","X2018",3,1
+"2646","Pulp & Paper","35-39","Female","X2019",9,1
+"2647","Pulp & Paper","35-39","Male","X2011",41,5
+"2648","Pulp & Paper","35-39","Male","X2012",32,12
+"2649","Pulp & Paper","35-39","Male","X2013",30,4
+"2650","Pulp & Paper","35-39","Male","X2014",41,13
+"2651","Pulp & Paper","35-39","Male","X2015",25,5
+"2652","Pulp & Paper","35-39","Male","X2016",37,6
+"2653","Pulp & Paper","35-39","Male","X2017",31,6
+"2654","Pulp & Paper","35-39","Male","X2018",27,8
+"2655","Pulp & Paper","35-39","Male","X2019",35,12
+"2656","Pulp & Paper","40-44","Female","X2011",18,0
+"2657","Pulp & Paper","40-44","Female","X2012",8,3
+"2658","Pulp & Paper","40-44","Female","X2013",8,2
+"2659","Pulp & Paper","40-44","Female","X2014",7,2
+"2660","Pulp & Paper","40-44","Female","X2015",3,0
+"2661","Pulp & Paper","40-44","Female","X2016",7,1
+"2662","Pulp & Paper","40-44","Female","X2017",5,1
+"2663","Pulp & Paper","40-44","Female","X2018",5,3
+"2664","Pulp & Paper","40-44","Female","X2019",7,2
+"2665","Pulp & Paper","40-44","Male","X2011",54,12
+"2666","Pulp & Paper","40-44","Male","X2012",59,9
+"2667","Pulp & Paper","40-44","Male","X2013",38,8
+"2668","Pulp & Paper","40-44","Male","X2014",43,6
+"2669","Pulp & Paper","40-44","Male","X2015",27,8
+"2670","Pulp & Paper","40-44","Male","X2016",33,11
+"2671","Pulp & Paper","40-44","Male","X2017",31,9
+"2672","Pulp & Paper","40-44","Male","X2018",29,14
+"2673","Pulp & Paper","40-44","Male","X2019",24,8
+"2674","Pulp & Paper","45-49","Female","X2011",8,4
+"2675","Pulp & Paper","45-49","Female","X2012",10,3
+"2676","Pulp & Paper","45-49","Female","X2013",13,3
+"2677","Pulp & Paper","45-49","Female","X2014",6,2
+"2678","Pulp & Paper","45-49","Female","X2015",8,1
+"2679","Pulp & Paper","45-49","Female","X2016",7,6
+"2680","Pulp & Paper","45-49","Female","X2017",8,0
+"2681","Pulp & Paper","45-49","Female","X2018",8,4
+"2682","Pulp & Paper","45-49","Female","X2019",8,1
+"2683","Pulp & Paper","45-49","Male","X2011",72,20
+"2684","Pulp & Paper","45-49","Male","X2012",62,11
+"2685","Pulp & Paper","45-49","Male","X2013",60,6
+"2686","Pulp & Paper","45-49","Male","X2014",49,8
+"2687","Pulp & Paper","45-49","Male","X2015",35,12
+"2688","Pulp & Paper","45-49","Male","X2016",35,5
+"2689","Pulp & Paper","45-49","Male","X2017",35,11
+"2690","Pulp & Paper","45-49","Male","X2018",43,11
+"2691","Pulp & Paper","45-49","Male","X2019",34,13
+"2692","Pulp & Paper","50-54","Female","X2011",10,5
+"2693","Pulp & Paper","50-54","Female","X2012",4,1
+"2694","Pulp & Paper","50-54","Female","X2013",6,0
+"2695","Pulp & Paper","50-54","Female","X2014",9,5
+"2696","Pulp & Paper","50-54","Female","X2015",9,2
+"2697","Pulp & Paper","50-54","Female","X2016",10,3
+"2698","Pulp & Paper","50-54","Female","X2017",11,8
+"2699","Pulp & Paper","50-54","Female","X2018",3,7
+"2700","Pulp & Paper","50-54","Female","X2019",4,3
+"2701","Pulp & Paper","50-54","Male","X2011",99,28
+"2702","Pulp & Paper","50-54","Male","X2012",81,9
+"2703","Pulp & Paper","50-54","Male","X2013",82,22
+"2704","Pulp & Paper","50-54","Male","X2014",55,8
+"2705","Pulp & Paper","50-54","Male","X2015",56,8
+"2706","Pulp & Paper","50-54","Male","X2016",57,7
+"2707","Pulp & Paper","50-54","Male","X2017",49,10
+"2708","Pulp & Paper","50-54","Male","X2018",42,6
+"2709","Pulp & Paper","50-54","Male","X2019",28,7
+"2710","Pulp & Paper","55-59","Female","X2011",9,2
+"2711","Pulp & Paper","55-59","Female","X2012",6,1
+"2712","Pulp & Paper","55-59","Female","X2013",6,2
+"2713","Pulp & Paper","55-59","Female","X2014",5,2
+"2714","Pulp & Paper","55-59","Female","X2015",10,3
+"2715","Pulp & Paper","55-59","Female","X2016",7,0
+"2716","Pulp & Paper","55-59","Female","X2017",5,1
+"2717","Pulp & Paper","55-59","Female","X2018",3,2
+"2718","Pulp & Paper","55-59","Female","X2019",6,4
+"2719","Pulp & Paper","55-59","Male","X2011",68,13
+"2720","Pulp & Paper","55-59","Male","X2012",76,12
+"2721","Pulp & Paper","55-59","Male","X2013",60,9
+"2722","Pulp & Paper","55-59","Male","X2014",54,11
+"2723","Pulp & Paper","55-59","Male","X2015",69,12
+"2724","Pulp & Paper","55-59","Male","X2016",74,14
+"2725","Pulp & Paper","55-59","Male","X2017",51,11
+"2726","Pulp & Paper","55-59","Male","X2018",54,19
+"2727","Pulp & Paper","55-59","Male","X2019",45,9
+"2728","Pulp & Paper","60-64","Female","X2011",6,4
+"2729","Pulp & Paper","60-64","Female","X2012",4,1
+"2730","Pulp & Paper","60-64","Female","X2013",6,2
+"2731","Pulp & Paper","60-64","Female","X2014",1,0
+"2732","Pulp & Paper","60-64","Female","X2015",3,1
+"2733","Pulp & Paper","60-64","Female","X2016",4,1
+"2734","Pulp & Paper","60-64","Female","X2017",2,0
+"2735","Pulp & Paper","60-64","Female","X2018",4,1
+"2736","Pulp & Paper","60-64","Female","X2019",2,2
+"2737","Pulp & Paper","60-64","Male","X2011",28,7
+"2738","Pulp & Paper","60-64","Male","X2012",24,6
+"2739","Pulp & Paper","60-64","Male","X2013",24,5
+"2740","Pulp & Paper","60-64","Male","X2014",26,4
+"2741","Pulp & Paper","60-64","Male","X2015",31,7
+"2742","Pulp & Paper","60-64","Male","X2016",27,12
+"2743","Pulp & Paper","60-64","Male","X2017",25,6
+"2744","Pulp & Paper","60-64","Male","X2018",50,13
+"2745","Pulp & Paper","60-64","Male","X2019",42,9
+"2746","Pulp & Paper","65+","Female","X2011",1,0
+"2747","Pulp & Paper","65+","Female","X2012",5,0
+"2748","Pulp & Paper","65+","Female","X2013",1,1
+"2749","Pulp & Paper","65+","Female","X2014",5,1
+"2750","Pulp & Paper","65+","Female","X2015",5,0
+"2751","Pulp & Paper","65+","Female","X2016",1,0
+"2752","Pulp & Paper","65+","Female","X2017",2,0
+"2753","Pulp & Paper","65+","Female","X2018",2,0
+"2754","Pulp & Paper","65+","Female","X2019",2,2
+"2755","Pulp & Paper","65+","Male","X2011",38,1
+"2756","Pulp & Paper","65+","Male","X2012",35,4
+"2757","Pulp & Paper","65+","Male","X2013",33,1
+"2758","Pulp & Paper","65+","Male","X2014",44,2
+"2759","Pulp & Paper","65+","Male","X2015",41,3
+"2760","Pulp & Paper","65+","Male","X2016",37,4
+"2761","Pulp & Paper","65+","Male","X2017",27,3
+"2762","Pulp & Paper","65+","Male","X2018",34,4
+"2763","Pulp & Paper","65+","Male","X2019",41,8
+"2764","Services","15-19","Female","X2011",1156,399
+"2765","Services","15-19","Female","X2012",1315,424
+"2766","Services","15-19","Female","X2013",1275,454
+"2767","Services","15-19","Female","X2014",1279,437
+"2768","Services","15-19","Female","X2015",1415,514
+"2769","Services","15-19","Female","X2016",1440,529
+"2770","Services","15-19","Female","X2017",1564,671
+"2771","Services","15-19","Female","X2018",1438,664
+"2772","Services","15-19","Female","X2019",1501,617
+"2773","Services","15-19","Male","X2011",1715,507
+"2774","Services","15-19","Male","X2012",1722,499
+"2775","Services","15-19","Male","X2013",1587,501
+"2776","Services","15-19","Male","X2014",1694,496
+"2777","Services","15-19","Male","X2015",1692,553
+"2778","Services","15-19","Male","X2016",1704,607
+"2779","Services","15-19","Male","X2017",1739,692
+"2780","Services","15-19","Male","X2018",1778,708
+"2781","Services","15-19","Male","X2019",1762,695
+"2782","Services","20-24","Female","X2011",1752,779
+"2783","Services","20-24","Female","X2012",1860,794
+"2784","Services","20-24","Female","X2013",1982,841
+"2785","Services","20-24","Female","X2014",2045,873
+"2786","Services","20-24","Female","X2015",2005,874
+"2787","Services","20-24","Female","X2016",2234,1049
+"2788","Services","20-24","Female","X2017",2190,1114
+"2789","Services","20-24","Female","X2018",2193,1221
+"2790","Services","20-24","Female","X2019",2154,1221
+"2791","Services","20-24","Male","X2011",3026,1093
+"2792","Services","20-24","Male","X2012",3109,1177
+"2793","Services","20-24","Male","X2013",3050,1116
+"2794","Services","20-24","Male","X2014",3131,1013
+"2795","Services","20-24","Male","X2015",3141,1087
+"2796","Services","20-24","Male","X2016",2997,1266
+"2797","Services","20-24","Male","X2017",3239,1298
+"2798","Services","20-24","Male","X2018",3210,1475
+"2799","Services","20-24","Male","X2019",3179,1474
+"2800","Services","25-29","Female","X2011",1193,611
+"2801","Services","25-29","Female","X2012",1208,624
+"2802","Services","25-29","Female","X2013",1289,625
+"2803","Services","25-29","Female","X2014",1237,587
+"2804","Services","25-29","Female","X2015",1296,598
+"2805","Services","25-29","Female","X2016",1388,761
+"2806","Services","25-29","Female","X2017",1515,744
+"2807","Services","25-29","Female","X2018",1533,856
+"2808","Services","25-29","Female","X2019",1598,871
+"2809","Services","25-29","Male","X2011",2170,957
+"2810","Services","25-29","Male","X2012",2178,935
+"2811","Services","25-29","Male","X2013",2192,903
+"2812","Services","25-29","Male","X2014",2266,918
+"2813","Services","25-29","Male","X2015",2119,924
+"2814","Services","25-29","Male","X2016",2217,1003
+"2815","Services","25-29","Male","X2017",2393,1057
+"2816","Services","25-29","Male","X2018",2347,1222
+"2817","Services","25-29","Male","X2019",2402,1145
+"2818","Services","30-34","Female","X2011",922,494
+"2819","Services","30-34","Female","X2012",969,433
+"2820","Services","30-34","Female","X2013",981,497
+"2821","Services","30-34","Female","X2014",994,439
+"2822","Services","30-34","Female","X2015",980,471
+"2823","Services","30-34","Female","X2016",1012,505
+"2824","Services","30-34","Female","X2017",1042,510
+"2825","Services","30-34","Female","X2018",1056,568
+"2826","Services","30-34","Female","X2019",1061,615
+"2827","Services","30-34","Male","X2011",1662,788
+"2828","Services","30-34","Male","X2012",1506,782
+"2829","Services","30-34","Male","X2013",1606,773
+"2830","Services","30-34","Male","X2014",1610,754
+"2831","Services","30-34","Male","X2015",1694,674
+"2832","Services","30-34","Male","X2016",1566,781
+"2833","Services","30-34","Male","X2017",1749,818
+"2834","Services","30-34","Male","X2018",1705,909
+"2835","Services","30-34","Male","X2019",1735,868
+"2836","Services","35-39","Female","X2011",1015,581
+"2837","Services","35-39","Female","X2012",928,520
+"2838","Services","35-39","Female","X2013",929,464
+"2839","Services","35-39","Female","X2014",903,424
+"2840","Services","35-39","Female","X2015",942,431
+"2841","Services","35-39","Female","X2016",899,518
+"2842","Services","35-39","Female","X2017",939,536
+"2843","Services","35-39","Female","X2018",954,541
+"2844","Services","35-39","Female","X2019",990,509
+"2845","Services","35-39","Male","X2011",1438,730
+"2846","Services","35-39","Male","X2012",1381,710
+"2847","Services","35-39","Male","X2013",1365,702
+"2848","Services","35-39","Male","X2014",1353,630
+"2849","Services","35-39","Male","X2015",1318,594
+"2850","Services","35-39","Male","X2016",1354,649
+"2851","Services","35-39","Male","X2017",1334,686
+"2852","Services","35-39","Male","X2018",1389,742
+"2853","Services","35-39","Male","X2019",1428,743
+"2854","Services","40-44","Female","X2011",1128,640
+"2855","Services","40-44","Female","X2012",1110,597
+"2856","Services","40-44","Female","X2013",1065,557
+"2857","Services","40-44","Female","X2014",1074,545
+"2858","Services","40-44","Female","X2015",1004,483
+"2859","Services","40-44","Female","X2016",954,552
+"2860","Services","40-44","Female","X2017",1003,557
+"2861","Services","40-44","Female","X2018",984,566
+"2862","Services","40-44","Female","X2019",1008,539
+"2863","Services","40-44","Male","X2011",1273,721
+"2864","Services","40-44","Male","X2012",1278,656
+"2865","Services","40-44","Male","X2013",1333,699
+"2866","Services","40-44","Male","X2014",1313,597
+"2867","Services","40-44","Male","X2015",1260,563
+"2868","Services","40-44","Male","X2016",1142,629
+"2869","Services","40-44","Male","X2017",1166,618
+"2870","Services","40-44","Male","X2018",1184,621
+"2871","Services","40-44","Male","X2019",1214,686
+"2872","Services","45-49","Female","X2011",1484,804
+"2873","Services","45-49","Female","X2012",1332,733
+"2874","Services","45-49","Female","X2013",1240,673
+"2875","Services","45-49","Female","X2014",1194,629
+"2876","Services","45-49","Female","X2015",1154,569
+"2877","Services","45-49","Female","X2016",1105,623
+"2878","Services","45-49","Female","X2017",1157,619
+"2879","Services","45-49","Female","X2018",1192,659
+"2880","Services","45-49","Female","X2019",1108,638
+"2881","Services","45-49","Male","X2011",1320,740
+"2882","Services","45-49","Male","X2012",1278,759
+"2883","Services","45-49","Male","X2013",1218,679
+"2884","Services","45-49","Male","X2014",1180,604
+"2885","Services","45-49","Male","X2015",1150,609
+"2886","Services","45-49","Male","X2016",1126,606
+"2887","Services","45-49","Male","X2017",1096,649
+"2888","Services","45-49","Male","X2018",1125,666
+"2889","Services","45-49","Male","X2019",1144,650
+"2890","Services","50-54","Female","X2011",1357,828
+"2891","Services","50-54","Female","X2012",1265,758
+"2892","Services","50-54","Female","X2013",1365,723
+"2893","Services","50-54","Female","X2014",1265,725
+"2894","Services","50-54","Female","X2015",1343,718
+"2895","Services","50-54","Female","X2016",1249,739
+"2896","Services","50-54","Female","X2017",1355,807
+"2897","Services","50-54","Female","X2018",1266,825
+"2898","Services","50-54","Female","X2019",1213,758
+"2899","Services","50-54","Male","X2011",1115,682
+"2900","Services","50-54","Male","X2012",1207,666
+"2901","Services","50-54","Male","X2013",1166,655
+"2902","Services","50-54","Male","X2014",1241,649
+"2903","Services","50-54","Male","X2015",1195,627
+"2904","Services","50-54","Male","X2016",1127,709
+"2905","Services","50-54","Male","X2017",1171,660
+"2906","Services","50-54","Male","X2018",1124,700
+"2907","Services","50-54","Male","X2019",1121,645
+"2908","Services","55-59","Female","X2011",908,585
+"2909","Services","55-59","Female","X2012",974,565
+"2910","Services","55-59","Female","X2013",1004,532
+"2911","Services","55-59","Female","X2014",1044,544
+"2912","Services","55-59","Female","X2015",1013,555
+"2913","Services","55-59","Female","X2016",1124,652
+"2914","Services","55-59","Female","X2017",1189,651
+"2915","Services","55-59","Female","X2018",1237,748
+"2916","Services","55-59","Female","X2019",1246,755
+"2917","Services","55-59","Male","X2011",765,505
+"2918","Services","55-59","Male","X2012",845,501
+"2919","Services","55-59","Male","X2013",900,512
+"2920","Services","55-59","Male","X2014",909,569
+"2921","Services","55-59","Male","X2015",973,510
+"2922","Services","55-59","Male","X2016",1011,568
+"2923","Services","55-59","Male","X2017",969,588
+"2924","Services","55-59","Male","X2018",1103,686
+"2925","Services","55-59","Male","X2019",1156,695
+"2926","Services","60-64","Female","X2011",548,349
+"2927","Services","60-64","Female","X2012",516,326
+"2928","Services","60-64","Female","X2013",486,355
+"2929","Services","60-64","Female","X2014",527,317
+"2930","Services","60-64","Female","X2015",533,324
+"2931","Services","60-64","Female","X2016",592,381
+"2932","Services","60-64","Female","X2017",679,408
+"2933","Services","60-64","Female","X2018",722,480
+"2934","Services","60-64","Female","X2019",757,496
+"2935","Services","60-64","Male","X2011",494,333
+"2936","Services","60-64","Male","X2012",522,303
+"2937","Services","60-64","Male","X2013",573,333
+"2938","Services","60-64","Male","X2014",563,326
+"2939","Services","60-64","Male","X2015",619,295
+"2940","Services","60-64","Male","X2016",595,421
+"2941","Services","60-64","Male","X2017",726,403
+"2942","Services","60-64","Male","X2018",742,465
+"2943","Services","60-64","Male","X2019",818,484
+"2944","Services","65+","Female","X2011",178,123
+"2945","Services","65+","Female","X2012",153,106
+"2946","Services","65+","Female","X2013",168,117
+"2947","Services","65+","Female","X2014",218,133
+"2948","Services","65+","Female","X2015",227,148
+"2949","Services","65+","Female","X2016",231,180
+"2950","Services","65+","Female","X2017",271,161
+"2951","Services","65+","Female","X2018",314,209
+"2952","Services","65+","Female","X2019",347,235
+"2953","Services","65+","Male","X2011",284,144
+"2954","Services","65+","Male","X2012",325,145
+"2955","Services","65+","Male","X2013",353,167
+"2956","Services","65+","Male","X2014",382,203
+"2957","Services","65+","Male","X2015",410,210
+"2958","Services","65+","Male","X2016",429,198
+"2959","Services","65+","Male","X2017",460,243
+"2960","Services","65+","Male","X2018",564,264
+"2961","Services","65+","Male","X2019",548,307
+"2962","Transportation","15-19","Female","X2011",25,14
+"2963","Transportation","15-19","Female","X2012",22,6
+"2964","Transportation","15-19","Female","X2013",15,9
+"2965","Transportation","15-19","Female","X2014",30,11
+"2966","Transportation","15-19","Female","X2015",33,7
+"2967","Transportation","15-19","Female","X2016",18,10
+"2968","Transportation","15-19","Female","X2017",35,20
+"2969","Transportation","15-19","Female","X2018",47,19
+"2970","Transportation","15-19","Female","X2019",34,21
+"2971","Transportation","15-19","Male","X2011",189,76
+"2972","Transportation","15-19","Male","X2012",208,67
+"2973","Transportation","15-19","Male","X2013",204,75
+"2974","Transportation","15-19","Male","X2014",237,72
+"2975","Transportation","15-19","Male","X2015",236,76
+"2976","Transportation","15-19","Male","X2016",225,84
+"2977","Transportation","15-19","Male","X2017",266,78
+"2978","Transportation","15-19","Male","X2018",291,104
+"2979","Transportation","15-19","Male","X2019",277,101
+"2980","Transportation","20-24","Female","X2011",128,49
+"2981","Transportation","20-24","Female","X2012",103,56
+"2982","Transportation","20-24","Female","X2013",129,49
+"2983","Transportation","20-24","Female","X2014",110,64
+"2984","Transportation","20-24","Female","X2015",110,51
+"2985","Transportation","20-24","Female","X2016",139,47
+"2986","Transportation","20-24","Female","X2017",130,82
+"2987","Transportation","20-24","Female","X2018",173,111
+"2988","Transportation","20-24","Female","X2019",199,89
+"2989","Transportation","20-24","Male","X2011",780,308
+"2990","Transportation","20-24","Male","X2012",824,315
+"2991","Transportation","20-24","Male","X2013",852,307
+"2992","Transportation","20-24","Male","X2014",843,275
+"2993","Transportation","20-24","Male","X2015",853,243
+"2994","Transportation","20-24","Male","X2016",822,281
+"2995","Transportation","20-24","Male","X2017",814,353
+"2996","Transportation","20-24","Male","X2018",943,389
+"2997","Transportation","20-24","Male","X2019",905,358
+"2998","Transportation","25-29","Female","X2011",142,68
+"2999","Transportation","25-29","Female","X2012",131,71
+"3000","Transportation","25-29","Female","X2013",159,72
+"3001","Transportation","25-29","Female","X2014",124,80
+"3002","Transportation","25-29","Female","X2015",148,64
+"3003","Transportation","25-29","Female","X2016",115,80
+"3004","Transportation","25-29","Female","X2017",128,99
+"3005","Transportation","25-29","Female","X2018",174,96
+"3006","Transportation","25-29","Female","X2019",162,123
+"3007","Transportation","25-29","Male","X2011",814,363
+"3008","Transportation","25-29","Male","X2012",872,385
+"3009","Transportation","25-29","Male","X2013",870,348
+"3010","Transportation","25-29","Male","X2014",880,375
+"3011","Transportation","25-29","Male","X2015",802,328
+"3012","Transportation","25-29","Male","X2016",783,339
+"3013","Transportation","25-29","Male","X2017",811,374
+"3014","Transportation","25-29","Male","X2018",824,423
+"3015","Transportation","25-29","Male","X2019",917,391
+"3016","Transportation","30-34","Female","X2011",159,85
+"3017","Transportation","30-34","Female","X2012",134,80
+"3018","Transportation","30-34","Female","X2013",117,88
+"3019","Transportation","30-34","Female","X2014",143,86
+"3020","Transportation","30-34","Female","X2015",149,58
+"3021","Transportation","30-34","Female","X2016",153,80
+"3022","Transportation","30-34","Female","X2017",151,98
+"3023","Transportation","30-34","Female","X2018",177,100
+"3024","Transportation","30-34","Female","X2019",155,98
+"3025","Transportation","30-34","Male","X2011",800,384
+"3026","Transportation","30-34","Male","X2012",773,373
+"3027","Transportation","30-34","Male","X2013",794,355
+"3028","Transportation","30-34","Male","X2014",789,364
+"3029","Transportation","30-34","Male","X2015",809,324
+"3030","Transportation","30-34","Male","X2016",772,357
+"3031","Transportation","30-34","Male","X2017",772,360
+"3032","Transportation","30-34","Male","X2018",777,384
+"3033","Transportation","30-34","Male","X2019",819,402
+"3034","Transportation","35-39","Female","X2011",141,96
+"3035","Transportation","35-39","Female","X2012",151,78
+"3036","Transportation","35-39","Female","X2013",164,95
+"3037","Transportation","35-39","Female","X2014",158,90
+"3038","Transportation","35-39","Female","X2015",145,88
+"3039","Transportation","35-39","Female","X2016",146,107
+"3040","Transportation","35-39","Female","X2017",159,97
+"3041","Transportation","35-39","Female","X2018",166,113
+"3042","Transportation","35-39","Female","X2019",175,100
+"3043","Transportation","35-39","Male","X2011",787,473
+"3044","Transportation","35-39","Male","X2012",788,441
+"3045","Transportation","35-39","Male","X2013",891,384
+"3046","Transportation","35-39","Male","X2014",830,379
+"3047","Transportation","35-39","Male","X2015",701,307
+"3048","Transportation","35-39","Male","X2016",724,338
+"3049","Transportation","35-39","Male","X2017",756,350
+"3050","Transportation","35-39","Male","X2018",698,419
+"3051","Transportation","35-39","Male","X2019",716,388
+"3052","Transportation","40-44","Female","X2011",191,111
+"3053","Transportation","40-44","Female","X2012",178,124
+"3054","Transportation","40-44","Female","X2013",170,107
+"3055","Transportation","40-44","Female","X2014",179,107
+"3056","Transportation","40-44","Female","X2015",150,93
+"3057","Transportation","40-44","Female","X2016",168,104
+"3058","Transportation","40-44","Female","X2017",174,85
+"3059","Transportation","40-44","Female","X2018",152,110
+"3060","Transportation","40-44","Female","X2019",183,123
+"3061","Transportation","40-44","Male","X2011",810,527
+"3062","Transportation","40-44","Male","X2012",821,462
+"3063","Transportation","40-44","Male","X2013",813,417
+"3064","Transportation","40-44","Male","X2014",825,412
+"3065","Transportation","40-44","Male","X2015",737,381
+"3066","Transportation","40-44","Male","X2016",760,425
+"3067","Transportation","40-44","Male","X2017",715,379
+"3068","Transportation","40-44","Male","X2018",749,366
+"3069","Transportation","40-44","Male","X2019",737,428
+"3070","Transportation","45-49","Female","X2011",231,122
+"3071","Transportation","45-49","Female","X2012",212,109
+"3072","Transportation","45-49","Female","X2013",176,110
+"3073","Transportation","45-49","Female","X2014",180,102
+"3074","Transportation","45-49","Female","X2015",180,92
+"3075","Transportation","45-49","Female","X2016",174,94
+"3076","Transportation","45-49","Female","X2017",191,118
+"3077","Transportation","45-49","Female","X2018",169,120
+"3078","Transportation","45-49","Female","X2019",195,130
+"3079","Transportation","45-49","Male","X2011",903,577
+"3080","Transportation","45-49","Male","X2012",838,584
+"3081","Transportation","45-49","Male","X2013",879,536
+"3082","Transportation","45-49","Male","X2014",833,464
+"3083","Transportation","45-49","Male","X2015",828,425
+"3084","Transportation","45-49","Male","X2016",722,449
+"3085","Transportation","45-49","Male","X2017",797,437
+"3086","Transportation","45-49","Male","X2018",781,468
+"3087","Transportation","45-49","Male","X2019",776,451
+"3088","Transportation","50-54","Female","X2011",183,132
+"3089","Transportation","50-54","Female","X2012",197,123
+"3090","Transportation","50-54","Female","X2013",210,124
+"3091","Transportation","50-54","Female","X2014",231,113
+"3092","Transportation","50-54","Female","X2015",207,95
+"3093","Transportation","50-54","Female","X2016",215,121
+"3094","Transportation","50-54","Female","X2017",201,131
+"3095","Transportation","50-54","Female","X2018",193,133
+"3096","Transportation","50-54","Female","X2019",217,145
+"3097","Transportation","50-54","Male","X2011",830,533
+"3098","Transportation","50-54","Male","X2012",787,527
+"3099","Transportation","50-54","Male","X2013",858,526
+"3100","Transportation","50-54","Male","X2014",959,590
+"3101","Transportation","50-54","Male","X2015",828,484
+"3102","Transportation","50-54","Male","X2016",880,505
+"3103","Transportation","50-54","Male","X2017",781,504
+"3104","Transportation","50-54","Male","X2018",790,523
+"3105","Transportation","50-54","Male","X2019",800,471
+"3106","Transportation","55-59","Female","X2011",117,66
+"3107","Transportation","55-59","Female","X2012",123,69
+"3108","Transportation","55-59","Female","X2013",114,68
+"3109","Transportation","55-59","Female","X2014",144,94
+"3110","Transportation","55-59","Female","X2015",139,69
+"3111","Transportation","55-59","Female","X2016",150,98
+"3112","Transportation","55-59","Female","X2017",166,100
+"3113","Transportation","55-59","Female","X2018",197,122
+"3114","Transportation","55-59","Female","X2019",198,133
+"3115","Transportation","55-59","Male","X2011",579,423
+"3116","Transportation","55-59","Male","X2012",593,411
+"3117","Transportation","55-59","Male","X2013",738,450
+"3118","Transportation","55-59","Male","X2014",729,464
+"3119","Transportation","55-59","Male","X2015",702,429
+"3120","Transportation","55-59","Male","X2016",707,495
+"3121","Transportation","55-59","Male","X2017",771,454
+"3122","Transportation","55-59","Male","X2018",860,511
+"3123","Transportation","55-59","Male","X2019",805,542
+"3124","Transportation","60-64","Female","X2011",63,37
+"3125","Transportation","60-64","Female","X2012",58,30
+"3126","Transportation","60-64","Female","X2013",65,32
+"3127","Transportation","60-64","Female","X2014",67,43
+"3128","Transportation","60-64","Female","X2015",64,49
+"3129","Transportation","60-64","Female","X2016",75,61
+"3130","Transportation","60-64","Female","X2017",79,61
+"3131","Transportation","60-64","Female","X2018",98,72
+"3132","Transportation","60-64","Female","X2019",118,83
+"3133","Transportation","60-64","Male","X2011",366,278
+"3134","Transportation","60-64","Male","X2012",373,268
+"3135","Transportation","60-64","Male","X2013",418,286
+"3136","Transportation","60-64","Male","X2014",471,318
+"3137","Transportation","60-64","Male","X2015",411,285
+"3138","Transportation","60-64","Male","X2016",465,313
+"3139","Transportation","60-64","Male","X2017",484,313
+"3140","Transportation","60-64","Male","X2018",596,382
+"3141","Transportation","60-64","Male","X2019",563,412
+"3142","Transportation","65+","Female","X2011",13,14
+"3143","Transportation","65+","Female","X2012",18,8
+"3144","Transportation","65+","Female","X2013",27,19
+"3145","Transportation","65+","Female","X2014",34,18
+"3146","Transportation","65+","Female","X2015",27,20
+"3147","Transportation","65+","Female","X2016",37,21
+"3148","Transportation","65+","Female","X2017",36,28
+"3149","Transportation","65+","Female","X2018",44,33
+"3150","Transportation","65+","Female","X2019",49,35
+"3151","Transportation","65+","Male","X2011",185,95
+"3152","Transportation","65+","Male","X2012",215,98
+"3153","Transportation","65+","Male","X2013",228,136
+"3154","Transportation","65+","Male","X2014",277,134
+"3155","Transportation","65+","Male","X2015",296,122
+"3156","Transportation","65+","Male","X2016",328,160
+"3157","Transportation","65+","Male","X2017",381,160
+"3158","Transportation","65+","Male","X2018",405,182
+"3159","Transportation","65+","Male","X2019",419,233

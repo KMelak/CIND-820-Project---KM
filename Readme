@@ -2,7 +2,7 @@ WSIB CLAIMS PROJECT
 
 INTRODUCTION
 
-The project looks at three different types of claims made to the WSIB between the years 2011 - 2019.
+The project looks at three different types of claims made to the WSIB between the years 2011 - 2019.  The Method Diagram file outlines the applied techniques.
 
 Data files were obtained from the WSIB by the Numbers portal (https://www.wsib.ca/en/bythenumbers).  Three reports were generated, one for each type of claim:
 No Lost Time (no_lost_time.csv), Lost Time (lost_time.csv), and Fatalities (fatalities.csv) for the years 2011 to 2019.

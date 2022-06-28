@@ -15,10 +15,52 @@ Gender --> all except NA
 
 An additional file containing the NAICS codes for each industy is also included.
 
-DATA PREPARATION
-R code was used to prepare the data.  The code in the DataPrep.rmd file reads each data file, collapses the "Year" column, combines the files via inner join, checks for NA values and writes the end result.  Two files were written as a result; file contatining all three types of claims WSIB_data.csv (No lost time, lost time and fatality) as well as a file containing only the non-fatal claims WSIB_no_fat.csv (No lost time, lost time).
+DATA PREPARATION (DataPrep.rmd)
+R code was used to prepare the data.  The code in the DataPrep.rmd file reads each data file, collapses the "Year" column, combines the files via inner join, 
+checks for NA values and writes the end result.  Two files were written as a result; file contatining all three types of claims WSIB_data.csv 
+(No lost time, lost time and fatality) as well as a file containing only the non-fatal claims WSIB_no_fat.csv (No lost time, lost time).
 
-EDA
+EDA(File: WSIB_Profile_Report.html)
 The Exploratory Data Analysis report was prepared using Python.  Code for this portion is included in EDA.ipynb. 
 The ProfileReport using the pandas package was prepared as WSIB_Profile_Report.
 Similarily to the data files, an additional profile report was created for the data containing only non-fatal claims --> WSIB_no_fat_Profile_Report.
+
+Data Transformations (Transformations.ipynb)
+Python code using Jupyter Notebook for the transformations was applied to the data.  Prior to any transformations, the data was first split into train/test sets using 
+70/30 ratio.  Boxplots were generated for the three types of claims revealing a skewed distributions as well as outliers for the NLT and LT Claims variables.
+
+TEST FOR NORMALITY: Next the train set was tested for normality using the Shapiro-Wilk test and results for all three types of claims showed evidence that the samples are not
+normally distributed (p<0.01).
+HANDLING OUTLIERS:Outliers were identified using the interquartile range.  Any points beyond the fences were considered outliers.  
+For the lower values, points below 1.5 times the IQR less than the first quartile and for the upper values, points above 1.5 times the IQR more than the third quartile
+were considered outliers.  There were no outliers identified in the lower bound of any of the variables. Eight ouliers (1.1%) were identifed for the NLT_Claims, three(0.4%) for 
+LT_Claims, and 42 for F_Claims.  The outliers for each varialbe were replaced with the median values as the data was discrete.
+
+YEO-JOHNSON TRANSFORMATION: Because the data included zero values, the Yeo-Johnson transformation was applied in an attempt for the data to approach a normal distribution.
+After the transformation, variables were once again tested for normality and skewness.  NLT_Claims were no longer skewed (p=0.183) but remained non-normal (p<0.01).
+LT_Claims were also no longer skewed (p=0.20) and remained non-normal (p<0.01).  The transformation did not have effect on F_Claims as the variable continued to be both 
+skewed and non-normal.
+
+DISCRETIZATION: The three claim variables were then transformed into categories using the equal-frequency method as this method is preferred for modelling.  
+NLT_Claims and LT_Claims were transformed to 6 bins, each with approximately 120 observations.  The F_Claims variable having a much smaller range was divided into 
+4 bins.  However a warning suggested to decrease the size of bins as those with widths too small (<=1e-8) were removed by the function, resulting with only two bars
+on the histrogram.  When the number of bins was reduced to 3 or below, a single bar, representing a single bin, was visible.
+
+Transformed data was written into csv file --> Transformed.csv
+
+
+CLASSIFICATION MODEL (Classification Model.ipynb)
+Due to the nature of the data and the number of classes of the dependent variable(s), a Multinomial Logistic Regression was selected for classification.
+The independent variables were encoded as follows: 
+INDUSTRY
+'Forestry':1, 'Manufacturing':2, 'Mining':3, 'Chemicals/Process':4, 'Electrical':5, 'Health Care':6, 'Services':7, 'Transportation':8, '0.0':0, 
+'Food':9, 'Municipal':10, 'Agriculture':11, 'Construction':12, 'Education':13, 'Automotive':14, 'Primary Metals':15, 'Pulp & Paper':16
+AGE
+'15-19':1, '20-24':2, '25-29':3, '30-34':4,'35-39':5, '40-44':6, '45-49':7, '50-54':8, '0.0':0,'55-60':9, '60-64':10, '65+':11
+GENDER
+'Female':1, 'Male':2
+
+A repeated k-fold cross-validation technique was used.
+
+The training data was split into train and test (70/30), a Multinomial Logistic Regression model was fit.
+A confustion matrix for the model was generated representing the 6 categories of NLT_Claims and a classification report to show precision, recall, and F1-score.

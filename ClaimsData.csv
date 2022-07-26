@@ -1,0 +1,61 @@
+"","IND","IND_Name","IND_Cat","REGION_CODE","Total_Claims","Fracture","Low_Back","Shoulder","HIC_Total","HIC_Rate","Emp_15plus","Emp_15.24","Emp_25.54","Emp_55plus","EmpPer_1524","EmpPer_2554","EmpPer_55plus"
+"1","11","Agriculture, forestry, fishing and hunting","Goods-producing","K",208,28,29,15,72,0.35,1547.4,149.6,1002.7,393.1,9.67,64.8,25.4
+"2","21","Mining, quarrying, and oil and gas extraction","Goods-producing","K",27,2,4,2,8,0.3,29.5,1.9,22.1,5.4,6.44,74.92,18.31
+"3","22","Utilities","Goods-producing","K",81,3,16,7,26,0.32,55.6,3.5,43,9.2,6.29,77.34,16.55
+"4","23","Construction","Goods-producing","K",951,133,143,54,330,0.35,540,58.5,362.5,119,10.83,67.13,22.04
+"5","31-33","Manufacturing","Goods-producing","K",1156,88,175,61,324,0.28,761.5,62.5,497.5,201.6,8.21,65.33,26.47
+"6","48-49","Transportation and warehousing","Service-producing","K",644,77,113,38,228,0.35,395.7,26.8,263.6,105.2,6.77,66.62,26.59
+"7","61","Educational services","Service-producing","K",113,8,11,7,26,0.23,540.8,53.5,370.1,117.2,9.89,68.44,21.67
+"8","62","Health care and social assistance","Service-producing","K",1577,44,288,89,421,0.27,900.5,74.5,633.5,192.5,8.27,70.35,21.38
+"9","72","Accommodation and food services","Service-producing","K",218,7,43,22,72,0.33,448.9,190.8,205.4,52.6,42.5,45.76,11.72
+"10","81","Other services (except public administration)","Service-producing","K",164,10,33,7,50,0.3,298.8,26.2,200.4,72.3,8.77,67.07,24.2
+"11","91","Public administration","Service-producing","K",137,8,21,10,39,0.28,373,24.4,274.2,74.5,6.54,73.51,19.97
+"12","Multiple","Service","Service-producing","K",2508,164,401,140,705,0.28,3400.8,670.8,2048.9,681.1,19.72,60.25,20.03
+"13","11","Agriculture, forestry, fishing and hunting","Goods-producing","L",344,31,56,17,104,0.3,1547.4,149.6,1002.7,393.1,9.67,64.8,25.4
+"14","21","Mining, quarrying, and oil and gas extraction","Goods-producing","L",14,2,2,0,4,0.29,29.5,1.9,22.1,5.4,6.44,74.92,18.31
+"15","22","Utilities","Goods-producing","L",121,14,22,10,46,0.38,55.6,3.5,43,9.2,6.29,77.34,16.55
+"16","23","Construction","Goods-producing","L",1541,207,220,94,521,0.34,540,58.5,362.5,119,10.83,67.13,22.04
+"17","31-33","Manufacturing","Goods-producing","L",3052,289,481,201,971,0.32,761.5,62.5,497.5,201.6,8.21,65.33,26.47
+"18","48-49","Transportation and warehousing","Service-producing","L",2027,190,343,145,678,0.33,395.7,26.8,263.6,105.2,6.77,66.62,26.59
+"19","61","Educational services","Service-producing","L",108,5,14,1,20,0.19,540.8,53.5,370.1,117.2,9.89,68.44,21.67
+"20","62","Health care and social assistance","Service-producing","L",1659,67,306,121,494,0.3,900.5,74.5,633.5,192.5,8.27,70.35,21.38
+"21","72","Accommodation and food services","Service-producing","L",413,36,76,23,135,0.33,448.9,190.8,205.4,52.6,42.5,45.76,11.72
+"22","81","Other services (except public administration)","Service-producing","L",485,35,70,45,150,0.31,298.8,26.2,200.4,72.3,8.77,67.07,24.2
+"23","91","Public administration","Service-producing","L",158,6,21,5,32,0.2,373,24.4,274.2,74.5,6.54,73.51,19.97
+"24","Multiple","Service","Service-producing","L",5514,339,820,331,1490,0.27,3400.8,670.8,2048.9,681.1,19.72,60.25,20.03
+"25","11","Agriculture, forestry, fishing and hunting","Goods-producing","M",70,7,9,6,22,0.31,1547.4,149.6,1002.7,393.1,9.67,64.8,25.4
+"26","21","Mining, quarrying, and oil and gas extraction","Goods-producing","M",9,1,4,1,6,0.67,29.5,1.9,22.1,5.4,6.44,74.92,18.31
+"27","22","Utilities","Goods-producing","M",47,3,12,4,19,0.4,55.6,3.5,43,9.2,6.29,77.34,16.55
+"28","23","Construction","Goods-producing","M",652,86,109,22,217,0.33,540,58.5,362.5,119,10.83,67.13,22.04
+"29","31-33","Manufacturing","Goods-producing","M",1387,122,198,65,385,0.28,761.5,62.5,497.5,201.6,8.21,65.33,26.47
+"30","48-49","Transportation and warehousing","Service-producing","M",662,63,128,51,242,0.37,395.7,26.8,263.6,105.2,6.77,66.62,26.59
+"31","61","Educational services","Service-producing","M",211,19,17,12,48,0.23,540.8,53.5,370.1,117.2,9.89,68.44,21.67
+"32","62","Health care and social assistance","Service-producing","M",1917,86,299,150,535,0.28,900.5,74.5,633.5,192.5,8.27,70.35,21.38
+"33","72","Accommodation and food services","Service-producing","M",211,19,31,13,63,0.3,448.9,190.8,205.4,52.6,42.5,45.76,11.72
+"34","81","Other services (except public administration)","Service-producing","M",69,5,11,5,21,0.3,298.8,26.2,200.4,72.3,8.77,67.07,24.2
+"35","91","Public administration","Service-producing","M",8,2,2,0,4,0.5,373,24.4,274.2,74.5,6.54,73.51,19.97
+"36","Multiple","Service","Service-producing","M",3318,202,463,159,824,0.25,3400.8,670.8,2048.9,681.1,19.72,60.25,20.03
+"37","11","Agriculture, forestry, fishing and hunting","Goods-producing","N",690,54,96,35,185,0.27,1547.4,149.6,1002.7,393.1,9.67,64.8,25.4
+"38","21","Mining, quarrying, and oil and gas extraction","Goods-producing","N",45,7,5,3,15,0.33,29.5,1.9,22.1,5.4,6.44,74.92,18.31
+"39","22","Utilities","Goods-producing","N",95,8,13,4,25,0.26,55.6,3.5,43,9.2,6.29,77.34,16.55
+"40","23","Construction","Goods-producing","N",1309,180,184,88,452,0.35,540,58.5,362.5,119,10.83,67.13,22.04
+"41","31-33","Manufacturing","Goods-producing","N",2455,191,408,148,747,0.3,761.5,62.5,497.5,201.6,8.21,65.33,26.47
+"42","48-49","Transportation and warehousing","Service-producing","N",1377,129,206,116,451,0.33,395.7,26.8,263.6,105.2,6.77,66.62,26.59
+"43","61","Educational services","Service-producing","N",237,16,34,10,60,0.25,540.8,53.5,370.1,117.2,9.89,68.44,21.67
+"44","62","Health care and social assistance","Service-producing","N",2429,77,490,170,737,0.3,900.5,74.5,633.5,192.5,8.27,70.35,21.38
+"45","72","Accommodation and food services","Service-producing","N",366,27,60,25,112,0.31,448.9,190.8,205.4,52.6,42.5,45.76,11.72
+"46","81","Other services (except public administration)","Service-producing","N",775,46,130,66,242,0.31,298.8,26.2,200.4,72.3,8.77,67.07,24.2
+"47","91","Public administration","Service-producing","N",269,12,35,11,58,0.22,373,24.4,274.2,74.5,6.54,73.51,19.97
+"48","Multiple","Service","Service-producing","N",3408,203,515,205,923,0.27,3400.8,670.8,2048.9,681.1,19.72,60.25,20.03
+"49","11","Agriculture, forestry, fishing and hunting","Goods-producing","P",137,15,17,12,44,0.32,1547.4,149.6,1002.7,393.1,9.67,64.8,25.4
+"50","21","Mining, quarrying, and oil and gas extraction","Goods-producing","P",112,8,16,13,37,0.33,29.5,1.9,22.1,5.4,6.44,74.92,18.31
+"51","22","Utilities","Goods-producing","P",39,3,8,1,12,0.31,55.6,3.5,43,9.2,6.29,77.34,16.55
+"52","23","Construction","Goods-producing","P",379,40,67,22,129,0.34,540,58.5,362.5,119,10.83,67.13,22.04
+"53","31-33","Manufacturing","Goods-producing","P",341,20,59,20,99,0.29,761.5,62.5,497.5,201.6,8.21,65.33,26.47
+"54","48-49","Transportation and warehousing","Service-producing","P",379,37,53,36,126,0.33,395.7,26.8,263.6,105.2,6.77,66.62,26.59
+"55","61","Educational services","Service-producing","P",87,9,11,5,25,0.29,540.8,53.5,370.1,117.2,9.89,68.44,21.67
+"56","62","Health care and social assistance","Service-producing","P",831,24,164,50,238,0.29,900.5,74.5,633.5,192.5,8.27,70.35,21.38
+"57","72","Accommodation and food services","Service-producing","P",22,2,3,3,8,0.36,448.9,190.8,205.4,52.6,42.5,45.76,11.72
+"58","81","Other services (except public administration)","Service-producing","P",11,1,2,0,3,0.27,298.8,26.2,200.4,72.3,8.77,67.07,24.2
+"59","91","Public administration","Service-producing","P",198,19,33,11,63,0.32,373,24.4,274.2,74.5,6.54,73.51,19.97
+"60","Multiple","Service","Service-producing","P",815,64,124,47,235,0.29,3400.8,670.8,2048.9,681.1,19.72,60.25,20.03

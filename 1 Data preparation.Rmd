@@ -1,0 +1,288 @@
+---
+title: "1 Data preparation"
+author: "Kinga M"
+date: '2022-07-25'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##Claims Data
+Read All claims file and High Impact Claims (HIC) file for 2019
+
+```{r cars}
+
+ALL<-read.csv(file='2019 claims all.csv',stringsAsFactors = T, na.strings = "NA", col.names = c('Industry', 'Location', 'Total_Claims'))
+
+HIC<-read.csv(file='2019 claims hi.csv',stringsAsFactors = T, na.strings = "NA", col.names = c('Industry', 'Location', 'Fracture', 'Low_Back', 'Shoulder', 'HIC_Total'))
+
+```
+
+##Combine the two datasets with left join on Industry and Location
+```{r}
+library(dplyr)
+Claims <- left_join(ALL, HIC, by = c('Industry', 'Location'))
+head(Claims)
+```
+
+#Check for NA values and replace with 0 for rows without any HIC claims
+```{r}
+
+sum(is.na(Claims))
+Claims[is.na(Claims)]<-0
+
+```
+
+#Assign Industry code based on NAICS classification
+```{r}
+Claims$IND[Claims$Industry=='Municipal']<-'91'
+Claims$IND[Claims$Industry=='Electrical']<-'22'
+Claims$IND[Claims$Industry=='Food']<-'72'
+Claims$IND[Claims$Industry=='Forestry']<-'11'
+Claims$IND[Claims$Industry=='Mining']<-'21'
+Claims$IND[Claims$Industry=='Primary Metals']<-'31-33'
+Claims$IND[Claims$Industry=='Automotive']<-'81'
+Claims$IND[Claims$Industry=='Health Care']<-'62'
+Claims$IND[Claims$Industry=='Manufacturing']<-'31-33'
+Claims$IND[Claims$Industry=='Construction']<-'23'
+Claims$IND[Claims$Industry=='Services']<- 'Multiple'
+Claims$IND[Claims$Industry=='Transportation']<-'48-49'
+Claims$IND[Claims$Industry=='Agriculture']<-'11'
+Claims$IND[Claims$Industry=='Chemicals/Process']<-'31-33'
+Claims$IND[Claims$Industry=='Education']<-'61'
+Claims$IND[Claims$Industry=='Pulp & Paper']<-'31-33'
+
+sum(is.na(Claims$IND))  #check for any rows with unassigned "IND" code
+
+Claims1<-Claims[,-1]  #remove the Industry label
+```
+
+##Aggregate Industry to correspond to NAICS 
+```{r}
+
+Claims1 <- aggregate(. ~ IND + Location, data=Claims1, FUN=sum)
+
+```
+
+##Add "Region" variables based on Location
+```{r}
+
+Postal_Codes <-read.csv(file='Pcodes.csv',stringsAsFactors = T, na.strings = "NA", col.names = c('Location', 'REGION_CODE', 'REGION'))
+
+Claims1 <- left_join(Claims1, Postal_Codes, by = 'Location')
+
+Claims1<-Claims1[,-c(2,9)]
+```
+
+#Aggregate HIC claims by Ind and Reg_Code
+```{r}
+
+Claims1<- aggregate(. ~ IND + REGION_CODE, data = Claims1, FUN = sum)
+
+```
+
+#create a variable for the proportion of HIC
+```{r}
+
+Claims1$HIC_Rate <-round(Claims1$HIC_Total / Claims1$Total, digits=2)
+
+```
+
+##Add Industry name and Category labels
+```{r}
+
+Ind_Codes <-read.csv(file='NAICS.csv',stringsAsFactors = T, na.strings = "NA", col.names = c('IND', 'IND_Name', 'IND_Cat'))
+
+Claims1 <- left_join(Claims1, Ind_Codes, by = 'IND')
+
+Claims1<- Claims1[,c(1,9,10,2:8)]  #reoder the columns
+```
+
+#Add LABOUR FORCE data
+```{r}
+
+Labour_Force <-read.csv(file='2019 labour force and age.csv',stringsAsFactors = T, na.strings = "NA", col.names = c('IND', 'IND_Name', 'Emp_15plus','Emp_15-24','Per_15-24',	'Emp_25-54',	'Per_25-54',	'Emp_55plus',	'Per_55plus'))
+
+Labour_Force<-Labour_Force[,-c(2,5,7,9)]
+
+Claims1<-left_join(Claims1, Labour_Force, by = "IND")
+
+```
+
+##Create Variables for the proportion of labour force for each age group
+```{r}
+Claims1$EmpPer_1524<-round((Claims1$Emp_15.24 / Claims1$Emp_15plus)*100, digits = 2)
+Claims1$EmpPer_2554<-round((Claims1$Emp_25.54 / Claims1$Emp_15plus)*100, digits = 2)
+Claims1$EmpPer_55plus<-round((Claims1$Emp_55plus / Claims1$Emp_15plus)*100, digits = 2)
+
+
+write.csv(Claims1, file = "ClaimsData.csv")
+```
+
+##Prepare Inspection data
+```{r}
+Insp<-read.csv("2019 Insp.csv",stringsAsFactors = F, na.strings = c("NA", "NULL", ""), col.names = c("FV_D", "FV_M","FV_Y","FV_TYPE", "CASE_TYPE", "CASE_STS", "WP_ID", "WP_NAME", "WP_ADDRESS", "PC", "NAICS", "NAICS DESCR", "CONTRAV_ID", "CONTRAV_NAME", "CONTRAV_ROLE", "ORDER_TYPE", "ORDER_STS", "ACT", "REG_ID", "REG_YR", "REG_NAME", "SEC", "SUBSEC","CLAUSE"))
+
+summary(Insp)
+```
+
+##Input values for instances with no contraventions for columns 13:21, and "--" for columns 22:24
+```{r}
+
+Insp[,13:21][is.na(Insp[,13:21])]<-"No Contravention"
+Insp[,22:24][is.na(Insp[,22:24])]<-"--"
+head(Insp)
+```
+
+##Missing values
+```{r}
+#Remove observations without assigned PC or NAICS -->  131/149177 observations (0.088%)
+Insp<-Insp[complete.cases(Insp[,10:11]),]
+
+#Remove 3 remaining observations containing NAs
+Insp<- na.omit(Insp)
+```
+
+##Create new variables
+```{r}
+#convert FV_Y/M/D into date in YYYY-mm-dd format
+Insp$FV_DATE <- as.Date(with(Insp, paste(FV_Y, FV_M, FV_D,sep="-")), "%Y-%m-%d")
+
+#Create Regulation variable by combining Sec, Subsec and Clause
+Insp$Regulation <- paste(Insp$SEC, Insp$SUBSEC, Insp$CLAUSE)
+
+#Create Visit_Code by combining the visit date and workplace code
+Insp$VISIT_CODE <- paste(Insp$FV_DATE, Insp$WP_ID)
+
+#Assign region code, by extrapolating the first letter in Postal Code
+Insp$REGION_CODE <- substr(Insp$PC,1,1)
+
+#remove observations outside of Ontario
+
+Insp$REGION_CODE[Insp$REGION_CODE=='T'|Insp$REGION_CODE=='V']<-NA
+Insp<- Insp[complete.cases(Insp[,28]),]
+
+#Assign Industry code by extrapolating first two digits in NAICS
+Insp$IND <-substr(Insp$NAICS,1,2)
+
+#Create new variable to count the number of contraventions per visit per workplace
+Insp$CONTRA <- ifelse(Insp$CONTRAV_ID=="No Contravention", 0, 1)
+
+#Create new variables indicating the applicable legislature (ACT or Regulation)
+Insp$ActReg[Insp$CONTRA==0]<-"None"
+Insp$ActReg <-ifelse(is.na(Insp$REG_ID), substr(Insp$ACT,1,3), substr(Insp$REG_NAME,1,3))
+
+```
+
+##Align IND labels with ClaimsData
+##IND 41,44,45,51-56, 71 were combined --> Multiple
+```{r}
+
+Insp$IND[Insp$IND==31|Insp$IND==32 |Insp$IND==33]<-"31-33"
+Insp$IND[Insp$IND==48 |Insp$IND==49]<-"48-49"
+Insp$IND[Insp$IND==41|Insp$IND==44 |Insp$IND==45]<-"Multiple"
+Insp$IND[Insp$IND>=51 & Insp$IND<=56]<-"Multiple"
+Insp$IND[Insp$IND==71]<-"Multiple"
+
+unique(Insp$IND)
+
+```
+
+##Remove special characters from WP_Name, column and Contrav_Name
+```{r}
+
+library(stringr)
+Insp$WP_NAME<-str_replace_all(Insp$WP_NAME,"[^[:alnum:]]", " ")
+Insp$CONTRAV_NAME<-str_replace_all(Insp$CONTRAV_NAME,"[^[:alnum:]]", " ")
+```
+
+##Reorder columns
+```{r}
+Insp<-Insp[,c(1:3,25,27,4:10,28:29,11:12,30,13:24,26,31)]
+```
+
+##Subset observations of only Field visit type --> Initial and Case Type --> Inspection
+```{r}
+InspII<-Insp[which(Insp$FV_TYPE=='Initial' & Insp$CASE_TYPE=='Inspection'),]
+```
+
+##Aggregate rows by Visit_Code for each visit to be represented by a single entry, 
+##number of total Contraventions are calculated in a new variable CONTRA
+```{r}
+library(tidyverse)
+library(dbplyr)
+
+#Aggregate based on Visit Code and add number of contraventions observed
+InspConAgg<- aggregate(CONTRA ~ VISIT_CODE, InspII, sum)
+InspII<-distinct(InspII, VISIT_CODE, .keep_all = T)
+
+InspII<- left_join(InspII, InspConAgg, by = 'VISIT_CODE')
+InspII<-InspII[-c(17)] 
+
+colnames(InspII)[31]<- "CONTRA_Total"   #rename the Contra.y
+
+#Reorder columns
+InspII <-InspII[,c(1:16, 31, 17:30)]
+
+head(InspII)
+```
+
+#Merge the Inspection and Claims Data by IND and Region_Code
+```{r}
+#df contains the aggregated contravention data
+df <- left_join(InspII, Claims1, by = c('IND', 'REGION_CODE'))
+df<-df[,c(1,2,4,5,9:11,13,32,33,14:17,34:41,44,42,45,43,46)]
+colnames(df)
+
+#df2 contains the non-aggregated contravention data
+df2 <- left_join(Insp, Claims1, by = c('IND', 'REGION_CODE'))
+df2<-df2[,c(1,2,4,5,9:11, 13, 32,33, 14:31, 34:41,44,42,45,43,46)]
+colnames(df2)
+
+write.csv(df, file = "Data.csv")
+write.csv(df2, file = "Data_ALL.csv")
+```
+##DISCRETIZATION OF THE VARIABLES
+
+```{r}
+#install.packages("arules")
+library(arules)
+
+str(df)
+```
+
+
+```{r}
+#Change claims variables into factors
+df$Claims_Level<-discretize(df$Total_Claims, method = "fixed", breaks = c(0,500,1000,1500,2000,Inf), labels = c("Very Low", "Low","Moderate", "High", "Very High"))
+df$Frac_Level<-discretize(df$Fracture, method = "frequency", breaks = 6, labels = c("Very Low", "Low","Low-Moderate", "High-Moderate", "High", "Very High"))
+df$LB_Level<-discretize(df$Low_Back, method = "frequency", breaks = 4, labels = c("Very Low", "Low", "High", "Very High"))
+df$Sh_Level<-discretize(df$Shoulder, method = "frequency", breaks = 4, labels = c("Very Low", "Low", "High", "Very High"))
+df$HIC_Level<-discretize(df$HIC_Total, method = "frequency", breaks = 7, labels = c("Very Low", "Low","Low-Moderate","Moderate", "High-Moderate", "High", "Very High"))
+df$HIC_Per_Level<-discretize(df$HIC_Rate, method = "frequency", breaks = 5, labels = c("Very Low", "Low","Moderate", "High", "Very High"))
+  
+#change Labour force variables into factors 
+df$Emp1524_Level<-discretize(df$EmpPer_1524, method = "fixed", breaks = c(0, median(df$EmpPer_1524), max(df$EmpPer_1524)), labels = c("Below Average","Above Average"))
+df$Emp2554_Level<-discretize(df$EmpPer_2554, method = "fixed", breaks = c(0, median(df$EmpPer_2554), max(df$EmpPer_2554)), labels = c("Below Average","Above Average"))
+df$Emp55plus_Level<-discretize(df$EmpPer_55plus, method = "fixed", breaks = c(0, median(df$EmpPer_55plus), max(df$EmpPer_55plus)), labels = c("Below Average","Above Average"))
+
+#change contra variable into factors
+df$Contra_level <-discretize(df$CONTRA_Total, method = "fixed",breaks=c(0,1,2,5,46), labels = c("None", "Low","Moderate", "High") )
+
+
+#Remove numeric variables
+colnames(df2)
+data<-df[c(28, 1:13,29:37)]
+
+str(data)
+```
+
+
+```{r}
+
+write.csv(data, file = "Data_trans_claims_fac.csv")
+
+```
+

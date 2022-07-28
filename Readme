@@ -1,66 +1,63 @@
-WSIB CLAIMS PROJECT
+WSIB CLAIMS and INSPECTIONS PROJECT
 
-INTRODUCTION
+Current project
+The current study will consider the WSIB claims, high impact claims for an industry and region combination and investigate how these related to the workplace visit findings by 
+Ministry of Labour inspectors.  This project will be a first step in trying to predict the expected number of allowed time injuries made to the WSIB based on the number of 
+workplace visits to a workplace in a specific region of the province and industry as well as the number of contraventions found during the visit.  Additional information about 
+the labour force make up focusing on age groups, was incorporated into the data.
+The current project looks to identify characteristics of employees and workplaces, and interactions which may help determine the likelihood of workers experiencing injuries 
+resulting in the submission of a claim to the WSIB, specifically whether the industry or region of the workplace show any influence on the rates of claims made.   In so doing, 
+the project aims to provide insight into future strategies for the ministry to better target preventative efforts and improve the safety of workplaces in Ontario.  
 
-The project looks at three different types of claims made to the WSIB between the years 2011 - 2019.  The Method Diagram file outlines the applied techniques.
-
-Data files were obtained from the WSIB by the Numbers portal (https://www.wsib.ca/en/bythenumbers).  Three reports were generated, one for each type of claim:
-No Lost Time (no_lost_time.csv), Lost Time (lost_time.csv), and Fatalities (fatalities.csv) for the years 2011 to 2019.
 
 For each report the following filters were applied on the "Report Builder":
-Injury/Illness year --> 2011-2019
+Injury/Illness year --> 2019
 Industry Sector --> all except Schedule 2 and Unknown
-Age --> all except NA
-Gender --> all except NA
+
+Questions explored
+Which industries see the highest number of claims and inspections? If differences exist, are they significant?
+
+Are there differences between regions and industries in the number of total claims as well as rate of high impact claims significant?
+
+Does a higher proportion of younger workers (ages 15-24) show association with higher level of claims approved by the WSIB?
+
+When considering information about the number of workplace visits conduced by the Ministry of Labour inspectors, are any of the 
+attributes included in the study suitable to help predict which industries or regions in the province of Ontario will have various levels of different types of claims?
+
 
 An additional file containing the NAICS codes for each industy is also included.
 
-DATA PREPARATION (DataPrep.rmd)
+DATA PREPARATION (1 Data preparation.rmd)
 R code was used to prepare the data.  The code in the DataPrep.rmd file reads each data file, collapses the "Year" column, combines the files via inner join, 
 checks for NA values and writes the end result.  Two files were written as a result; file contatining all three types of claims WSIB_data.csv 
 (No lost time, lost time and fatality) as well as a file containing only the non-fatal claims WSIB_no_fat.csv (No lost time, lost time).
 
-EDA(File: WSIB_Profile_Report.html)
+EDA(File: 2. EDA & Profile_Report.html)
 The Exploratory Data Analysis report was prepared using Python.  Code for this portion is included in EDA.ipynb. 
 The ProfileReport using the pandas package was prepared as WSIB_Profile_Report.
 Similarily to the data files, an additional profile report was created for the data containing only non-fatal claims --> WSIB_no_fat_Profile_Report.
 
-Data Transformations (Transformations.ipynb)
+Data Transformations (3 Encoding)
 Python code using Jupyter Notebook for the transformations was applied to the data.  Prior to any transformations, the data was first split into train/test sets using 
-70/30 ratio.  Boxplots were generated for the three types of claims revealing a skewed distributions as well as outliers for the NLT and LT Claims variables.
+70/30 ratio. 
 
 TEST FOR NORMALITY: Next the train set was tested for normality using the Shapiro-Wilk test and results for all three types of claims showed evidence that the samples are not
 normally distributed (p<0.01).
-HANDLING OUTLIERS:Outliers were identified using the interquartile range.  Any points beyond the fences were considered outliers.  
-For the lower values, points below 1.5 times the IQR less than the first quartile and for the upper values, points above 1.5 times the IQR more than the third quartile
-were considered outliers.  There were no outliers identified in the lower bound of any of the variables. Eight ouliers (1.1%) were identifed for the NLT_Claims, three(0.4%) for 
-LT_Claims, and 42 for F_Claims.  The outliers for each varialbe were replaced with the median values as the data was discrete.
 
-YEO-JOHNSON TRANSFORMATION: Because the data included zero values, the Yeo-Johnson transformation was applied in an attempt for the data to approach a normal distribution.
-After the transformation, variables were once again tested for normality and skewness.  NLT_Claims were no longer skewed (p=0.183) but remained non-normal (p<0.01).
-LT_Claims were also no longer skewed (p=0.20) and remained non-normal (p<0.01).  The transformation did not have effect on F_Claims as the variable continued to be both 
-skewed and non-normal.
+DISCRETIZATION: The numeric variables were then transformed into categories using the equal-frequency method as this method is preferred for modelling.  
+The number of bins for each variable was the maximum allowed by the function.  Maximum was reached when the addition of another bin would create two identical internals.
 
-DISCRETIZATION: The three claim variables were then transformed into categories using the equal-frequency method as this method is preferred for modelling.  
-NLT_Claims and LT_Claims were transformed to 6 bins, each with approximately 120 observations.  The F_Claims variable having a much smaller range was divided into 
-4 bins.  However a warning suggested to decrease the size of bins as those with widths too small (<=1e-8) were removed by the function, resulting with only two bars
-on the histrogram.  When the number of bins was reduced to 3 or below, a single bar, representing a single bin, was visible.
+Feature Selection (file: 4. Feature Selection)
+Two methods were explored and tested during training.  Since the data was categorical Chi-squared and RFE methods were applied.
 
-Transformed data was written into csv file --> Transformed.csv
+CLASSIFICATION MODELs (Classification Model.ipynb)
+The following three classification models were trained, and optimized.
+
+Multinomial Logistic Regeression by claims level to form a 5x5 confusion matrix 
+K Nearest Neighbours classification
+Random Forest Classification 
+
+Perform repeated  k-fold cross validation of the models
+Optimization for model specific hyperparameters (eg. K in KNN, number of trees in Random Forest)
 
 
-CLASSIFICATION MODEL (Classification Model.ipynb)
-Due to the nature of the data and the number of classes of the dependent variable(s), a Multinomial Logistic Regression was selected for classification.
-The independent variables were encoded as follows: 
-INDUSTRY
-'Forestry':1, 'Manufacturing':2, 'Mining':3, 'Chemicals/Process':4, 'Electrical':5, 'Health Care':6, 'Services':7, 'Transportation':8, '0.0':0, 
-'Food':9, 'Municipal':10, 'Agriculture':11, 'Construction':12, 'Education':13, 'Automotive':14, 'Primary Metals':15, 'Pulp & Paper':16
-AGE
-'15-19':1, '20-24':2, '25-29':3, '30-34':4,'35-39':5, '40-44':6, '45-49':7, '50-54':8, '0.0':0,'55-60':9, '60-64':10, '65+':11
-GENDER
-'Female':1, 'Male':2
-
-A repeated k-fold cross-validation technique was used.
-
-The training data was split into train and test (70/30), a Multinomial Logistic Regression model was fit.
-A confustion matrix for the model was generated representing the 6 categories of NLT_Claims and a classification report to show precision, recall, and F1-score.
